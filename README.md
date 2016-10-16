@@ -1,4 +1,4 @@
-# CapitalOne-2017-Summit
+# AirplaneCrashData-WebGL-Visualization
 This is my Submission for part 2 of the Capital One Engineering Summit 2017:   
 https://www.mindsumo.com/contests/global-data-visualization
 
