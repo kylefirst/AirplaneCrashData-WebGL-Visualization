@@ -1,0 +1,5248 @@
+﻿Fort Myer, Virginia 1
+Atlantic City, New Jersey 5
+Victoria, British Columbia, Canada 1
+the North Sea 14
+Johannisthal, Germany 30
+Tienen, Belgium 21
+Cuxhaven, Germany 19
+Jambol, Bulgeria 20
+Billericay, England 22
+Potters Bar, England 19
+Mainz, Germany 27
+West Hartlepool, England 20
+Gent, Belgium 20
+Northern Germany 23
+Texel Island, North Sea 21
+Vlieland Island, North Sea 24
+western Denmark 18
+Luneville, France 18
+the Mediterranean 23
+Helgoland Island, Germany 22
+Ameland Island, North Sea 19
+Elizabeth, New Jersey 1
+Cleveland, Ohio 1
+Dix Run, Pennsylvania 1
+Newcastle, England 1
+Cantonsville, Maryland 1
+English Channel
+Long Valley, New Jersey 1
+New Paris, Indiana 1
+Newark, New Jersey 1
+Newark, New Jersey 1
+Heller Field, New Jersey 1
+Oskaloosa, Iowa 1
+Cleveland, Ohio 1
+Bedford, England 1
+College Park, Maryland 1
+Morristown, New Jersey 2
+Pemberville, Ohio 2
+Hillersburg, Pennsylvania 1
+Port Vendres, France 2
+Valencia, Spain 2
+Batavia, Illinois 1
+Tie Siding, Wyoming 1
+Cricklewood, England 4
+Barcelona, Spain 1
+Mendotta, Minnisota 1
+La Crosse, Wisconsin 3
+Gibraltar 2
+Elko, Nevada 1
+Point Cook, Australia 1
+Mitchel Field, NY 1
+Cleveland, Ohio 1
+Rock Springs, Wyoming 1
+San Francisco, California 1
+Toulouse, France 2
+River Humber, England 46
+Paris, France 5
+Murchinson River, Australia 3
+Paris, France 5
+Norfolk, Virginia 34
+Grandvilliers, France 7
+Pao Ting Fou, China 17
+Brooklands, England 3
+Nittany Mt, Ohio 1
+Folkestone, Kent, England 3
+Cadix, Spain 3
+Indianapolis, Indiana 1
+Venice, Italy 4
+Larache, Morocco 2
+Fez, Morocco 1
+Ajaccio, France 3
+Barcelona, Spain 1
+Cheyenne, Wyoming 1
+Meadville, Pennsylvania 1
+Monsures, France 6
+Bucharest, Romania 2
+Colton, Ohio 1
+Berks, England 6
+Russia 2
+Castalia, Ohio 1
+the Mediterranean Sea 52
+Egbert, WY 1
+Grampian, Pennsylvania 1
+the English Channel 3
+Barranquilla, Colombia 3
+United States 1
+Cabrerolles, France 1
+Goshen, Indiana 1
+Purley, England 8
+Tiflies, Georgia, USSR 5
+Alicante, Spain 4
+Alicante, Spain 2
+Landrécies, France 4
+Alicante, Spain 2
+Rosas, Spain 1
+Budapest, Hungary 1
+Caldwell, Ohio 14
+Toul, France 3
+Boulogne-sur-Mer, France 2
+Montpelier, Ohio 1
+Staaken, Germany 1
+English Channel 1
+Rossaugpt, Czechoslovakia 7
+Wolvertem, Belgium 2
+Juist, Germany 4
+Hurst, Kent, England 4
+New York, New York 2
+Bueren, Germany 4
+English Channel 0
+Cape Bojador, Morocco 3
+Medford, Oregon 1
+Lille, France 2
+Rabat, Morocco 1
+Tambo, Qld, Australia 3
+King Hill, Idaho 1
+Goshen, Indiana 1
+Floh, Germany 2
+Algiers, Algeria 1
+Amoneburg, Germany 5
+Sevenoaks, England 1
+Willington, Connecticut 1
+Hadley, New Jersey 7
+Saale, Germany 2
+Schleiz, Germany 6
+Thies, Mauritania 2
+New Brunswick, New Jersey 4
+Strasburg, France 1
+the Gulf of Finland 6
+Corunna, Indiana 1
+Almeria, Spain 2
+Abuerio, Spain 1
+France 4
+Canajoharie, New York 3
+Solis, Uruguay 2
+Tarragona, Spain 2
+France 1
+Almeria, Spain 1
+Marquette, Nebraska 1
+Rio de Janeiro, Brazil 10
+Cape Griz Nez, France 2
+Federal, Wyoming 1
+Minuesa, Spain 9
+Dearborn, Minnesota 2
+Radevormwald, Germany 3
+Frankfurt, Germany 5
+Lebo, Kansas 1
+the Gulf of Finland 6
+Purley, England 4
+Waalhaven harbor, Netherlands 1
+Port Townsend, BC, Canada 7
+Toul, France 3
+Adelaide Hills, Australia 1
+Pocatello, Idaho 7
+Heroldbach, Germany 3
+Gerona, Spain 3
+Polk, Pennsylvania 1
+Valence, France 1
+Gibraltar 1
+Edgerton, Ohio 3
+Bristolville, Ohio 1
+Edgerton, Ohio 3
+Spur, Texas 5
+Brazil 14
+Rio de Janeiro, Brazil 6
+Letzlingen, Germany 3
+Huron, Ohio 1
+Chattanooga, Tennessee 4
+Reims, France 2
+Stafford Springs, Connecticut 1
+Cove, Oregon 1
+Corfu, Greece 2
+Morgantown, West Virginia 1
+Morocco 2
+Newark, New Jersey 14
+Beaumont, California 4
+San Diego, California 6
+Hungary 2
+Algiers 4
+Santiago de Cuba, Cuba 2
+Barcelona, Spain 1
+Dungeness, England 7
+St. Paul, Minnesota 1
+Lake Constance, Switzerland 5
+Columbus, Ohio 1
+Clovis, New Mexico 4
+Perpignan, France 1
+Sochi, Russia 1
+Elm, Germany 4
+Needles, California 1
+Mt. Taylor, New Mexico 8
+Jask, Iran 3
+Larache, Morocco 5
+Jacumba, California 1
+Mt Lamentation, Connecticut 1
+Spezia, Italy 7
+Mount Vernon, Ohio 1
+Bremerton, Washington 2
+Cerro del Carbon, Mexico 4
+Godstone, Surrey, England 7
+Corsica, France 3
+Vancouver, Washington 1
+Chagrin Falls, Ohio 1
+Mediterranean Sea 3
+Berlin, Germany 2
+Amarillo, Texas 5
+Brawnson, Nebraska 1
+Antananarivo, Madagascar 3
+Oceanside, California 16
+Ceuta, Spain 2
+Kansas City, Kansas 5
+Hartford, Connecticut 1
+Marden, England 2
+Jersey City, New Jersey 4
+Buenos Aires 3
+Boston, Massachusetts 1
+Bornholm, Denmark 5
+Arkansas Pass, Texas 5
+Iglau, Czechoslovakia 10
+Croydon, England 2
+Southesk, Saskatchewan, Canada 3
+Beauvais, France 48
+Dresden, Germany 8
+La Rache, Morocco 4
+Prince Rupert, BC, Canada 3
+Neufchatel, France 3
+Brookston, Indiana 1
+of Santos, Brazil 1
+Techachapi Mountains, California 3
+Shanghai, China 4
+Melle, Belgium 2
+Bluff Mountain, Washington 1
+Wairoa, New Zealand 1
+Bagot, Manitoba, Canada 2
+Spain 1
+New South Wales, Australia 8
+Bazaar, Kansas 8
+Letschen, Germany 2
+Burbank, California 2
+Wampit, Australia 1
+Bellefonte, Pennsylvania 1
+Sandoway, Burma 4
+Walbridge, Ohio 2
+Saarbrucken, Germany 4
+Chicago, Illinois 2
+Temora, Australia 2
+Centralia, Illinois 1
+Kurudjevo, Bulgaria 7
+Cincinnati, Ohio 6
+Chicago, Illinois 1
+Oakland, California 4
+Novia Scotia, Canada 3
+Brazil 3
+Camden, New Jersey 5
+Sir Lowry's pass, South Africa 3
+Salt Lake City, Utah 1
+Tsinan, China 3
+Pasco, Washington 1
+Kewanee, Illinois 2
+Bangkok, Thailand 5
+Algiers 2
+Springfield, Ohio 4
+Colvin Park, Ilinois 1
+Lebec, California 8
+Miami, Florida 5
+Marcellus, Michigan 1
+Rio Vista, California 1
+Setiba, Brazil 3
+Saint Louis, Illinois 2
+Calimesa, California 7
+Steubenville, Ohio 1
+Syria 3
+Bedford, Ohio 1
+Fort Wayne, Indiana 1
+Portland, Oregon 2
+Burbank, California 3
+Mount El Plomo, Vitacura, Chile 9
+Beyrouth, Lebanon 1
+Tubergen, Germany 2
+Salt Flats, Texas 3
+Selsdon Park, England 1
+Byron Bay, Australia 3
+Port Etienne, Mauritania 1
+Villa Monte, Bolivia 2
+Ramsgate, England 2
+Echterpfuhl, Germany 5
+Marianna, Arkansas 2
+Amarillo, Texas 2
+Rocky Ridge, Colorado 1
+Wau, Australia 2
+Algiers 1
+Newark, New Jersey 2
+Marietta, Georgia 1
+Bourne, Texas 1
+Eugene, Oregon 1
+Mendoza, Argentina 2
+Hayward, California 3
+Dixmude, Belgium 15
+Hemkenrode, Germany 1
+Barnegat, New Jersey 73
+Mt. Terrione, Italy 6
+Traunstein, Germany 4
+Viladrau, Spain 6
+Bowling Green, Virginia 1
+Quay, New Mexico 5
+Ljubljana, Yugoslavia 8
+Chesterton, Indiana 10
+Etobon, France 2
+Portland, Oregon 4
+Moriarty, New Mexico 1
+Tsinan, China 8
+Kharkov, Ukraine, USSR 14
+Wedron, Illinois 2
+Hamburg, Germany 7
+Eshowe, South Africa 4
+Ruysselede, Belgium 10
+Corbigny, France 14
+Carombe, France 2
+Salt Lake City, Utah 8
+Rio de Oro, Morocco 1
+Petersburg, Illinois 4
+Pereira, Colombia 5
+Lima, Peru 3
+Ningpo Bay, China 3
+English Channel 6
+Croydon, England 2
+Mongaup Mountain, New York 7
+Junin, Argentina 5
+Chausseehausen, Germany 1
+Burbank, California 1
+San Bernardino, California 3
+Tuttlingen, Germany 12
+Bahia, Brazil 2
+Ningbo, China
+Amazonia, Missouri 5
+Winton, Australia 3
+Bass Strait, Australia 11
+Kiapit, Australia 2
+Longreach, Australia 4
+Longreach, NSW, Australia 4
+Amazonia, Montana 2
+Salchau, Germany 3
+Columbia, Missouri 1
+Palma Soriano, Cuba 4
+Rutbah Wells, Syria 7
+Sunbright, Tennessee 1
+Pittsburgh, Pennsylvania 1
+Stettin, Germany 11
+Schievelbein, Germany 3
+El Arish, Egypt 3
+Samland, Germany 5
+Beauvais, France 1
+Brilon, Germany 7
+Walsenberg, Colorado 1
+Atlanta, Missouri 5
+Flint, Michigan 3
+Moscow, Russia 50
+Glendo, Wyoming 1
+Maywood, Illinois 2
+San Barbra, Honduras 6
+Medellin, Colombia 17
+Amsterdam, Netherlands 6
+Chandeleur Island, Mississippi 2
+Pian Giacomo, Switzerland 13
+Hangow, China
+Gilmer, Texas 4
+Glendo, Wyoming 3
+Walakpa, Point Barrow, Alaska 2
+Burbank, California 3
+Finders Island, Victoria, Australia 5
+Cheyenne, Wyoming 12
+Gulf of Finland 6
+Troy, New York 1
+Cheyenne, Wyoming 4
+Nhambupe, Brazil 4
+Juticalpa, Honduras 14
+Fort Worth, Texas 1
+Istres, France 3
+Tours, France 1
+Croydon, England 11
+Breslau, Germany 3
+Alexandria, Egypt 12
+Goodwin, Arkansas 17
+Cordillera, Boliva 13
+Ajaccio, Corsica, France 6
+Denton, Texas 1
+South AtlantiOcean 4
+Tengya, China 0
+Amemeca, Mexico 14
+Pavillon, New York 2
+Uniontown, Pennsylvania 13
+Port of Spain, Trinidad 3
+Turin, Italy 7
+Switzerland 3
+Senlis, France 2
+Basel, Switzerland 2
+Mount Waverley, Australia 2
+Malmo, Sweden 1
+Hannover, Germany 1
+Mt. Lihesten, Norway 7
+Channel Islands, Jersey 7
+Mazamet, France 3
+Mexico 1
+St. Louis, Missouri 8
+Choco, Colombia 2
+Altenkirchen, Germany 2
+Mirabella, Greece 2
+English Channel 2
+Walsenberg, Colorado 3
+Napierville, Illinois 4
+Mexico 1
+Tabarz, Germany 11
+Moscow 9
+Nurnberg, Germany 4
+London, England 2
+Grenoble, France 6
+Dakar, French West Africa 5
+Croydon, England 15
+Salt Lake City, Utah 7
+Kellogg, Idaho 2
+Milford, Pennsylvania 14
+Dallas, Texas 6
+Nanking, China
+Newhall, California 12
+Newhall, California 5
+Oran, Algeria 12
+San Francisco, California 11
+McPherson Ranges, Queensland, Australia 5
+Bathurst, Gambia 4
+Ouroux, France 5
+Clifton, Pennsylvania 13
+Wetnum, Germany 2
+Lakehurst, New Jersey 35
+Stuttgart, Germany 4
+Lae, New Guinea 2
+Hal, Belgium 15
+Wadi Halfa, Sudan 9
+Cristobal, Panama 14
+Chilang Point, Bias Bay, China 3
+Daytona Beach, Florida 4
+San Luis, Argentina 3
+Wau, Australia 1
+Corsavy, France 8
+Phaleron Bay, Greece 2
+Palembang, Netherlands Indies 4
+Haydens Peak, Wyoming 19
+Mannheim, Germany 10
+Ostende, Belgium 11
+Croydon, London 3
+Brindisi Harbor, Italy 2
+Saint Sauveur, France 2
+Kasperske Hory, Czechoslovakia 3
+Frankfurt, Germany 6
+Bozeman, Montana 10
+Pago Pago, U.S. Samoa 7
+North Pine, Ontario, Canada 1
+San Clemente Island, California 11
+Kandalaksha, Russia 13
+Marseille, France 8
+Guadalupe, Mexico 2
+Pontoise, France 3
+Wawona, Cailifornia 9
+Datia, India 7
+Somerton, Australia 1
+Formia, Italy 19
+Balbuena, Mexico 1
+Mangere, New Zealand 2
+Saugus, California 9
+Sao Paulo, Brazil 2
+Cleveland, Ohio 10
+Germany 3
+Alberno Canal, BC, Canada 1
+Tanganyika 3
+Mount  Mercedario, Chile 4
+Billings, Montana 10
+Sardinia, Italy 20
+Stulpica, Romania 14
+Bogota Colombia 1
+Kisumu, Kenya 4
+PacifiOcean between Manila and Guam 15
+Shishijima, Japan 6
+Debrecen, Hungary 12
+Kiel, Germany 16
+Guanabara, Brazil 9
+Bucharest, Romania 7
+Montnago, Italy 13
+Wangmoon, China 14
+Innisfail, Australia 5
+Bathurst, Gambia 4
+Grisons, Switzerland 13
+Soest, Germany 20
+Mt. Dandenong, Australia 18
+Somerset, England 2
+Channel Islands, Jersey 14
+Schiphol, Amsterdam 6
+Regina, Saskatchewan, Canada 2
+Bathurst, Gambia 11
+Bagdad, Iraq 4
+Point Reyes, California 7
+Kubashima, Japan 10
+Amsterdam, Netherlands 4
+Darwin, Australia 13
+Paris, France 5
+Miles City, Montana 4
+Rio de Janeiro, Brazil 9
+Katherine, Australia 4
+AtlantiOcean between N.Y. and Bermuda 3
+Mediterranean Sea 10
+Haren, Belgium 3
+Manzanares, Colombia 8
+Adler, Washington 10
+Hannover, Germany 2
+AtlantiOcean 6
+Oklahoma City, Oklahoma 8
+Marrakech, Morocco 9
+Mocambique 2
+Marrakech, Morocco 9
+Guayaquil, Ecuador 1
+Vlissingen, The Netherlands 3
+Konstanz, Switzerland 6
+Barcelona, Spain 7
+Rio de Janerio, Brazil 14
+Copenhagen, Denmark 5
+Lahore, India 2
+Hannover, Germany 7
+North Sea 1
+Gosport, England 2
+South of Gibraltar 10
+Malta-Luqa 5
+Mogador, Morocco 7
+Denpasar, Indonesia 8
+Gulf of Oman 8
+Loch Lomond, Scotland 3
+El Segundo, California 5
+Prangli Island, Gulf of Finland, Estonia 9
+Ouistreham, France 1
+Gulf of Tonkin
+Canberra, Australia 10
+Cluj, Romania 14
+Lovettsville, Virginia 25
+Changyi, China 9
+Berlin, Germany 2
+Centerville, Utah 10
+Brauna, Germany 29
+Rio de Janeiro, Brazil 18
+Mediterranean Sea 6
+Chicago, Illinois 10
+South Africa 10
+Nagy-Varad, Hungary 12
+Kian, China 5
+Robertson, Missouri 2
+Armstrong, ON, Canada 12
+Atlanta, Georgia 9
+Trontheim, Norway 3
+Elands Bay, South Africa 10
+Bucharest, Romania 15
+Sea of Japan 18
+Arran, Scotland 22
+Ayr, Scotland 22
+Sao Paulo, Brazil 8
+Bollemont, France 13
+Campbeltown, Argyll, Scotland 10
+San Juan, Puerto Rico 2
+Moorhead, Minnesota 14
+St. Thomas, Ontario, Canada 20
+Miami, Florida 3
+Las Vegas, Nevada 22
+Manado, Indonesia 11
+Samarinda, Borneo
+Kupang, Timor
+Kupang, Timor 13
+English Channel, Plymouth, England 9
+Belmont, Brisbane, Australia 9
+Indian Ocean 20
+Broome, Australia 19
+Wyndham, Australia 8
+North Sea 7
+Kunming, China 13
+Pine Creek, Australia 12
+Salt Lake City, Utah 17
+Miles City, Montana 3
+Premier, West Virginia 21
+Broken Head, Australia 10
+Llanfair, England 13
+Algiers, Algeria 4
+Trinidad 13
+Invergordon, England 13
+Dunbeath, Scotland 13
+Ameur el Ain, Algeria 25
+Kunming, China
+Coamo, Puerto Rico 22
+Botwood, Newfoundland 11
+Palm Springs, California 12
+Norway 10
+Fairfield, Utah 17
+Wien, Vienna 2
+River Tagus, Lisbon, Portugal 13
+Paramarino, Dutch Guyana 35
+the Brazilian coast,  AtlantiOcean 26
+Ukiah, California 19
+Chaparra, Peru 14
+Gander, Newfoundland 19
+Seattle, Washington 10
+Lisbon, Portugal 25
+Luishui, China 3
+Himalaya, China 3
+Archerfield Aerodrome, Queensland, Australia 24
+Port Moresby, New Guinea 13
+the coast of France 17
+Red Springs, North Carolina 20
+Mackay, OLD, Australia 40
+Khartoum, Sudan 17
+Khartoum, Sudan 16
+Gibraltar 12
+Brandon Head, Ireland 12
+Trammel, Kentucky 20
+Ploesti, Romania 10
+Townsville, Australia 27
+Fort Hertz, China 3
+Rio de Janeiro, Brazil 18
+Galveston, Texas 22
+Maxton, North Carolina 25
+Calcutta, India 20
+Centerville, Tennessee 15
+St. Donat, Quebec, Canada 24
+Hallo, Sweden 13
+Columbus, Georgia 20
+Poona, India 1
+Kunming, China 2
+Kunming, China 3
+Port Moresby, New Guinea 15
+Suifu, China 3
+Canal Creek, Australia 31
+Lakeside, Utah 25
+Belgrad, Yugoslavia 5
+Memphis, Tennessee 24
+China 2
+Eubeoa, Greece 16
+New Guinea 21
+Nome, Alaska 6
+Belgrad, Yugoslavia 5
+Frederikstad, Norway 9
+Montreal, Canada 16
+Between Calcutta to Dinjan, China 12
+Calcutta, India 14
+Carentan, France 22
+Flamanville, France 22
+Barneville, France 22
+Kunming, China 6
+Kweilin, China 2
+Porto Alegre, Brazil 10
+North AtlantiOcean 26
+Port Logan, Scotland 22
+Funafuti, Gilbert Islands, PacifiOcean 22
+Naper, Nebraska 28
+Antilla, Cuba 17
+Blythburgh, England 2
+Freckelton, England 3
+Preswick, Scotland 20
+Sao Paulo, Brazil 16
+Belgrad, Yugoslavia 5
+Mossman, Queensland, Australia 20
+Alaska 19
+Rio Doce, Brazil 17
+Dijon, France 9
+Texas 12
+Sadiya, India 3
+Bosnia 7
+Sydney, Australia 1
+Telemark, Norway 15
+Hungary 1
+Birkenhead, England 24
+Hanford, California 24
+Seljord, Norway
+Lewes, England 25
+Tegucigalpa, Nicaragua 16
+Kenya 15
+Malmo, Sweden 10
+Dinjan, China 3
+Van Nuys, California 9
+AtlantiOcean 5
+English Channel 3
+Dinjan, India 4
+Port of Spain, Trinidad 23
+Burbank, California 24
+China 4
+Kunming, China 3
+Timor, Indonesia 11
+Redesdale, Australia 10
+Montieri, Italy 23
+Nunters Burgh, England 23
+Oakland, California 24
+Lagoa Santa, Brazil 11
+Casablanca, Morocco 13
+Marion, Virginia 17
+Coral Sea, Australia 24
+Kunming, China 3
+Morgantown, West Virginia 20
+Perth, Australia 13
+Sweetwater, Texas 25
+Munchen, Germany 21
+North Barrule, Isle of Man, England 31
+Washington D.C. 6
+Manus Island, New Guinea 21
+Hindhead, England 30
+Roye, France 31
+Netherlands, New Guinea 20
+Drewin, Ivory Coast 21
+China 3
+Gealdton, Australia 2
+Swanage, England 27
+Bangalore, India 2
+North AtlantiOcean 15
+Kisumu, Kenya 28
+Florence, South Carolina 3
+New York, New York 3
+San Luis Potosi, Mexico 12
+Fort de France, Martinique 4
+Ixtaccihuati, Mexico 16
+Florence, South Carolina 22
+Milne Bay, New Guinea 11
+Kansas, Missouri 23
+Puncak Jaya, Papua New Guinea 29
+Chihkiang, China 20
+Lakeland, Florida 2
+Elvetham, England 23
+Rennes, France 26
+Melsbroek, Belgium 31
+Peking, China 59
+Timor Sea, AtlantiOcean 25
+Between Shanghi and Canton, China 31
+Chiringa, India 14
+Tarapoto, Peru 5
+Chihchiang, China 45
+Herrenalb, Germany 26
+Chuka, India 44
+Corpus Christi, Texas 22
+Boccadi, Italy 24
+Picinisco, Italy 20
+Castel, Libya 29
+Himalayas 44
+New Britain Island, New Guinea 28
+White's Farm, England 27
+Rochefort , France 28
+the Florida coast 14
+Billings, Montana 17
+Voksenkollen, Norway 15
+Bangui, French Equatorial Africa 8
+New York City, New York 1
+Birmingham, Alabama 3
+Changchun, China 18
+Marseilles, France 23
+Cheshire, Connecticut 17
+Crowsnest Pass, Alberta, Canada 7
+Le Mans, France 11
+Mt. Elk, Wyoming 21
+Negros, Philippines 20
+Charlottetown, PE, Canada 1
+Live Oak Springs, California 27
+Prague, Czechoslovakia 10
+Hobart, Tasmania 25
+Nanking, China 20
+Between Chungking and Shanghai, China
+Hobart Mills, California 26
+Ceylon, Cocos Islands, Indian Ocean 10
+Rabat, Malta 4
+Shensi, China 14
+Liberiad, Nicaragua 19
+Pindi-Khut ,India 12
+Munson, Florida 28
+Richmond, Virginia 27
+Oslo, Norway 13
+Amalfi, Italy 30
+Abeokuta, Nigeria 18
+Taboga Island, Panama 23
+Malaya 18
+Pau, France 2
+Holyoke, Massachusetts 25
+Reading, Pennsylvania 5
+Tsinan, China 13
+Cuenca, Ecuador 30
+Goodland, Kansas 13
+the Panama coast 20
+Bassein, Burma 22
+Oslo, Norway 3
+Lakehurst, New Jersey 4
+Malta-Luqa, Malta 1
+Rouen, France 8
+Moline, Illinois 2
+Cairo, Egypt 6
+Holtug, Denmark 22
+Le Bourget, France 20
+Elko, Nevada 21
+Bathurst, Gambia 24
+Nome, Alaska 4
+Estevan, Saskatchewan, Canada 21
+Brussels, Belgium 1
+Puesto Araujo, Colombia 17
+Gander, Newfoundland 27
+Tripoli, Libya 25
+Lochi Mountain, China 31
+Hong Kong International Airport 19
+Rio Doce, Brazil 25
+Stephenville, Newfoundland 39
+Penang, Malaya 21
+Apeldoorn, The Netherlands 1
+Cheyenne, Wyoming 2
+Sefrou, Morocco 16
+Laramie, Wyoming 13
+Chitral, India 11
+Gebel Kalamoun, Egypt 1
+St Leger-la-Montagne, France 23
+Cleveland, Ohio 2
+Lebec, California 11
+Cofre de Perote, Mexico 15
+Amsterdam, Netherlands 26
+North PacifiOcean 23
+San Jose, Costa Rica 22
+El Palomar, Argentina 5
+Meshed, Iran 24
+Toledo, Washington 32
+Osaka, Japan 24
+Mt. Banahaur, Philippines 12
+Caribbean, AtlantiOcean 7
+Rio de Janeiro, Brazil 21
+San Diego, California 12
+Lunghwa, Shanghai, China 87
+Michigan City, Indiana 2
+Walshville, Illinois 2
+Shannon, Ireland 13
+Sao Paulo, Brazil 11
+Carmel, New Jersey 3
+Tsingtao, China 38
+Laoag, China 7
+Lympne, England 8
+Galax, Virginia 18
+Puebla, Mexico 21
+Chongqing, China 19
+Croydon, Surrey, England 12
+Hong Kong 4
+Copenhagen, Denmark 22
+Hankow, China 25
+Lisbon, Portugal 15
+Harrington, Delaware 1
+Pedro Bernardo, Spain 12
+Denver, Colorado 2
+Terracina, Italy 16
+Bogota, Colombia 53
+Chungking, China 21
+China Sea, PacifiOcean 12
+Cordillera, Colombia 9
+L'isola di Ischia, Italy 13
+Mt. Moucherolles, France 23
+Medellin, Colombia 8
+Negombo, Sri Lanka 11
+Caracas, Venezuela 27
+Dakar, Senegal 6
+Columbus, Georgia 10
+Cuzco, Peru 22
+Vancouver, British Columbia, Canada 15
+Delaware Bay, New Jersey 4
+Hjedinsfjordur, Iceland 25
+Atsugi, Japan 40
+La Guardia Airport, Queens, New York 43
+Port Deposit, Maryland 53
+Gemenos, France 2
+Natal, Argentina 5
+Leesburg, Virginia 50
+Al Mayadin, Syria 14
+Eaeka, French Cameroons 13
+Melbourne, Florida 14
+Vichy ,France 1
+Az-Zubair, Iran 6
+Moron, Argentina 2
+Yumen, China 26
+Andes, Argentina 11
+North PacifiOcean 20
+New York, New York 3
+Malmo, Sweden 1
+Bucharest, Romania 3
+Hanksville, Utah 3
+Bahrain, Persian Gulf 10
+Harsiad, Norway 35
+El Paso, Texas 0
+Sylva, North Carolina 3
+Cartegena, Spain 41
+Bryce Canyon, Utah 53
+Annette Island, Alaska 18
+Mt. Hymettus, Greece 44
+Srinagar, India 25
+Barrio Rizal, Philippines 5
+Gallup, New Mexico 0
+Bouchox, France 2
+Ravello, Italy 20
+Newcastle, Delaware 5
+Phouznicie, Romania 13
+Yakutat, Alaska 13
+Montenegrin Mountains, Yugoslavia 22
+Trappa, Italy 20
+Seattle, Washington 8
+Goose Bay, Labrador 23
+Memphis, Tennessee 20
+Kunming, China 25
+Korangi Creek, India 23
+Leon, Mexico 5
+Paris, France 16
+Ruislip, England 1
+Savannah, Georgia 18
+Palestro, Algeria 9
+Ciudad Havajillo, Dominican Republic 31
+Oxon Hill, Maryland 5
+Mukden, China 3
+Salalah, Oman 12
+Diablo Mts., California 32
+AtlantiOcean, NE of Bermuda 31
+Jacksonville, Florida 1
+Ubrichstein, Germany 12
+Collesalvetti,  Italy 7
+St. Marcouf, France 14
+Davao, Philippines 12
+Columbus, Ohio 2
+Belem, Brazil 23
+Perpignan, France 4
+Heathrow Airport, London, England 20
+Skalafell, Iceland 5
+Chicago, Illinois 12
+Mt. Sanford, Alaska 30
+Sierra Cristais, Brazil 6
+Villa Pinzon, Colombia 14
+Monte Cardo, Corsica, France 19
+Berlin, Germany 15
+Shannon, Ireland 30
+Bogota, Colombia 32
+Magazini, Belgian Congo (Zaire) 31
+Mount Coron, France 10
+Vrede, South Africa 13
+Columbus, Ohio 2
+Bovingdon, England 3
+Albacete, Spain 4
+Ile of Man 6
+Mount Carmel, Pennsylvania 43
+Maiquetia, Venezuela 1
+Keerbergen, Belgium 8
+Northolt, Middlesex, England 32
+Djiring, French Indo-China 16
+Belem, Brazil 5
+PacifiOcean between Hong Kong and Macao 25
+Cap-des-Rosiers, Quebec, Canada 26
+Buenos Aires, Argentina 18
+Tsingtao, China 19
+1,200 miles Dakar, AtlantiOcean 52
+Karachi, Pakistan 4
+Port Underwood, New Zealand 2
+La Guaira, Venezuela 3
+Pasto, Colombia 25
+Winona, Minnesota 37
+Elizabethville, Belgium Congo 13
+Quirindi, Australia 13
+Trondheim, Norway 19
+Prestwick Airport, Scotland 40
+Mt. Ruapehu, New Zealand 13
+Edmonton, Alberta, Canada 2
+Glossop, England 13
+Cape Spencer, Alaska 17
+Mt. Macedon, Australia 3
+Liverpool, England 8
+Vehari, Pakistan 21
+Kiangwan, China 9
+Milan, Italy 7
+Taipei, Taiwan 2
+Bogata, Colombia 30
+Pilos, Greece 23
+Basalt Island, Hong Kong 33
+Madrid, Spain 27
+San Juan, Puerto Rico 32
+Mt. Argentari, Italy 12
+Seattle, Washington 14
+Caravelas Bay, Brazil 3
+Brandywine, Maryland 2
+Pelotas, Brazil 12
+Ras-el-Tin, Egypt 30
+Balihal Pass, India 13
+AtlantiOcean, Bermuda 20
+Succoth Glen, Lochgoilhead, Scotland 20
+Homer, Alaska 5
+Port Washington, New York 2
+Trinity Bay, Newfoundland 6
+Castel Benito, Libya 1
+Buenaventura Bay, Colombia 3
+Copenhagen, Denmark 27
+Huanuco, Peru 16
+Coventry, Warks, England 14
+Braemar Resevoir, Hong Kong 23
+Lodz, Poland 16
+Coolangatta, Australia 16
+Berlin, Germany 3
+Waikanae, New Zealand 15
+Superga, Italy 31
+Sibuyan Sea, the Philippine island of Elalat 13
+Malahasa Attica, Greece 22
+Florianpolis, Brazil 27
+San Juan, Puerto Rico 53
+Bari, Italy 33
+Guildford, Australia 18
+Bombay, India 45
+Chatsworth, California 35
+Seattle, Washington 2
+Chesterfield, New Jersey 16
+Jaquirana, Brazil 5
+Sao Francisco Bay, Brazil 5
+Salasaca, Ecuador 34
+Lurga Point, Ireland 8
+Oldham, England 24
+Bigstone Lake, Manitoba 21
+Leopoldville, Zaire 5
+Sault-aux-Cochons, PQ, Canada 23
+Mt. Popocatepetl, Mexico 24
+Castilla, Argentina 5
+Cheyenne, Wyoming 4
+San Miguel Island, Azores 48
+Arlington, Virginia 55
+Akron, Ohio 3
+Oslo, Norway 34
+Chaleyssin, France 5
+Dallas, Texas 28
+Taquaracucu, Brazil 20
+Vallejo, California 9
+Lanchow, China 38
+Hoikow, China 17
+Jungshahi, Pakistan 26
+Washington, D.C. 6
+Orizaba, Mexico 17
+Aulnay-sous-Bois, France 8
+Comilla, Pakistan 7
+Albacete, Spain 16
+Vacas, Bolivia 32
+Tamatave, Madagascar 14
+Iloilo,Philippines 4
+Snag, Yukon Territory 44
+North Sea 7
+Prague, Czechoslovakia 5
+Minneapolis, Minnesota 13
+Saigon, Vietnam 4
+Llandow Airport, Cardiff, Wales 80
+Ankara, Turkey 15
+Cap-Ferret, France 12
+Hatiara, India 3
+Santa Ana, Colombia 25
+Atsugi, Japan 35
+Chimborcza, Ecuador 15
+Lagens Air Force Base, Azores 16
+Myrtle Beach, South Carolina 39
+Teterboro, New Jersey 1
+Iheus, Brazil 13
+AtlantiOcean Florida 28
+Fonseca, Colombia 15
+Bahrain 46
+Bahrain 40
+Lake Michigan, 18 NNW of Benton Harbor, Michigan 58
+York, Australia 29
+Busan, South Korea 23
+Casablanca, Morocco 22
+Patharkot, India 22
+Bocoio, Angola 9
+O-shima Island, Japan 25
+Porte Alegre, Brazil 50
+Tunbukta, Algeria 26
+Fairfield, California 12
+Kampong Jenera, Malaysia 12
+Wadi Natrun, Egypt 55
+Utica, New York 16
+Tehran, Iran 8
+Kwajalein, Marshall Islands 26
+Zagreb, Yugoslavia 10
+Karlstad, Sweden 10
+Kyushu Island, Japan 23
+Casablanca, Morocco 4
+Almelund, Minnisota 6
+London, England 28
+London Heathrow, England 28
+Mont Blanc, France 48
+Butte, Montana 21
+Mt.  Tete de L'Obiou, France 52
+Surabaya, Indonesia 2
+Moran Junction, Wyoming 21
+Cuzco, Peru 9
+Khitka, Bhutan 3
+Chamaran, Iran 8
+Ruig Piner, France 5
+Bangui, French Equatorial Africa 46
+Katagiri, India 21
+Londrina, Brazil 9
+Valera, Venezuela 31
+Baguio, Philippines 38
+Penticton, British Columbia, Canada 2
+Santiago del Estado, Argentina 17
+Ixopo, South Africa 12
+Mt. Bukit, Besar,Thailand 10
+Philadelphia, Pennsylvania 7
+Reardon, Washington 10
+Civitavecchia, Italy 14
+An tung, Taiwan 16
+Hafnarfjorour, Iceland 20
+Terceira, Portugal 14
+Mt. Cameroun, Buea, Nigeria 29
+Yali, Colombia 2
+Sioux City, Iowa 16
+Mt. Butler, Hong Kong 24
+Corozal, Colombia 27
+the North Atlantic 53
+Pakistan 10
+Florianopolis, Brazil 3
+Rio Grande, Argentina 11
+Bogota, Colombia 26
+Refugio Pass, Santa Barbara, California 22
+Charleston, West Virginia 21
+Cape d'Arguilar, Hong Kong 16
+Key West, Florida 43
+Fort Wayne, Indiana 11
+Albuquerque, New Mexico 23
+Bordeaux, France 2
+Rancharia,  Brazil 6
+New Boston, Texas 10
+Rio de Janeiro, Brazil 2
+Medellin, Colombia 3
+Sanoyea, Liberia 40
+Rijeka, Yugoslavia 14
+Rocky Mountain Nat. Park, Ft. Collins, Colorado 50
+Tezpur, India 3
+Aracaju, Brazil 33
+Puy-de-Dôme, France 36
+Lyneham AFB, England 10
+Lae, New Guinea 7
+Thudamot, China 3
+Sitka, Alaska 37
+Gao, Mali 3
+Cochabamba, Bolivia 7
+Barilla Bay, Australia 2
+Moisville, France 5
+Ubatuba, Brazil 10
+Decoto, California 50
+Sao Paulo, Brazil 13
+Redwood City, California 3
+Ialas Baeares, Spain 39
+Bangalore, India 22
+La Paz, Bolivia 27
+Cerro Blanco, Mexico 8
+East Griqualand, South Africa 17
+North Atlantic 12
+Mt. Benson, BC, Canada 23
+Skopje, Yugoslavia 12
+Flores, Guatemala 25
+Tucumcari, Arazona 1
+Cairo, Egypt 5
+Calcutta, India 16
+Zurich, Switzerland 6
+San Luis Acatlan, Mexico 13
+Denver, Colorado 3
+Yaramunda, Papua New Guinea 3
+Elizabeth, New Jersey 56
+Tehran, Iran 22
+Little Valley, New York 26
+Fairbanks, Alaska 4
+Phoenix, Arizona 28
+Calcutta, India 3
+Andapa, Madagascar 6
+Com Edno, Wales 23
+Sandspit, BC, Canada 36
+Elizabeth, New Jersey 23
+Kikwit, Belgian Congo 15
+Kaneko, Japan 17
+Elizabeth, New Jersey 29
+Issaquah, Washington 7
+Burgio, Italy 31
+Yaounde, Cameroon 9
+Nagpur, India 3
+Uberlandia,  Brazil 8
+Nice, France 38
+Cebu, Philippines 3
+Sequin, Texas 15
+Gaspe, Quebec, Canada 4
+Frankfurt, Germany 44
+Gao, French West Africa 17
+Moscow, Russia 70
+San Felipe, Venezuela 12
+Baguio, Philippines 10
+New York, New York 2
+Mihara Volcano, Japan 37
+Agartala, India 4
+North of San Juan, Puerto Rico 52
+Whittier, California 29
+Aviateca 2
+Carolina, Brazil 50
+Delhi,  India 9
+Skien, Norway 11
+Ipoh, Malaysia 17
+Sao Paulo, Brazil 5
+Manaus, Brazil 6
+Atar, Mauritania 1
+BaltiSea 8
+Lakenheath AFB, England 11
+Northumberland, North Sea 11
+Rio de Janeiro, Brazil 1
+Palmeira de Goias, Brazil 24
+Trapani, Italy 7
+Khewra, West Pakistan 18
+Kosti, Sudan 2
+Farnsborough, England 1
+San Blas, Panama 46
+Guam, Mariana Islands 11
+Wadi Halfa, Sudan 3
+Tarbat Ness, Scotland 14
+San Fransisco do Paula, Brazil 14
+Kangnung, South Korea 25
+Flagstaff, Arizona 16
+Lake Chad, Chad 5
+Summit, Alaska 19
+Seoul, South Korea 44
+Anchorage, Alaska 20
+Shepard, Montana 9
+Mount Gannett, Alaska 52
+Tacoma, Washington 37
+Sofia, Bugaria 18
+Bermuda-Kindley Field, Bermuda 37
+Moses Lake, Washington 87
+Miami, Florida 3
+Caracas, Venezuela 3
+Tehran, Iran 27
+Chinmen Island, Taiwan 2
+Belfast, Northern Ireland 27
+Pin-la-Garenne, France 10
+Fish Haven, Idaho 40
+25 nm Agrigento, Italy 26
+Sinnai, Sardinia, Italy 19
+Newfoundland, Canada 39
+Muong Sai, Laos 18
+Eysines, France 5
+Cairo, Egypt 30
+Mobile, Alabama 46
+Karachi, Pakistan 11
+Windsor Locks, Connecticut 2
+Kalasahar, India 16
+Da Nang, Vietnam 8
+Random Island, Newfoundland 23
+Alvarado, California 35
+Itapebi, Brazil 14
+Mtara, Tanganyika 13
+Kingston, Jamaica 13
+Miandivazo, Madagascar 4
+Guwahati, India 3
+Selleck, Washington 7
+NW of Hanoi, Vietnam 30
+San Francisco Bay, California 8
+Jalalogori, West Bengal, India 43
+Hartland Point, England 10
+New Delhi, India 18
+Prince Rupert, BC, Canada 2
+Marshall, Texas 19
+Amsterdam, Netherlands 0
+Copiapo, Chile 7
+San Ramon Mtns., Costa Rica 11
+Phou-Lassy, French Indo-China 34
+Sao Paulo, Brazil 17
+Tachikawa AFB, Tokyo, Japan 129
+PacifiOcean, 325 miles east of Wake Island 58
+Milton, Florida 44
+Kanggye, North Korea 21
+Yellowknife, Northwest Territory, Canada 1
+Fethiye Point, Turkey 4
+Sharjah, United Arab Emirates 1
+Irish coast 14
+San Diego, California 2
+Barcelonnette, France 42
+Vail, Washington 21
+San Andres, Honduras 3
+Chablekal, Mexico 1
+Albany, New York 28
+Ankara, Turkey 5
+Louisville, Kentucky 25
+Frankfurt, Germany 44
+Lai Chau, Vietnam 2
+Monterrey, Mexico 21
+New York City, New York 2
+Half Moon Bay, California 19
+Potosi, Bolivia 28
+Argyll, England 10
+Mt. Somosierra, Spain 23
+Nagpur, India 13
+Zurich, Switzerland 1
+Dah-el-Kadeeb, Syria 9
+Herat, Afghanstan 21
+Lapseki, Turkey 4
+Aldbury, England 16
+Elba, Italy 35
+Manizales, Colombia 21
+Long Beach, California 1
+Rome, Italy 16
+Prague, Czechoslovakia 15
+Kansas City, Missouri 3
+Hokkaido, Japan 35
+Susitna Valley, Alaska 10
+Gozo, Malta 10
+New Delhi, India 3
+Wright, Wyoming 9
+St. Etienne de Tinee, France 20
+Kallang Airport, Singapore 33
+Mackay, Australia 2
+Lothian, Maryland 18
+Monterrey, Mexico 18
+Adana, Turkey 25
+Hanoi, Vietnam 4
+Stromboli, Italy 21
+Moose Jaw, SK, Canada 36
+Santiago, Chile 16
+Xieng Kouang, Laos 16
+Sierra del Vilgo, Argentina 25
+Calcutta, India 5
+Paraparaumu, New Zealand 3
+Cipo Mountain, Brazil 19
+Maribor, Slovenia 1
+Sao Paulo, Brazil 3
+Tourane, Vietnam 4
+Folkestone, England 3
+Salvador, Brazil 20
+Hainan Island, China 10
+McGrath, Alaska 2
+Terceira Island, Azores, Portugal 30
+Vietnam 3
+Pakse, Laos 47
+Mason City, Iowa 12
+Dutch Coast, North Sea 21
+Chatenoy, France 3
+Rapid City, South Dekota 26
+Foynes, Ireland 28
+Rio de Janeiro, Brazil 6
+Cairo, Egypt 3
+Nar Limone Piemonte, Italy 21
+Ocean City, Maryland 42
+the coast of Maryland 42
+Mangalore, Australia 3
+Jirishanga,Cerro de Pasco, Peru 24
+Berlin, New Hampshire 2
+Luang Pragang, Laos 28
+Bratislava, Slovakia 4
+Bolivar, Venezuela 2
+New York, New York 26
+Pittsburgh, Pennsylvania 10
+Prestwick, Ayrshire, Scotland 28
+Moscow, Russia 45
+Irkutsk, Russia 17
+Skellings, Ireland 18
+Greater Cincinnati Airport, Covington, Kentucky 15
+Des Moines, Iowa 0
+Lapadrera, Colombia 5
+Nagpur, India 10
+Calabar, Nigeria 13
+Rome, Italy 29
+Albuquerque, New Mexico 16
+Salisbury,  Zimbabwe 1
+Vitoria da Conquista, Brazil 5
+Mascota, Mexico 26
+Trujillo, Colombia 8
+Springfield, Mississippi 13
+Oahu, Hawaii 66
+the Oregon coast 4
+Pensacola, Florida 2
+Islip, New York 3
+Great Natuna Island, Sarawak 19
+Kupe Mountains, Cameroons 12
+Mt. Kilimanjaro, Kenya 20
+Barcelona, Venezuela 4
+Edmonton, Alberta, Canada 2
+Fort Lamy, Cameroon 3
+Asuncion, Paraguay 16
+Leon, Mexico 18
+Oaxaca, Mexico 22
+Chicago, Illinois 22
+Petrich, Bulgaria 58
+Fort Leonard Wood, Missouri 30
+Voronezh, Russia 25
+Edelweiler, West Germany 66
+Caparao Mountain, Brazil 13
+Simra, Nepal 2
+Meikitila, Myanmar 9
+Burbank, California 3
+Sombolabo, French Equitorial Africa 16
+Thorhild, Canada 2
+Idris, Libya 15
+PacifiOcean 3
+Pico Oiriruma-Vinac, Peru 19
+Centennial, Wyoming 66
+Wien, Austria 7
+Longmont, Colorado 44
+Seattle, Washingon 28
+Las Vegas, Nevada 14
+Iwo Jima, Japan 10
+Ballico, California 10
+Belem, Brazil 6
+Hollywood, South Carolina 2
+Sao Paulo, Brazil 26
+Jacksonville, Florida 17
+Frederick Henry Bay,  Australia 1
+Oreway, Canada 4
+Torysa, Czechoslovakia 22
+Lyon, France 3
+Frobisher Bay, Canada 2
+Fort Chimo, Quebec, Canada 2
+Niles, California 40
+Zurrieg, Malta 50
+Cairo, Egypt 52
+Aleppo, Syria 19
+Jalkot, Pakistan 3
+Tezpur, India 2
+Largs, England 1
+Indapur, India 3
+Korat ,Thailand 18
+Pittsburgh, Pennsylvania 22
+Seattle, Washington 5
+Skilak Lake, Alaska 6
+Parintins, Brazil 3
+London, England 2
+Kathmandu, Nepal 14
+Orleans, Ontario, Canada 2
+Guatemala City, Guatemala 30
+Asbury Park, New Jersey 74
+Kano, Nigeria 32
+Grand Canyon, Arizona 128
+Flat Rock, Michigan 1
+Brows Mills, New Jersey 46
+Rio Cuarto, Argentina 18
+Thazi, Burma 12
+Cold Bay, Alaska 15
+Amman, Jordan 1
+Bartlesville, Oklahoma 0
+Nome, Alaska 5
+Land's End, England 59
+the PacifiOcean 0
+Agartala, India 3
+the Mediterranean Sea 23
+Blackbushe, England 5
+Hommelfjell, Norway 2
+Puerto Somoza, Nicaragua 25
+Porto Alegre, Brazil 2
+El Rucio Mountain, Colombia 36
+Eglisau, Switzerland 23
+Paris, France 34
+Caracas, Venezuela 25
+Caqueta, Colombia 14
+Chilliwack, British Columbia, Canada 62
+Dannemois, France 5
+Grub, Germany 3
+Mt. Giner, Italy 21
+Dhahran, Saudi Arabia 11
+Owasso, Oklahoma 1
+Buenos Aires, Argentina 17
+Ometepe Island, Nicaragua 16
+Paris, France 2
+Sunland, California 5
+New York, New York 21
+Kimpo Air Base, South Korea 22
+Blyn, Washington 5
+Drayton, England 18
+El Soldado, Colombia 15
+Manchester, England 20
+Cebu, Philippines 24
+Sayari, Bolivia 19
+the North PacifiOcean 67
+Bage, Brazil 40
+Algiers, Algeria 34
+Anchieta Island, Brazil 26
+Merida, Mexico 3
+El Quweira, Jordan 24
+Jirkouk, Iraq 1
+Blackbushe, Hants, England 34
+Santoshpur, India 1
+Barajas, Madrid, Spain 37
+San Carlos de Bariloche, Argentina 16
+Narsarressuak, Greenland 2
+New Delhi, India 2
+Moscow, Russia 9
+Bodensee, Switzerland 9
+Clarksburg, Maryland 3
+Port Hardy, BC, Canada 14
+Bay of Bengal, Pakistan 24
+Biak, Indonesia 58
+Daggett, California 1
+Issoudun, Quebec, Canada 79
+Copenhagen, Denmark 23
+Assam, India 8
+Juticalpa, Honduras 12
+Niquitao, Venezuela 8
+New Bedford, Massachusett 12
+Montevideo,  Uruguay 1
+Beirut, Lebanon 27
+Belfast, Ireland 7
+Madrid, Spain 21
+Campeche, Mexico 3
+Bristol, England 15
+900 miles E of Honolulu, Hawaii, PacifiOcean 44
+Palma de Mallorca, Spain 4
+Chessell Down Hants, England 43
+Christchurch, New Zealand 4
+Bolivar, Argentina 61
+Jeannine Lake, Quebec, Canada 3
+Ozamis City, Philippines 2
+Stansted, England 4
+Oahu, Hawaii 19
+Buenos Aires, Argentina 9
+Belem, Brazil 3
+La Paz, Bolivia 11
+Rio de Janeiro, Brazil 5
+New Delhi, India 21
+Norwalk, California 47
+Munich, Germany 23
+Motu Taoru, France 15
+Corvo Island, Azores 22
+Horwich, Lancs, England 35
+Ryukyu Islands, Okinawa 26
+Menzalah Lake, Egypt 8
+Grants, New Mexico 4
+Kathmandu, Nepal 20
+Miami, Florida 9
+Bridgeport, Texas 18
+Quito, Ecuador 3
+Freeland, Michigan 47
+Mt. Illiniza, Ecuador 32
+Castell de Fels, Spain 16
+Sloan, 10 miles SW of Las Vegas, Nevada 49
+Casablanca, Morocco 61
+Brunswick, Maryland 11
+Gurgaon, India 4
+SW of Algiers, Algeria 15
+Rio de Janeiro, Brazil 4
+Manila, Philippines 1
+Guadalajara, Mexico 45
+Martinsburg, West Virginia 1
+Curitiba, Brazil 19
+Mohanbari, India 7
+Chicopee Falls, Massachusetts 15
+Dhaka, Baangladesh 3
+Benghazi, Libya 36
+Sakiya Saugye, Japan 33
+Maraso Bay, Brazil 10
+North AtlantiOcean, 100 miles W of Galway Bay, Ireland 99
+Nantucket, Massachusett 24
+Chita, Russia 64
+Sasnashen, Russia 17
+London, England 3
+Guam 19
+Campina Grande, Brazil 13
+Fairchild AFB, Washington DC 13
+Mount Oyama, Japan 8
+Triel, France 15
+the Mediterranean Sea 5
+Payette, Idaho 19
+Mt. Alto del Cedro, Venezuela 23
+Villa Montes, Bolivia 20
+Kanash, Russia 80
+Placentia Bay, Canada 11
+Anzio, Italy 31
+Nipe Bay, Cuba 17
+Roccatamburo di Poggiodomo, Italy 8
+La Paz, Bolivia 3
+North AtlantiOcean 36
+Fort Collins, Colorado 2
+Guadarrama Mountains, Spain 21
+Winkton, England 9
+Salisbury, Zimbabwe 3
+Rio de Janeiro, Brazil 21
+Tippi, Ethiopia 5
+Mt. Pena Blanca, Guatemala 5
+Mt. Holston, Tennessee 10
+Rio de Janeiro, Brazil 36
+Panther Peak, California 2
+Mar del Plata, Argentina 51
+Merida, Venezuela 4
+Dabouk, Jordan 10
+Brindisi, Italy 2
+Kerrville, Texas 3
+Mason City, Iowa 4
+La Guardia Airport, New York, NY 65
+Gatwick, Surrey, England 14
+Belen, Chile 5
+Beirut, Lebanon 24
+Managua, Nicaragua 15
+Tobu, India 5
+Mahon, Spain 1
+Banga, Central African Republic 9
+Silchar, India 24
+Alma, Georgia 2
+Puerto Kino, Mexico 26
+Van, Turkey 12
+Valdemeca, Spain 28
+Mallorca, Spain 5
+Charleston, West Virginia 2
+Chase, Maryland 31
+Toumavista, Peru 12
+Mar del Plata, Aregntina 10
+Moro, Peru 8
+Nicaragua 60
+Cerros Baco, Peru 14
+Varese, Lombardia, 20 miles NW of Milan, Italy 68
+Ishikawa City, Ryukyu Island, Okinawa 0
+Sagone, India 6
+Karachi, Pakistan 2
+Calverton, New York 5
+Barcelona, Spain 32
+Asuncion, Paraguay 2
+Abilene, Texas 2
+Poza Rica, Mexico 1
+Tegucigalpa, Honduras 3
+Sao Paulo, Brazil 20
+Bordeaux, France 53
+Great Sitkin Island, Alaska 16
+Buffalo, Texas 34
+Santa Maria, California 1
+Athens, Greece 18
+Waynesborough, Virginia 26
+St. Cleophas, Quebec, Canada 5
+Gulf of Mexico 42
+Lvov, Ukraine, USSR 40
+Chicago, Illinois 3
+Willamsport, Pennsylvania 25
+Cartagena, Colombia 45
+Tashkent, Uzbekistan, USSR 29
+Ketchikan, Alaska 3
+Rome, Italy 2
+Rid de Janeiro, Brazil 33
+Palembang, Indonesia 1
+San Jose de Chiquitos, Bolivia 11
+Taksing, India 9
+Wilmington/Bolivia, North Carolina 34
+Gulf of Sirte 10
+Charles City, Virginia 50
+Ankara, Turkey 42
+Semipalatinsk, USSR 61
+Montego Bay, Jamacia 37
+Bathurst Island, Australia 9
+Laguna de Huana-Costa , Boliva 59
+Rio de Janeiro, Brazil 61
+Shannon, Ireland 34
+Lvov, Ukraine, USSR 32
+El Refugio, Colombia 6
+Tokyo, Japan 3
+Cannelton, 10 mile SE of Tell City, Indiana 63
+Cordoba, Colombia 25
+Siuna, Nicaragua 2
+Pelotas, Brazil 10
+Taipei ,Taiwan 18
+Stephenville, Newfoundland 9
+Bogota, Colombia 37
+Hickory, North Carolina 4
+Bunia, Belgian Congo 35
+Calabozo, Venezuela 13
+Jebel Marra, Sudan 12
+Salto, Uruguay 31
+El Sosneado, Argentina 10
+Atlanta, Georgia 4
+ Mackay, Qld. Australia 29
+Mt. Gilbert, Alaska 14
+Rio de Janeiro, Brazil 54
+Barnegat City, New Jersey 18
+Persian Gulf 16
+Quito, Ecuador 18
+Manila, Philippines 1
+Jima, Ethiopia 1
+Goma, Zaire 37
+Forest Park, Illinois 13
+Rimini, Italy 1
+Tipuani, Bolivia 6
+Kiev, Ukraine, USSR 35
+El Kelaa, Morocco 20
+Heraklion, Greece 3
+Dakar, Senegal 63
+Agana, Guam, Mariana Islands 80
+Naha, Okinawa 29
+Moscow, Russia 31
+Juchetipec, Mexico 8
+Elba, Italy 21
+Boston, Massachusett 62
+Elba, Italy 11
+Plain City, Utah 2
+Ust-Orda, Russia 3
+Missoula, Montana 12
+Toledo, Ohio 22
+Bhairawa, Nepal 4
+Quito, Ecuador 37
+Manila, Philippines 33
+Cachimbo, Brazil 15
+San Andres de Giles, Argentina 31
+Llico, Chile 24
+Stah, Algeria 78
+Tacoma, Washington 22
+Staten Island / Brooklyn, New York 128
+Munich, West Germany 20
+Cebu City, Philippines 28
+Ruzyne, Czechoslovakia 10
+Koivulahti, Finland 25
+New York, New York (Idlewild) 4
+Midway Island Naval Air Station 6
+Mt. Burangrang, Indonesia 21
+Argentia, Azores 23
+Montauk Point, New York 6
+Surabaya, Indonesia 26
+Brussels, Belgium 72
+Caracas, Venezuela 12
+Natal, Brazil 23
+Russelbach, East Germany 52
+Singapore 13
+Lisbon, Portugal 61
+Cairo, Egypt 20
+Kano, Nigeria 1
+Buenos Aires, Argentina 24
+Odessa, Ukraine, USSR 1
+Denver, Colorado 17
+Casablanca, Morocco 72
+Azul, Argentina 67
+Shemya, Alaska 6
+Budapest, Hungary 27
+Sola, Norway 39
+Pha Khao, Laos 6
+Sondreströmfjord, Greenland 1
+Hinsdale, Illinois 78
+Sendafar, Ethiopia 5
+Cerro del Aernal, Costa Rica 2
+Surabaya, Indonesia 14
+Shannon, Ireland 83
+Rabat, Morrocco 77
+Ndola, Zambia 16
+Chicago, Illinois 37
+Ankara, Turkey 28
+Mt. Canigou, France 34
+El Adem, Libya 17
+Les Prevosts, Guernsey 2
+Recife, Brazil 45
+Richmond, Virginia 77
+Puerto Rico 3
+Campinas, Brazil 52
+Sao Tomé 21
+Sydney, NSW, Australia 15
+Mainz, Germany 3
+Chievres, Belgium 13
+Managua, Nicaragua 2
+Ankara, Turkey 27
+Old Harbor, Kodiak Island, Alaska 1
+Caranavi ,Bolivia 6
+Batataevka, USSR 13
+Tino Maria, Peru 18
+Portlamar, Margarita Island, Venezuela 23
+Municipio de Marulanda, Colombia 2
+Jamaica Bay, New York, New York 95
+Douala, Cameroon 111
+Seymour, South Africa 2
+Mt. Medetsiz, Turkey 11
+Rome, Italy 5
+Alencon, France 15
+Adak, Alaska 1
+Western PacifiOcean, Philippine Sea 107
+Algeria 11
+Santiago de Cuba, Cuba 22
+Villavicencio, Colombia 31
+Serrania del Baudo, Colombia 40
+Camona, Spain 18
+Portsmouth, England 12
+Mong Pa Liao, Burma 32
+Vitoria, Brazil 23
+Godthaab, Greenland 15
+Cairo, Egypt 3
+Nairobi, Kenya 13
+Markt Schwaben, West Germany 26
+Unionville, Missouri 45
+Villeneuve-le-Roi, Val-de-Marne, France 130
+Sofia, Bulgaria 5
+Basse-Terre, Guadaloupe, West Indies 112
+Adler, Russia 81
+Krasnoyarsk, USSR 84
+Tashkent, Uzbekistan, USSR 14
+Junnar, Maharashtra, India 94
+Brindisi, Italy 6
+Lahore, Pakistan 1
+Loheshyphn, India 9
+Bangkok, Thailand 26
+Honolulu, Hawaii 27
+Sochi, Russia 81
+Coulommiers, France 4
+Kathmandu, Nepal 10
+Rio de Janerio, Brazil 15
+Berranca Bermeja, Colombia 20
+Cerro Puena Paz, Peru 9
+Khabarovsk, USSR 86
+Yanoyaki, Japan 12
+Lake Milton, Ohio 13
+Brno, Czechoslovakia 11
+Milan, Washington 44
+Alcoche, Bolivia 4
+Sela, India 8
+North AtlantiOcean 28
+Spt-Îles, Quebec, Canada 2
+Manila, Philippines 3
+Acapulco, Mexico 8
+Windsor Locks, Connecticut 1
+Moscow, Russia 10
+Tourane, South Vietnam 27
+Nagoya, Japan 4
+Ellicott, Maryland 18
+Sao Tomé & Principe 23
+Le Bourget, France 21
+Paraibuna, Brazil 26
+Lima, Peru 97
+New York, New York 25
+Barranca Bermeja, Colombia 24
+Manaus, Brazil 50
+Burbank, California 5
+Warsaw, Poland 33
+Kadena AB, Okinawa 12
+Brasilia, Brazil 1
+Rotterdam, The Netherlands 1
+Monte Renosa, Corsica, France 25
+Grand Isle, Louisana 2
+Barter Island, Alaska 5
+Sao Paulo, Brazil 13
+Great Salt Lake, Utah 3
+Kotzebue, Alaska 1
+Kansas City, Missouri 8
+Patuxent River, Maryland 14
+Ankara, Turkey 17
+San Francisco, California 3
+Syktyvkar ,Russia 7
+Miami, Florida 43
+Boston, Massachusetts 0
+Davao City, Philippines 27
+Camden, Tennesee 4
+Karai, Iran 4
+Charana, Bolivia 41
+Monte Matto, Italy 18
+Misaki Mountain, Japan 10
+Angelholm, Sweden 31
+Sora, Italy 11
+Oslo, Norway 12
+Buca, Cameroon 55
+Sao Paulo, Brazil 37
+Ayayda, Egypt 34
+PacifiOcean, 116 miles WSW of Annette Island, Alaska 101
+Sama, India 29
+Yunnan, Burma 20
+Bekkessamson, Romainia 31
+Aysen, Chile 19
+Nar Augustdorf, West Germany 38
+Detmold, Germany 38
+Passo Fundo, Brazil 15
+Rochester, New York 7
+Mt. Ngatamahinerua, New Zealand 23
+Irkutsk, Russia 35
+Farafangana, Madagascar 6
+Pak Tha, Laos 6
+Bandra, Maharashtra, India 63
+Wemmershoek Mountains, South Africa 13
+Lyon, France 20
+Great Falls, Montana 1
+Hachijo-Jima Island, Japan 19
+Leningrad , Russia 0
+Miami, Florida 16
+Durrenasch, Aargau, Switzerland 80
+Perpignan, France 40
+Patti, India 18
+Dover, Deleware 10
+Marseilles, France 6
+Jamaica, New York 6
+Aswan, Egypt 31
+Hayes Island, Russia 5
+Tisbury, England 7
+Mariehamn, Aaland Island, Finland 22
+Ste. Therese de Blainville, Canada 118
+Nederland, Colorado 3
+Elkton, Maryland 81
+Gazni, Afghanistan 3
+Cairo, Egypt 6
+Los Angeles, California 0
+Zarate, Argentina 28
+Prescott, Arizona 2
+Ankara, Turkey 3
+Gainsville, Florida 10
+Yacuiba, Bolivia 2
+Freeport, Bahamas 4
+Detroit, Michigan 4
+Banihal Pass, India 13
+Marawi, Philippines 31
+Barrackpore, India 22
+Forsyth, Montana 2
+Lake Pontchartrain, New Orleans, Louisiana 58
+Oita, Japan 20
+Innsbruck, Austria 83
+Zephyr Cove, Nevada 85
+Bogota, Colombia 28
+Chicago Illinois 1
+Boston, Massachutes 3
+Miles City, Montana 5
+Danbury, North Carolina 3
+Mt. Vesuvius, Italy 45
+North PacifiOcean 9
+Hargeisa, Somalia 15
+Dahran, Saudi Arabia 49
+Elim, Alaska 2
+San Ramon, California 44
+Cerro El Gaital, Panama 10
+Lima, Peru 46
+Papanga, Philippines 79
+Sibuco Point ,Philippines 11
+Mason, Texas 3
+Southhampton, Massachusetts 2
+Taichung, Taiwan 57
+Palma de Mallorca, Spain 1
+Martinsville, Virginia 5
+Knoxville, Tennessee 1
+Rome, Italy 50
+Parrottsville, Tennesee 39
+Reno, Nevada 3
+Richmond, Virginia 0
+Nashville, Tennesee 2
+Willow, Alaska 3
+East Falmouth, Massachusetts 2
+Tipuani (Bolivia 4
+Island of Sakhalin, Russia 87
+Pico da Caledonia, Brazil 39
+Vaong Nong, Thailand 28
+Condoto, Colombia 2
+Trevelez, Granada, Spain 80
+Addis Ababa, Ethiopia 1
+Sibiu, Romania 32
+Crown King, Arizona 2
+Belgrade, Yugoslavia 33
+Branson, Colorado 5
+Las Vegas, Nevada 29
+Argentia, Newfoundland, Canada 10
+Bao Trai, Vietnam 3
+Leopoldville, Zaire 6
+Fayetteville, Arkansas 4
+Tripuani, Bolivia 17
+Da Nang, South Vietnam 38
+Kaliba, Philippines 1
+Yurimaguas, Peru 1
+San Francisco, California 3
+Turrialba, Costa Rica 5
+Detroit, Michigan 4
+Kla City, Oklohoma 3
+Fairbanks, Alaska 2
+Wichita, Kansas 17
+Durango, Mexico 10
+Mt. Helmos. Greece 10
+Garoua, Cameroon 4
+San Jose Volcano, Chile 87
+Jones Beach, New York, New York 84
+Miami, Florida 2
+Mt. Nakanoone, Japan 2
+South Beach, New York 2
+Fort Smith AFB, Oklahoma 7
+Libmanan, Philippines 10
+Kuybyshev,  Russia 25
+Musquodoboit, Canada 8
+Sugar Loaf Mountain, Colombia 28
+San Juan, Puerto Rico 16
+Lowery Pass, Pakistan 22
+Tangiers, Morocco 50
+Bellfontaine, Ohio 2
+Damascus, Syria 54
+Jersey, UK 26
+Johnstown, Pennsylvania 2
+Seattle, Washington 5
+Cairo, Egypt 119
+Colombus, Georgia 18
+Santa Ana, California 85
+San Francisco, California 0
+Kansas City, Missouri 0
+Patian, Pakistan 4
+Oxford, England 41
+Cairo, Egypt 30
+Dog Creek, British Columbia, Canada 52
+Nantucket, Massachusetts 16
+St. Thomas, Virgin Islands 8
+Choushi, Japan 11
+Libacao, Philippines 37
+Panama City, Panama 7
+Cuiaba, Brazil 13
+Lake Michigan, Chicago, Illinois 30
+Jeuk, Belgium 4
+Hong Kong 59
+Lake Tustumena, Alaska 4
+La Carlota, Phillipines 11
+Gore, Ethiopia 17
+Pastaza, Ecuador 9
+Quang Ngai, South Vietnam 38
+Montserrat, Antigua 30
+Santiago, Chili 10
+Bucaramanga, Colombia 19
+Mohanbari, India 8
+Hanoi, Vietnam 13
+Manila, Philippines 1
+London, England 36
+Obock, French Somaliland 30
+Northern Panama 68
+Boqueron, Colombia 30
+Cincinnati Airport, Covington, Kentucky 58
+Murmansk, Russia 32
+Salt Lake City, Utah 43
+Maui, Hawaii 2
+Palm Springs, California 8
+Salt Lake City , Utah 13
+Carmel, New York 4
+Cerro el Planchon, Chile 8
+Tenerife, Canary Islands 32
+Tuy Hoa, South Vietnam 85
+Kingman, Arizona 2
+Legaspi, Philippines 2
+Redericksburg, Texas 3
+Palembang, Sumarta, Indonesia 34
+Cartagena, Colombia 56
+Port-au-Prince, Haiti 30
+Mont Blanc, French Alps, Switzerland 117
+Binh Khe, South Vietnam 46
+Erie, Pennsylvania 3
+Bremen, Germany 46
+Tokyo Bay, Japan 133
+Srinagar, India 37
+Mattoon, Illinois 2
+Delh, India 2
+Milan, Italy 4
+Tokyo, Japan 64
+Hideaway Park, Colorado 3
+Gotemba City, Mt. Fuji, Japan 124
+Santa Cruz Island, California 6
+Reef Island, Alaska 6
+Athens, Greece 5
+Cairo, Egypt 30
+Asuncion, Paraguay 2
+Princeston, West Virginia 2
+San Diego, California 11
+Sam Neua, Laos 2
+Ardmore, Oklahoma 83
+Tomas, Peru 49
+Di Linh, South Vietnam 20
+Neah Bay, Washington 2
+Okinawa, Japan 11
+Columbia City, Indiana 3
+Montreal, Quebec, Canada 2
+Long Beach, Mississippi 2
+Ashland, Alabama 4
+Sagalyan, Philippines 24
+Auckland, New Zealand 2
+Munster, Indiana 4
+Benito, Bolivia 3
+Falls City, Nebraska 42
+Sibiu, Romania 24
+Acapulco, Mexico 6
+Anchorage, Alaska 4
+Hebron, Ohio 6
+Da Nang, South Vietnam 0
+Puertos Lobos, Argentina 1
+Juneau, Alaska 9
+Ljubljana, Slovenia, Yugoslavia 98
+Mumbai, Indian 4
+Puertito de Sausal, Spain 1
+Winton, Australia 24
+Bogota, Colombia 2
+Wemme, Oregon 18
+An Khe, Vietnam 14
+Morgan City, Louisiana 11
+Sukhumi, Georgia, USSR 38
+Dowagiac, Michigan 6
+Heflin, Alabama 2
+East Nassau, New York 3
+Chatham, Massachusetts 19
+Matsuyama, Japan 50
+Dallgow, Germany 3
+New Bern, North Carolina 3
+Aden, Yemen 30
+Bratislava, Czechoslovakia 82
+Siagon, South Vietnam 25
+Pedrera, Brazil 9
+Moscow, Russia 21
+Bogota, Colombia 17
+Binh Tahi, Da Nang, Vietnam 4
+Cascubel River, Colombia 29
+New Shrewsbury, New Jersey 9
+Hilo, Hawaii 3
+Okisu, Japan 10
+AtlantiOcean 3
+Frankfurt, Germany 2
+Aleppo, Syria 1
+Curitiba, Brazil 21
+Albuquerque, New Mexico 2
+Hourghada, UAR 30
+Mexico City, Mexico 10
+Zurich, Switzerland 4
+Youngstown, Ohio 2
+Menado, Indonesia 22
+Tegucigalpa, Honduras 4
+Mactan, Philippines 12
+Monrovia, Liberia 51
+Marseille, Ohio 38
+Karachi, Pakistan 4
+Urbana, Ohio 26
+Phan Rang, South Vietnam 25
+Klamath Falls, Oregon 4
+Mt Visenti, Italy 4
+East London, South Africa 25
+Kodiak, Alaska 2
+Greenwood, Mississippi 2
+New Orleans, Louisiana 6
+Phelan, California 2
+Lima, Peru 5
+Lexington, Kentucky 9
+Seoul, South Korea 15
+Tamanrasset, Algeria 35
+Mamuniyeh, Iran 23
+Nicosia, Cyprus 126
+Nantucket, Massachusetts 14
+Sogamosa, Colombia 17
+Malaybalay, Philippines 19
+Tsushima Island , Japan 12
+Flushing, New York 3
+New Castle, Virginia 4
+El Plumerillo, Chile 16
+Cape Dyer, Canada 4
+Ottawa, Ontario, Canada 3
+Mt. Canigou, Roussillon, France 88
+Stockport, Cheshire, England 72
+Siagon, Vietnam 10
+Jedda, Saudi Arabia 17
+Dublin, Ireland 2
+La Paz, Mexico 3
+Coari, Brazil 20
+Dien Bien Phu, Vietnam 11
+An Khe, South Vietnam 35
+Dublin, Ireland 3
+Siagon, Vietnam 7
+Blossburg, Pennsylvania 34
+Jacksonville, North Carolina 22
+Khamis Mushait, Saudi Arabia 16
+Kai Tak, Hong Kong 24
+Bacolod, Philippines 21
+Tananarive, Malagasy Republic 42
+Hendersonville, North Carolina 82
+Luang Prabang, Laos 16
+Luang Prabang, Laos 18
+Grand Canyon, Arizona 7
+Spitzberg, Norway 11
+Bao Loc, Vietnam 11
+Gander, Newfoundland, Canada 37
+Farmington, New Mexico 3
+Huong Thuy, South Vietnam 23
+Isle Culebra, Puerto Rico 2
+Rhodes, Greece 66
+Camden, Arizona 4
+South Vietnam 16
+Calhoun, Georgia 2
+Fernhurst, Sussex, England 37
+Hong Kong, China 1
+Cincinnati, Ohio 1
+Sverdlovsk, Russia 130
+Cincinnati International Airport, Covington/Hebron, Kentucky 70
+Juneau, Alaska 5
+Sanger, California 3
+Qui Nhon, South Vietnam 26
+Muong Soui, Laos 10
+Carpich Huanuco Mt., Peru 72
+Madison, Wisconsin 7
+Hanalei, Hawaii 2
+Corona, New Mexico 2
+Creag Bhan, England 13
+Denver, Colorado 2
+Chiang Mai, Thailand 4
+Liepaja, Latvia 44
+New Orleans, Louisiana 6
+San Diego, California 3
+Tanana, Alaska 2
+Quang Tri, South Vietnam 42
+Copper Canyon, Nevada 19
+Zifta, Egypt 4
+Iwakuni, Japan 12
+Minot AFB, North Dakota 13
+Moroni, Comoro Islands 15
+Phu Quoc, Vietnam 12
+Vancouver, Canada 1
+Northern India 98
+Linkuo, Taiwan 21
+Eureka, Utah 3
+Ban Napa, Laos 37
+Bratsk, Russia 82
+Basse-Terre, Guadeloupe, West Indies 63
+Khe Sanh, South Vietnam 49
+Panay Island, Philippines 14
+Saint Denis, Reunion 19
+Potters Cove, Rhode Island 2
+St. Louis, Missouri 3
+Wexford Harbor, Ireland 61
+St. Louis, Missouri 2
+Moscow, Russia 2
+Phu Quoc, Vietnam 12
+Heathrow Airport, London, England 5
+Coyhaique, Chile 36
+Dahlonega, Georgia 4
+Mexico City, Mexico 18
+Mull of Kintyre, England 11
+Cheo Reo, South Vietnam 26
+Windhoek, South Africa (Namibia) 123
+Moscow, Russia 5
+Carpenteria, California 5
+Chaklala, West Pakistan 22
+Dawson, Texas 85
+Got el Afraq, Libya 11
+Kham Duc, Vietnam 155
+Pelliston, Michigan 4
+Paramount, California 23
+Bombay, India 29
+Vidalia, Georgia 3
+Calcutta, India 6
+San Sebastian, Spain 6
+Yuhnov, Russia 120
+Bearcat, South Vietnam 29
+Vichy, Missouri 1
+London, England 6
+Ft. Lauderdale, Florida 4
+Dharan, Saudi Arabia 11
+Lagos, Nigeria 7
+Gravata, Brazil 3
+Chili 5
+Recife Brazil 10
+Jamestown, Rhode Island 3
+Milan, Italy 13
+Milwaukee, Wisconsin 3
+Pfaffenhofen, Germany 48
+Charleston, West Virginia 35
+AtlantiOcean 3
+Compton, California 21
+Port Said, Egypt 40
+Maturin, Venezuela 4
+Lopez, Washington 0
+Odda, Norway 5
+Burgas, Bulgaria 47
+Flushing, New York 2
+Cap d'Antibes, France 95
+Wake Island 11
+Port Harcourt, Biafra, Nigeria 57
+Kenai, Alaska 3
+Camp Evans, Vietnam 13
+Camp Evans, South Vietnam 25
+Las Vegas, Nevada 4
+Puerto Cortes, Costa Rica 10
+Derry, Pennsylvania 2
+Prague, Czechoslovakia 11
+Izmir, Turkey 10
+Feijó, Brazil 19
+Ban Me Thuot, South Vietnam 23
+Hanover, New Hampshire 32
+Barrow, Alaska 7
+San Francisco, California 0
+Santa Ana, California 9
+Savannakhet, Laos 26
+Point Baker, Alaska 2
+Pedro Bay, Alaska 39
+St. Thomas, Virgin Islands 3
+Wolf Creek, Montana 3
+Caracas, Venezuela 51
+Bradford, Pennsylvania 20
+Prudhoe Bay, Alaska 2
+Elmendorf Air Force Base, Alaska 3
+Ensenada, Mexico 12
+Chicago, Illinois 27
+Ching Chuan Kang AB, Taiwan 12
+Minchumina, Alaska 1
+Port Hedland, WA, Australia 26
+Ciudad Vitoria, Mexico 26
+Mt. Paku, Taiwan 24
+Tyonek, Alaska 2
+Gatwick Airport, Horley, Surrey,  England 50
+Bradford, Pennsylvania 11
+Mt. Tawu, Thailand 24
+Los Angeles, California 15
+Hue, Vietnam 12
+Los Angeles, California 38
+ Taiwan 13
+Port Angeles, Washington 10
+Batan Islands, Philippines 13
+Lone Pine, California 35
+Tainan, Taiwan 36
+San Juan, Puerto Rico 19
+Maracaibo, Zulia, Venezuela 84
+Kansas City, Kansas 3
+Aswan, Egypt 100
+New Orleans, Louisiana 16
+New Providence Island, Bahamas 2
+Zawoja, Poland 53
+Quang Tri, South Vietnam 24
+Sept-Îles, Canada 1
+Chongjin, North Korea 31
+Kinshasa, Zaire 45
+Craig, Alaska 9
+Khulna, Bangladesh 44
+Takoradi, Ghana 1
+Nakhon Ratchasima , Thailand 18
+Las Higueras, Argentina 11
+Rio Cuarto, Argentina 11
+Chon Thanh, South Vietnam 30
+Medford, New Jersey 2
+Lashio, Myanmar 6
+Reggio di Calabria, Italy 1
+Salinas Victoria, Nuevo Leon, Mexico 79
+North Bend, Oregon 3
+Andreanof Islands, Alaska 19
+Pasco, Washington 2
+Agra, India 14
+Monroe, Georgia 14
+Hitauda, Nepal 35
+Barrow, Alaska 2
+New York City, New York 3
+Sparrevohn, Alaska 4
+Kekaha, Hawaii 1
+AtlantiCity, New Jersey 5
+Biskra, Algeria 33
+Grand Canyon, Arizona 3
+Uli , Nigeria 4
+Niagra Falls, Canada 3
+Long Tieng, Laos 13
+Sucre, Ecuador 1
+Moscow, Russia 16
+Caracas, Venezuela 62
+Khantanga, Russia 8
+Newton, Iowa 3
+Pakse, Laos 35
+Korat Air Base, Thailand 4
+Medina, Colombia 28
+Fairland, Indiana 83
+Antipolo, Philippines 45
+Londrina-Parana, Brazil 20
+Campbell River, Canada 4
+Hoi An, Vietnam 74
+Mexico City, Mexico 27
+La Paz, Bolivia 74
+Uli, Nigeria 5
+Gulf of Tonkin 26
+Denver, Colorado 5
+Timmins, Ontario ,Canada 2
+Point Alexander, Alaska 2
+Anderma, Russia 9
+Mt. Pilot Knob, Glen Falls, New York 14
+Ikeja, Nigeria 87
+Keratea, Greece 90
+Passadumkeag, Maine 3
+San Diego, California 0
+Nha Trang, Vietnam 10
+Luang Prabang, Laos 15
+Nulato, Alaska 2
+Stockholm, Sweden 5
+Villia Greece 23
+Faleolo, Western Samoa 32
+Mt. Pumacona, Peru 28
+Portage, Michigan 2
+Poza Rica, Mexico 19
+Delhi, India 1
+Batagai, Russia 34
+Cleveland, Ohio 9
+Murmansk, Russia 11
+Corrientes, Argentina 37
+Apuseni mountains, Romania 21
+Samarkand, USSR 92
+Long Island Sound, Connecticut 5
+Puerta Infrida, Colombia 12
+Santo Domingo, Dominican Republic 102
+Elizabeth, New Jersey 4
+Congo 17
+Zurich, Switzerland 47
+St. Moritz, Switzerland 11
+Belem Bay, Brazil 38
+Da Nang, South Vietnam 23
+Binghamton, New York 3
+Colorado City, Arizona 6
+Casablanca, Morocco 61
+Novosibirsk, Russia 45
+Cambridge, Maryland 3
+Dak Seang, Laos 10
+Manila, Philippines 36
+Rivolto, Italy 19
+Kainatu,  New Guinea 8
+St. Croix, US Virgin Islands 23
+Hamilton AFB, California 13
+Mogadishu, Somalia 5
+Iligan, Philippines 1
+Pellston, Michigan 6
+Kishiniev, Moldavia, USSR 11
+Puntarenas, Costa Rica 6
+Tegucigalpa, Honduras 6
+Chamblee, Georgia 1
+Tripoli, Libya 13
+Roxas, Philippines 1
+Huaricanga, Peru 5
+McGrath, Alakska 5
+Arbucias, Gerona, Spain 112
+Toronto, Canada 109
+North AtlantiOcean 23
+Lincoln, New Mexico 7
+Tokyo, Japan 4
+Pau, France 37
+Las Vegas, Nevada 10
+Islamabad, Pakistan 30
+Cuzco, Peru 99
+Taipei, Taiwan 14
+Tam Ky, South Vietnam 30
+Silcher, India 39
+Haringvreter, Netherlands 3
+Dnepropetrovsk, Ukraine, USSR 37
+Leningrad, USSR 22
+New York, New York 11
+Orocovis, Puerto Rico 1
+Cranbrook, Canada 4
+Vagar, Denmark 8
+Da Nang, Vietnam 38
+Mys-Kammenyj, Russia 8
+Mt. Trelease, Silver Plume, Colorado 30
+Taipei, Taiwan 43
+Mahaffey, Pennsylvania 2
+Germiston, South Africa 3
+Dayton, Ohio 3
+New Castle, Delaware 2
+Pointe-à-Pitre, Guadeloupe 2
+Huntington, West Virginia 75
+Nar Can Tho, South Vietnam 18
+Anchorage, Alaska 47
+Nha Trang, South Vietnam 79
+Cam Ranh, South Vietnam 42
+Dhaka, Bangladesh 4
+Delhi, India 5
+Constanta, Romania 18
+Panarah, Pakistan 25
+St. Thomas, Virgin Islands 2
+Shemshernagar,  Pakistan 7
+Algiers, Algeria 31
+Leningrad, Russia 93
+Ben Gashir, Libya 16
+Edison, New Jersey 2
+Zurich, Switzerland 45
+Privas, France 21
+Pacae, Peru 35
+Surgut, USSR 13
+Sao Pedro da Aldeia, Brazil 8
+Sokcho, South Korea 2
+Merida, Venezuela 18
+Voroshilovgrad, Russia 7
+Aguadilla, Puerto Rico 3
+Mt. Cunatineuta, Ecuador 12
+Gauhati, India 15
+Ontario, California 5
+Vorochilovgrad, Ukraine 64
+San Jose, Philippines 39
+Kayenta, Arizona 2
+C. Amalie, Virgin Islands 8
+Manchester, New Hampshire 4
+Coolidge, Arizona 12
+Guatemala City, Guatemala 5
+Anaktvk Pass, Alaska 2
+Rijeka, Yugoslavia 78
+Capetown, South Africa 11
+Roanoke, Virginia 6
+Copenhagen, Denmark 32
+Tikaka, Sudan 10
+Duarte, California 50
+New Haven, Connecticut 28
+North PacifiOcean 24
+Arica, Chile 6
+Garberville, California 17
+Hokkaido, Japan 68
+Anchorage, Alaska 3
+Bamako, Mali 6
+Manila, Philippines 4
+Irkutsk, Russia 97
+Morioko, Japan 163
+San Francisco, California 0
+Pau, France 37
+Irkutsk, USSR 100
+Valdez, Alaska 2
+Pegnitz, West Germany 37
+Augusta, Maine 3
+Chinnamanur, India 21
+Juneau, Alaska 111
+Hasloh, Germany 22
+Jackson, Mississippi 5
+Presevo, Russia 5
+Kiev, Ukraine, USSR 49
+Sena Madureira, Brazil 32
+Aarsele, West Vlaanderen, Belgium 63
+Moscow, Russia 20
+Colorado City, Arizona 10
+Hot Springs, Virginia 6
+San Vicente del Caguan, Colombia 20
+Peoria, Illinois 16
+Qui Nhon, South Vietnam 31
+Bath, Pennsylvania 4
+Livorno, Italy 52
+Padang, Philippines 69
+Vinnitsa, Russia 47
+Penghu Island, Taiwan 25
+Hue, South Vietnam 34
+Saratov, Russia 57
+Raleigh, North Carolina 2
+Cazombo, Angola 47
+Sofia, Bulgaria 28
+Puerto Inca, Huanuco, Peru 91
+Chetumal, Mexico 23
+Sierra de Atalayasa, Spain 104
+Chambers, Nebraska 3
+Adana, Turkey 1
+Funza, Colombia 20
+Betania, Colombia 39
+Hermsdorf, Czechoslovakia 27
+Tegal, Indonesia 6
+Pha Khao, Laos 1
+BattleMountain, Nevada 2
+Valledupar, Colombia 19
+Vientiane, Laos 23
+Jackson, Mississippi 2
+Little Rock, Arkansas 5
+Fairfield, Idaho 4
+Molokai, Hawaii 8
+Albany, New York 16
+Fort Worth, Texas 5
+Al Fujayrah, United Arab Emirates 112
+Shamsam Mountains, South Yemen 22
+Tchepone, Laos 14
+San Fernando, Venezuela 2
+Rio de Janeiro, Brazil 25
+Ardinello di Amaseno 18
+New York, New York 3
+Addis Ababa, Ethiopia 43
+Moyobamba, Peru 6
+Nyot Mo, Laos 4
+An Loc, Vietnam 6
+Bratsk, USSR 18
+Carini, Sicily, Italy 115
+Cuidad, Venezuela 7
+Gia Dinh, South Vietnam 34
+Albuquerque, New Mexico 9
+Lobito, Angola 22
+Helgoland, Germany 8
+Dulac, Louisiana 11
+Cruzeiro do Sul Acre, Brazil 9
+Dallas/Ft. Worth, Texas 4
+Valdez, Alaska 2
+Winfield, Kansas 2
+Jesbel Musa, Morocco 14
+Pleiku, Vietnam 32
+Santiago, Chile 3
+an Loc, South Vietnam 47
+New Delhi, India 82
+Pleiku, Vietnam 81
+Smiley, Texas 5
+Huê, Vietnam 12
+Kharkov, Ukraine, USSR 122
+London Heathrow,  Staines, Surrey, England 118
+Ponce, Puerto Rico 5
+Hornell, New York 3
+Appleton, Wisconsin 13
+Blackpool, England 7
+Steamboat, Nevada 2
+San Francisco, California 3
+Las Palmas, Canary Islands, Spain 10
+Quang Tri, South Vietnam 52
+Grytoya, Norway 19
+Corfu Island, Greece 1
+Villavicencio, Colombia 38
+SoTrang, South Vietnam 30
+Delhi, India 18
+Konigs Wusterausen, East Germany 156
+Sandoway, Myanmar 26
+Canaima, Venezuela 34
+Papua, New Guinea 25
+Magnitogorsk, Russia 101
+Mt Siluwe, Papua, New Guinea 4
+Trinidad, Bolivia 1
+Gondar, Ethiopia 11
+Dhulikhel, Nepal 31
+Sacramento, California 0
+Ben Cat, South Vietnam 10
+Madrid, Spain 1
+Kampot, Cambodia 9
+Adler, Russia 109
+North AtlantiOcean 2
+Krasnaya Polyana, USSR 174
+San Fernando, Chile 29
+the Alaska coast 4
+Athens, Greece 37
+Tanna, Vanuatu 1
+Noiretable, Loire, France 60
+Poggiorsini, Italy 27
+My Tho, South Vietnam 22
+Plovdiv, Bulgaria 35
+Elkton, Kentucky 11
+Moscow, Russia 62
+St. Paul, Minnesota 2
+Tenerife,  Canary Islands 155
+Beni Sueif, Egypt 6
+Myrtle Beach, South Carolina 12
+ LaRandall, Quebe,Canada 3
+Rawalpindi, Pakistan 26
+Walla Walla, Washington 4
+Chicago, Midway Airport, Illinois 43
+Detroit, Michigan 2
+Chicago, Illinois 10
+Pakse, Laos 14
+St. Maarten off, Netherlands Antilles 13
+Skaugum, Norway 40
+Everglades National Park, Florida 103
+San Juan, Puerto Rico 5
+Edmonton, Alberta, Canada 5
+Glasgow, England 4
+Perm, Russia 44
+Kano, Nigeria 176
+Townsend, Tennessee 3
+Tegucigalpa, Honduras 3
+Kyrenia, Cyprus 37
+Kasigluk, Alaska 2
+Prague, Czechoslovakia 66
+Morgan City, Louisiana 5
+Cerro Horqueta, Panama 22
+Isma'iliya, Egypt 110
+Londonderry, Vermont 2
+Leningrad, Russia 79
+Semipalatinsk, Kazakhstan 32
+Szczecin, Poland 15
+Szczecin, Poland 18
+Nabire, Indonesia 13
+Moscow, Russia 25
+Funchal, Portugal 3
+Nantes, France 68
+Ban Hong Sa, Laos 4
+Hyderabad, India 3
+Brunswick, Maine 5
+Ben Me Thuot, South Vietnam 62
+Hochwald, Solothurn,  Switzerland 108
+Sunnyvale, California 16
+Moffett AFB, California 15
+Bamiyan, Afghanistan 4
+Davenport, Iowa 6
+Greenville, Maine 4
+Deadhorse, Alaska 2
+Chita, Siberia, Russia 100
+Svay Rieng, Cambodia 11
+Rimouski, Canada 4
+New Delhi, India 48
+Sao Luis, Brazil 23
+Goussainville, France 6
+Rio de Janeiro, Brazil 2
+Puerto Vallarta, Mexico 27
+Amman, Jordan 5
+Paris, Orly, France 123
+Papeete, Tahiti 78
+St. Louis, Missouri 38
+Honolulu, HI 5
+Logan Airport, Boston, Massachusett 89
+Ketchikan, Alaska 5
+ Domodedovo, Russia 119
+La  Corunda, Spain 85
+Don Don, Haiti 10
+Baku, Azerbaijan, USSR 56
+El Yopal, Colombia 16
+Bogota, Colombia 42
+Huete, Spain 24
+Thirty-five miles west of Los Angeles, California 1
+Gary, Indiana 4
+King Cove, Alaska 6
+Paintsville, Kentucky 4
+Moganik, Yugoslavia 41
+Natchitoches, Louisiana 6
+Eagleville, California 2
+Lincoln, Nebraska 3
+Rich Mountain, Arkansas 11
+Miritituba, Brazil 9
+Sverdlovsk, Russia 108
+Magadan, Russia 10
+Itaituba, PA, Brazil 8
+Guanabara Bay, Brazil 8
+Sainte Lucia Island 4
+La Verne, California 2
+Villavicencio, Colombia 6
+Albuquerque,  New Mexico 1
+Boston, Massachusett 3
+Quang-Ngai, Vietnam 27
+Moscow, Russia 13
+Churchill Falls, Newfoundland, Canada 8
+Sitkin Island, Alaska 10
+Vilnius, Lithuania 51
+Rome, Italy 30
+Manhattan, Kansas 2
+Talara, Peru 6
+Siagon, South Vietnam 20
+Tetouan, Morocco 106
+Lvov, Ukraine, USSR 17
+Durban, South Africa 1
+Turin, Italy 38
+Unduavi, Bolivia 4
+Johnstown, Pennsylvania 12
+Mukachevo, Russia 24
+Nevia, Colombia 31
+La Paz, Bolivia 24
+Cigerdu, Colombia 14
+Rostov, Russia 4
+Goldendale, Washington 2
+Izmir, Turkey 66
+S. Dominican Pueblo, New Mexico 3
+Winger, Minnesota 4
+Pago Pago, American Samoa 96
+Honolulu, HI 1
+Souda, Crete 35
+AtlantiOcean 2
+Baltimore, Maryland 1
+San Francisco de Moxos,  Bolivia 7
+Mehrabad, Iran 10
+Ermenonville, France 346
+Hanoi, Vietnam 18
+Carson City, Nevada 4
+Bishop, California 36
+Tehran, Iran 15
+Francistown, Botswana 78
+Hilo Island, Hawaii 11
+Grogak, Bali, Indonesia 107
+Tashkent, Uzbekistan 1
+Leningrad, Russia 118
+Galveston, Texas 6
+Banos, Ecuador 22
+Nurnberg, Germany 3
+Springfield, Illinois 3
+Kiev, Ukraine, USSR 29
+Rankin Inlet, Canada 2
+Monte San Isidro,  Colombia 44
+Battambang, Khmer Republic 19
+Umiat, Alaska 5
+Bogota, Colombia 3
+MoHoa, Vietnam 5
+Mt. Apica, Canada 5
+Diemas, Syria 9
+Ouagadougou, Upper Volta 47
+Cali, Colombia 27
+Anaktuvuk, Alaska 4
+Margarita Island, Venezuela 48
+La Paz, Bolivia 7
+Kisangani, Zaire 31
+Tandjung-karang, Indonesia 35
+Ionian Sea , Kefallinia, Greece 88
+Charlotte, North Carolina 70
+Phan Rang, Vietnam 75
+Riverside, California 5
+Fairbanks, Alaska 2
+Lupine, Alaska 6
+Saint Thomas, U.S. Virgin Islands 2
+Medfra, Alaska 3
+Cairo, Egypt 6
+Formosa Strait 6
+Kassan, Alaska 5
+Calapan, Philippines 1
+Fort Apache, Arizona 2
+Blair, Oklahoma 2
+Chicao, Illinois 2
+Willow, Alaska 3
+Old Man's Camp, Alaska 4
+Pagosa Springs, Colorado 2
+Rae Point, Northwest Territories, Canada 32
+Sonderborg, Denmark 3
+Hoonah, Alaska 4
+Manila, Philippines 1
+Soddu, Ethiopia 2
+Nairobi, Kenya 59
+Barcelona, Spain 4
+Bear Mountain,  Thiells, New York 3
+Berryville, Virginia 92
+Maskeliya, Sri Lanka 191
+Old Harbors, Alaska 5
+MoHoa, South Vietnam 54
+Bukhara, Uzbekistan 7
+Maturin, Venezuela 77
+Riverton Heights, Washingon 4
+Carpathian Mts., Sibiu, Romania 33
+Moscow, Russia 61
+Nha Trang, Vietnam 9
+Palmer, Washington 3
+Sierra del Aconquija, Argentina 12
+Doncello, Colombia 21
+Whittier, California 14
+Juneau, Alaska 5
+Budapest, Hunary 9
+Sam Neva, Laos 16
+Istanbul, Turkey 42
+Santo Domingo, Dominican Republic 1
+Valdez, Alaska 2
+Houston, Texas 5
+Manila, Philippines 32
+Souda, Crete 40
+Fairbanks, Alaska 3
+Medellin, Colombia 5
+Sao Paulo, Brazil 15
+Waterford, Wisconsin 2
+Pleiku, South Vietnam 26
+Barito, Argentina 55
+Singa, Sudan 5
+Quilcene, Washington 16
+Saigon, Vietnam 155
+Goleta, California 3
+Deadhorse, Alaska 2
+Sardinata, Colombia 3
+Cape Paterson, Australia 2
+Savoonga, Alaska 6
+Sakon Nakhon, Thailand 23
+Manila, Philippines 1
+Pedro Alfonso, Brazil 1
+JFK Airport, New York, New York 113
+Toledo, Ohio 2
+Saravena, Colombia 3
+Nantes, France 8
+Colina, Chile 10
+Bogota, Colombia 2
+Homer, Alaska 2
+Poway, California 4
+Batumi, Georgia, USSR 41
+Imlay City, Michigan 6
+Taipei, Taiwan 28
+Immouzer, Morocco 188
+Amapala, Honduras 20
+Denver, Colorado 0
+Krasnovodsk, USSR 28
+Damascus, Syria 126
+Minford, Ohio 2
+Punta Amapala, El Salvador 20
+Gambell, Alaska 10
+Leipzig-Halle, East Germany 26
+Bahar Dar, Ethiopia 1
+Palembang, Indonesia 25
+Beirut, Lebanon 60
+Klua Tan Tan, Canada 7
+Barranquilla, Colombia 4
+Cairns Airport, Queensland, Australia 11
+Zephyr Cove, Nevada 2
+Tomonoco, Bolivia 67
+Prague, Czechoslovakia 75
+Gulf of Mexico 9
+State College, Pennsylvania 4
+Caoba, Guatemala 15
+Kharkov, Ukraine, USSR 19
+Novgorod (Russia 6
+Sofia, Bulgaria 3
+Bir Lahfan, Egypt 20
+Hertfordshire, England 6
+Elko, Nevada 2
+Tacloban, Philippines 9
+Rollinsville, Colorado 9
+Al Qaysumah, Saudi Arabia 82
+Moscow, Russia 61
+Anchorage, Alaska 6
+Grants, New Mexico 4
+Mactan Island, Philippines 7
+Bogota, Colombia 13
+Orofino, Idaho 3
+San Borja, Bolivia 7
+Loja, Ecuador 34
+Shanghai, China 40
+Chapeco, Brazil 9
+Frunze, Kyrgyzstan 6
+Lafayette, Louisiana 2
+Santa Maria, Colombia 3
+Madrid, Spain 7
+Hawk Inlet, Alaska 3
+Van Nuys, California 3
+Irkutsk, Russia 24
+St. Croix, Virgin Islands 5
+Sibiu, Romania 6
+Southeastern Bolivia 19
+Voronezh, Russia 120
+Igiugig, Alaska 4
+San Onofre, California 2
+Havana. Cuba 5
+Puerto Asis, Colombia 5
+Ketchikan, Alaska 1
+Friday Harbor, Washington 7
+Aspen, Colorado 2
+Neuquen, Argentina 34
+Palm Desert, California 6
+Gulf of Mexico 12
+Anaktuvuk, Alaska 5
+St. Thomas, Virgin Islands 37
+Monze, Zambia 11
+Camuigan, Philippines 4
+Kozani, Greece 50
+Cuneca, Spain 17
+Chernigov, Ukraine, USSR 52
+Petersburg, Alaska 6
+Zamboanga, Philipines 14
+Nacias Nguema, Equatorial Guinea 46
+Agana, Guam 45
+Kota Kinabalu, Malaysia 12
+Somerset, Colorado 2
+Entebbe, Uganda 7
+Daiku, Burma 17
+Huntsville, Missouri 5
+Greensburg, Kansas 2
+Bratislava, Czechoslovakia 76
+Billings, Vermont 3
+Tehran, Iran 5
+Andes Mountains, Ecuador 59
+Sunnyside, Utah 3
+Shanisu River, Peru 6
+Sondre Stromfjord,Greenland 23
+Thorney, England 18
+Ho Chi Minh City, Vietnam 1
+Lajes, Azores, Portugal 68
+Timmins, Ontario, Canada 10
+Adler, Russia 90
+Gaj, Hrvatska, Yugoslavia 176
+Karatepe Mountains, Turkey 154
+Mosher Creek, Canada 1
+San Bernardino, California 4
+Alpena, Michigan 15
+Nairobi, Kenya 4
+Bridgetown, Barbados 73
+Busick, North Carolina 4
+Bombay, India 95
+Santa Cruz, Bolivia 3
+Hampton, Virginia 4
+El Yopal, Colombia 32
+Petrolia, Brazil 2
+Banjarmasin, Indonesia 29
+AtlantiOcean 2
+Shannon, Ireland 5
+Eastville, Kisangani, Congo 6
+Moscow, Russia 72
+Grand Canyon, Arizona 2
+Cape May, New Jersey 3
+Kiev, USSR 48
+Bangkok, Thailand 53
+Wisconson 6
+Trujillo, Peru 19
+Palm Springs, California 4
+Alma Ata,  Kazakastan, USSR 96
+Anchorage, Alaska 5
+Terrace, BC, Canada 12
+Kalvesta, Sweden 22
+San Ramon, Bolivia 6
+Bratislava, Slovakia 5
+Mineralnye Vody, Russia 77
+Saglouc, Canada 4
+Aden, Yemen 20
+Cascina, Italy 44
+Niamey, Niger 2
+Saint Louis, Missouri 3
+Tezzeron Lake, British Columbia, Canada 5
+Tenerife, Canary Islands 583
+Bainaha Valley, Indonesia 15
+Zhadanof, Russia 8
+New Hope, Georgia 62
+SW of Bogota, Colombia 35
+Tapa AFB, Estonia 21
+Guatemala City, Guatemala 28
+Jericho, Jordan 54
+Beiruit, Lebanon 9
+Lusaka, Zambia 6
+New York, New York 4
+Havana, Cuba 68
+Houma, Louisiana 3
+Natal, Brazil 18
+Salto-Nueva Hesperides, Uruguay 5
+Wake Island 16
+Kirovograd, Ukraine 6
+Cuangar, Angola 30
+Jima, Ethiopia 5
+Ruby, Alaska 1
+Puerto Montt, Chile 38
+Yoro, Honduras 25
+Bernard Creek, Idaho 5
+Encino, California 2
+El Bolson, Argentina 6
+Engle, New Mexico 4
+Parkersburg, West Virginia 4
+San Jose, Costa Rica 3
+Deadhorse, Alaska 3
+Kona, Hawaii 2
+Hong Kong 4
+Minto Lake, Alaska 3
+Cuenca, Ecuador 33
+Mt. Iliamna, Alaska 13
+Mt. Loi Hsam Hsao, Burma 19
+Yakutat, Alaska 4
+Albuquerque, New Mexico 20
+Bucharest, Romania 29
+Salida, Colorado 6
+Kuala Lumpur,  Malaysia 34
+Stevens Pass, Pennsylvania 7
+Grand Chenier, Louisiana 2
+Gillsburg, Mississippi 6
+Mindoro, Philippines 24
+Belgrade, Yugoslavia 1
+San Cristobal de las Casas, Mexico 13
+Funchal, Island of Madeira, Portugal 131
+Rome, Italy 5
+Point Hope, Alaska 2
+Bariloche, Argentina 46
+Beziers, France 34
+Pinehurst, North Carolina 2
+Al Bayda, Lebanon 59
+Straits of Johore, Kampung Ladang, Malaysia 100
+Intracostal City, Louisiana 17
+Tarko-Saley, USSR 17
+Hierro, Canary Islands 13
+Evansville, Indiana 29
+Davenport, Indiana 2
+Madeira, Portugal 36
+Salt Lake City, Utah 3
+Vieques, Puerto Rico 5
+Nanisivik, Canada 8
+Giddings, Texas 2
+Willemstad, Curacao, Netherlands Antilles 10
+Cuenca, Ecuador 24
+Bandra, Maharashtra, India 213
+Marion, Illinois 2
+Dubois, Pennsylvania 2
+San Vincente, Colombia 14
+Eirunepe, Brazil 2
+Artigas, Uruguay 44
+Richland, Washington 17
+Cranbrook, British Columbia, Canada 42
+Genoa Peak, Nevada 4
+Merrill Pass, Alaska 3
+Solvang, California 7
+LAX, Los Angeles, California 2
+Agana, Guam 2
+Kano, Nigeria 18
+Caracas, Venezuela 47
+Laurel, Mississippi 2
+Whitelake, Michigan 2
+Vrastsa, Bulgaria 73
+Riverside, California 6
+Okaraba, Burma 48
+Volta Redonda, Rio de Janeiro, Brazil 4
+Galveston, Texas 3
+St. Thomas, Virgin Islands 2
+Murmansk, Russia 2
+Arlington, Indiana 9
+Upolu, West Samoa 10
+Bogota, Colombia 8
+Whittier, AK 6
+Pensacola, Florida 3
+Kouchi, Japan 13
+Pochinok, Russia 4
+Saint John's, Newfoundland 10
+Toronto, Canada 2
+Bergen, Norway 18
+Nairobi, Kenya 5
+Sogamoso, Bolivia 18
+Laboucher Bay, Alaska 12
+Raton, New Mexico 6
+Papun, Burma 14
+Las Vegas, Nevada 10
+AtlantiOcean 4
+Coal Harbour, BC, Canada 11
+Conakry, Guinea 15
+Kariba, Rhodesia (Zimbabwe) 38
+Savoy, Illinois 6
+Mexico City, Mexico 18
+Wrangell, Alaska 3
+Paranaque, Philippines 21
+AtlantiOcean 3
+Monroe, Massachusetts 3
+San Diego, California 137
+San Juan, Puerto Rico 6
+Kuopio, Finland 15
+Mandalay, Myanmar 2
+Sverdlovsk, Russia 38
+Kenai, Alaska 2
+Bellona, Solomon Islands 11
+Gulf of Sivash, USSR 26
+Torreon, New Mexico 4
+Belém, Brazil 9
+Alexandria, Egypt 18
+Lubbox, Texas 2
+Katunayake, Sri Lanka 183
+Hays, Kansas 2
+Marie Galante Island, West Indies 15
+Leh, India 77
+Rubio, Venezuela 27
+Hydaburg, Alaska 5
+Hartford, Connecticut 3
+Steamboat Springs, Coloado 2
+Selvapiana, Italy 10
+Hyderabad, India 1
+Morton, Illinois 2
+Chevak, Alaska 2
+Cinisi, Sicily, Italy 108
+Turks & Caicos Islands, Caribbean 10
+Portland, Oregon 10
+Templeton, Massachusetts 5
+Minsk, Russia 13
+Belgorod, Russia 3
+Grand Rapids, Michigan 4
+Bechar, Algeria 14
+Rodez, France 5
+Trebinje, Bosnia Herzegovina 3
+Agudos, Brazil 18
+Clarksburg, West Virginia 2
+Kariba, Rhodesia 59
+Manakau Harbor, New Zealand 2
+Barentu, Ethiopia 5
+Moanda, Gabon 3
+Greensville, Mississippi 3
+Gulfport, Mississippi 8
+Galesburg, Illinois 4
+Probolinggo, Indonesia 4
+Marina del Rey, California 3
+Doha Airport, Qatar 45
+Bejing, China 12
+Moscow, Russia 86
+Chardzhow, Russia 29
+Liepaya, Latvia 4
+Nightmute, Alaska 2
+Luanda, Angola 10
+Ste. Foy, PQ, Canada 17
+Carrizozo, New Mexico 3
+Avalon, California 1
+Newark, New Jersey 3
+Cuenca, Ecuador 57
+Baykity, Russia 4
+Chicago O'Hare, Illinois 271
+Shungnak, Alaska 7
+Bullen Point, Alaska 3
+Dakar, Senegal 12
+Rockland, Maine 17
+Leh, India 27
+Chicago, Illinois 2
+Hyannis, Massachusetts 1
+Medan Airfield, Indonesia 61
+Anchorage, Alaska 7
+Bua, Fiji 9
+Honolulu, Hawaii 3
+Beirut, Lebanon 6
+St. Croix, Virgin Islands 8
+Sumburgh, Shetlands, England 17
+Canton, Ohio 1
+Leningrad, USSR 14
+Panvel, India 45
+Pistol Creek, Idaho 6
+Flushing, New York 3
+Katab, Egypt 5
+Dneprodzerzhinsk, Ukraine, USSR 178
+Bogota, Colombia 1
+Enisseysk, USSR 11
+Kirsanov, Russia 63
+Frobisher Bay, Canada 9
+Andema, Russia 40
+Nice, France 10
+Taipei, Taiwan 6
+Klamath Falls, Oregon 12
+Sarroch,  Italy 31
+Blink Horn Point, Canada 4
+Merced, California 5
+Porpoise Bay, British Columbia Canada 2
+Juneau, Alaska 3
+Covington, Kentucky 8
+Athens, Greece 14
+Anchorage, Alaska 4
+Bloomington, Indiana 2
+San Ysidro, California 10
+Tijuana, Mexico 10
+Mexico City, Mexico 72
+Big Trout Lake, Canada 3
+Greenville, South Carolina 5
+Salem, Oregon 3
+Chicago, Illinois 0
+Vologda, Russia 3
+Granger, Utah 3
+Takla Narrows, British Columbia, Canada 3
+At Ta'if, Jeddah, Saudi Arabia 156
+Mt. Erebus, Ross Ice Shelf, Antarctica 257
+San Andres Island, Colombia 9
+Nome, Alaska 4
+Cherskiy, Russia 7
+Apolo, Bolivia 10
+Cerro Toledo Mountain, Colombia 19
+Puerto Esperanza, Peru 29
+Ankara, Turkey 41
+Menari, Papua New Guinea 15
+Haiti 9
+the AtlantiOcean 2
+Elburz Mtns., Laskarak, Markazi, Iran 128
+Mt. Cemonyet,  Indonesia 13
+Mandalay, Burma 43
+Baracoa, Cuba 1
+Sydney, NSW, Australia 13
+Leeville, Louisiana 6
+Agra, India 46
+Manila, Philippines 2
+Warsaw, Poland 87
+Yenice, Turkey 18
+Houston, Texas 7
+Macae, Brazil 14
+Deer Lake, Canada 6
+Cuiaba, Brazil 9
+Florianopolis, Brazil 55
+Posht-i-Badam, Iran 5
+Tenerife, Canary Islands 146
+Don Muang, Thailand 44
+Campinas, Brazil 7
+Varadero, Cuba 3
+Rio Hacha, Colombia 70
+Sarasota, Florida 2
+Gran Canaria Island, Spain 11
+Yachiba, Bolivia 13
+Matala, Angola 29
+Valley, Nebraska 13
+Dushanbe, Russia 29
+Lihue, Hawaii 2
+Tyrrhenian Sea,  Ustica, Italy 81
+Tepic, Mexico 13
+Nar Alma-Ata, Kasakastan, USSR 166
+Golovin, Alaska 8
+Tusayan, Arizona 8
+Philadelphia, Pennsylvania 3
+Cerro Lilio, Mexico 3
+Togiak, Alaska 2
+Houma, Louisiana 13
+Nouadhibou, Mauretania 1
+Rio de Janeiro, Brazil 3
+Sa Cabaneta, Spain 4
+Qatar, Qatar 2
+Ramstein AFB, West Germany 11
+Riyadh, Saudi Arabia 301
+Jakarta, Indonesia 37
+Montelimar, France 8
+Puerto Olaya, Colombia 3
+Freeport, Bahamas 34
+Kindu, Zaire 36
+Medina, Saudi Arabia 89
+Kindu, Zaire 36
+Mount Smjorfjollum, Iceland 3
+Badakshan, Afghanistan 45
+Gainsville, Florida 3
+Caracas, Venezuela 11
+Cairo, Egypt 13
+Annanberg, Papua New Guinea 4
+Seoul, South Korea 15
+Medellin, Colombia 20
+Pecos City, Texas 2
+Dar es Salaam, Tanzania 10
+Michigan City, IN 4
+Cold Bay, Alaska 4
+Tumut,, Australia 2
+Mt. Elena, Colombia 50
+Spokane, Washington 7
+Winnemucca, Nevada 2
+Leningrad, Russia 52
+Houma, Louisiana 4
+White Plains, New York 8
+Avalon, California 2
+Belem, Brazil 11
+North Adams, Massachusetts 2
+Tabones Island  Philippines 23
+Fallon, Nevada 2
+Moroni, Comoro Islands 18
+Shemya AFB, Alaska 6
+Redzikowo, Poland 1
+Galena, Alaska 4
+Mt. Hagen, Papua, New Guinea 8
+Laguna Soliz, Bolivia 7
+Cincinnati, Ohio 1
+Loveland, Colorado 15
+Pekanbaru, Indonesia 15
+Fredrick, Maryland 21
+Rio de la Plata, Argentina 31
+Menongue, Angola 4
+Pinarete Mountain, Mexico 20
+Zumba, Ecuador 18
+Guachala, Ecuador 27
+Avalon, California 2
+Cairo, Egypt 17
+Ust-Barguzin, Russia 52
+Hualien, Taiwan 2
+Miraflores, Colombia 2
+Nailstone, England 3
+Muskegon, Michigan 5
+Yerevan, Armenia 4
+Mogadishu, Somalia 50
+Kansas City, Kansas 4
+Madagascar 19
+Caruru, Colombia 4
+Chihuahua, Mexico 30
+Skagway, Alaska 6
+Sanyi, Miao-li, Taiwan 110
+Zavitinsk, Russia 31
+Zeya, Russia 3
+Paipa, Colombia 21
+Zeleznogorsk, Russian 33
+Nellis AFB, Nevada 7
+Babaeski, Turkey 0
+Tehran, Iran 60
+Casper, Wyoming 3
+Moerdijk, Netherlands 17
+Kufstein, Austria 9
+St. Thomas, U.S. Virgin Islands 5
+Bafoussam, Cameroon 1
+Sierra de Guerro, Mexico 18
+Mount Pocono, Pennsylvania 4
+Norilsk, Russia 99
+Biratnagar, Nepal 10
+Castries, Saint Lucia Island 3
+Mt. San Pietro, Ajaccio, Corsica, France 180
+Honolulu, Hawaii 11
+Tyonek, Alaska 4
+Mt. McKinley, AK 2
+Kuala Belait, Brunei 12
+Covenas, Colombia 13
+Cape Town, South Africa 7
+Durango, Colorado 4
+Gelendzhik, USSR 18
+Helena, Montana 2
+Washington, D.C. 74
+Addis Ababa, Ethiopia 73
+Logan Airport,  Boston, Massachusett 2
+Constanta, Romania 7
+Djibouti, Djbouti 35
+Island of Cheju, South Korea 53
+Srinagar, India 23
+Tokyo, Japan 24
+Mt. Ipao, Philippines 3
+Cerro el Tablazo, Colombia 4
+Providence, Rhode Island 1
+Mehamn, Norway 15
+Mount Galunggung, Indonesia 0
+Southern Belarus, USSR 132
+Leesburg, Florida 3
+Woodstock, Illinois 27
+Branti Airport, Indonesia 27
+Queate, Colombia 21
+Tanana, Alaska 3
+Erzurum, Turkey 27
+Yangshuo, Guangxi, China 112
+Hakalau, Hawaii 2
+Gulf of Thailand 13
+Aden, Yemen 47
+Judsonia, Arkansas 7
+South AtlantiOcean 21
+Brazilia, Brazil 2
+Natuma Island, Indonesia 10
+Songnam-si, South Korea 53
+Pacatuba, Brazil 137
+Tabatinga, Brazil 44
+Bombay, India 17
+Oganda, Gabon 12
+Moscow, Russia 90
+Kenner, Louisiana 145
+Jolo, Philippines 4
+Oxbow, Oregon 4
+Castaic, California 0
+Sitka, Alaska 4
+Concord, New Hampshire 2
+PacifiOcean 1
+Mindat, Myanmar 8
+Sukhumi, Georgia, USSR 11
+Managua, Nicaragua 20
+Castries, Saint Lucia 10
+Knotsville, Tennessee 9
+Valladolid, Ecuador 44
+Rio Branco, Brazil 10
+Mannheim, West Germany 46
+Malaga, Spain 50
+Nondalton, Alaksa 4
+Two Bridge Lake, British Colombia, Canada 5
+Kotzbue, Alaska 4
+Luxembourg, Luxembourg 7
+AtlantiOcean 8
+Taiwan 15
+Cullman, Alabama 2
+Lubango, Angola 15
+Quetame, Colombia 22
+Douglassville, Pennsylvania 3
+Pueblo, Colorado 2
+San Andres de Bocay, Nicaragua 84
+Klawock, Alaksa 8
+La Serena, Chile 46
+Defiance, Ohio 2
+Mesvres, France 10
+Rostov-on-Don, Russia 16
+Guangzhou, China 25
+Brainerd, Minnesota 1
+Detroit, Michigan 3
+Karimui, Papua New Guinea 10
+Ankara, Turkey 47
+Fayetteville, North Carolina 6
+Brooksville, Florida 2
+Macae, Brazil 11
+Shach Goan, Afghanistan 19
+Barquisimeto Venezuela 23
+Jeffersonville, Georgia 4
+Newark, New Jersey 2
+Guangzhou, China 8
+Selawik, Alaska 2
+Khartoum, Sudan 8
+Leninakan, Russia 21
+Toba, Japan 14
+Iwakuni AB, Japan 11
+Guayaquil, Ecuador 8
+Jacksonville, Florida 14
+Ban Ta Khli, Thailand 30
+En route Miami, FL - Nassau, Bahamas 0
+Tanjung Karang, Indonesia 3
+Cincinnati International Airport, Covington/Hebron, Kentucky 23
+Quemoy, Taiwan 47
+Kauai, Hawaii 14
+Niela, Mali 7
+Cortez, Colorado 2
+Las Vegas, Nevada 6
+Labe, Guinea 23
+Cuenca, Azuay, Ecuador 119
+Scilly Islands, UK 20
+Gimli, Manitoba, Canada 0
+Ambone, Indonesia 7
+Bula, Indonesia 2
+Evart, Michigan 2
+Grand Canyon, Arizona 10
+Dundo, Angola 7
+Adavale, Queensland, Australia 12
+Alma-Ata, Kazakastan, USSR 90
+Sakhalin Island, Russia 269
+Smithers, British Columbia, Canada 9
+Guilin, China 11
+Mina Jebel Ali, UAE 112
+Flagstaff, Arizona 2
+Lanyu Island, Taiwan 10
+Tashkent, Uzbekistan 9
+Springfield, Missouri 4
+Aracatuba, Brazil 7
+Lonkin, Myanmar 9
+Pinckneyville, Illinois 10
+Middletown, Pennsylvania 1
+Lubango, Huila, Angola 130
+Landsdowne House, Canada 4
+Midland, Texas 8
+Madrid-Barajas, Spain 181
+Enugu, Nigeria 53
+Madrid, Spain 93
+Put-In-Bay, Ohio 4
+Medellin, Colombia 3
+Paulatuk, Northwest Territory, Canada 2
+Leshukonskoye, Russia 44
+Amman, Jordan 13
+Saint Louis, Missouri 1
+Sofia, Bulgaria 50
+Cochabamba, Bolivia 1
+Manado, Indonesia 6
+Izhevsk, Russia 4
+Terre Haute, Indiana 3
+Debre Zelt, Ethiopia 26
+San Gerardo, El Salvador 28
+Prosperine, Australia 2
+Colombia 7
+Matsuyama, Japan 12
+JFK Airport, New York, New York 0
+Borja, Spain 18
+Cumberland, Maryland 3
+Barranquilla, Colombia 4
+San Borja, Bolivia 23
+Hunghae, South Korea 29
+Rurrenabaque, Bolivia 5
+ Bimini 6
+Florianopolis, Brazil 4
+Imperatriz, Brazil 19
+Elbet Beni Salama, Egypt 2
+Ushuaia, Argentina 12
+Chalkhill, Pennsylvania 4
+Windsor Locks, Connecticut 3
+Island Beach, New Jersey 3
+Sao Pedro d' Aldeia, Brazil 18
+Port Hardy, British Columbia, Canada 9
+Buenavista, Philippines 30
+Sigonella AFB, Italy 9
+Ouzinkie, Alaska 4
+Tau Island, American Samoa 1
+Anchorage, Alaska 5
+Vieques, Puerto Rico 9
+Dacca, Bangladesh 49
+Nawabshah, Pakistan 24
+Machakos, Kenya 9
+Memphis, Tennessee 3
+Wamena, Indonesia 2
+Pontiac, Michigan 2
+San Luis Obispo, California 17
+Douala, Cameroon 2
+Mt. Musaka, Papua, New Guinea 9
+Naples, Florida 1
+the Kwango River, Zaire 30
+Opole, Poland 11
+Quito, Ecuador 4
+Sarakchar, Afghanistan 50
+Orillia, Ontario, Canada 2
+Ausin, Nevada 3
+Fort Franklin, Canada 7
+Omsk, Russia 174
+Goose Bay, Newfoundland, Canada 4
+Kabul, Afghanistan 20
+Kabul, Afghanistan 240
+Davao, Philippines 4
+Inverness, England 1
+Loja, Peru 14
+Kostroma, USSR 10
+Jacksonville, Florida 13
+Jammuin, India 19
+Bainbridge, New York 4
+Jaen, Peru 21
+Bhojpur, Nepal 15
+Kranoyarsk, Russia 110
+La Paz, Bolivia 29
+Kansas City, Kansas 3
+Jinan, China 38
+Havana, Cuba 38
+Carson, New Mexico 3
+Reno, Nevada 70
+Puerto Castilla, Honduras 21
+Buga, Colombia 17
+Cerro el Plateado, Colombia 23
+Whitefield, New Hampshire 4
+Minsk, Belarus, USSR 58
+Soldotna, Alaska 9
+Altus, Oklahoma 2
+Nasosny, Russia 57
+Central Point, Oregon 4
+Banjarmasin, Indonesia 9
+Durango, Vizcaya, Spain 148
+300 nm NW of San Francisco, California 0
+Timbuktu, Mali 50
+Valdez, Alaska 3
+Fort Hood, Texas 6
+Florencia, Colombia 46
+Salta, Argentina 7
+Athens, Louisiana 4
+Phuket, Thailand 11
+Las Cruces, New Mexico 0
+Tuba City, Arizona 6
+Kulusuk, Greenland 2
+Santa Rosa, Bolivia 4
+L'vov, Ukraine, USSR 76
+Tanegashima, Japan 17
+Vilanculos, Mozambique 5
+Golovin, Alaska 2
+Harrison, Arkansas 2
+Cabimas, Venezuela 2
+Nashville, Tennessee 2
+Athens, Greece 1
+Juara, Brazil 17
+AtlantiOcean, 110 miles West of Ireland 329
+Charlotte, North Carolina 2
+Uchuduk, Uzbekistan, USSR 200
+Erie, Pennsylvania 2
+Leticia, Colombia 80
+Ft. Worth-Dallas, Texas 134
+Mt. Osutaka, Ueno Village, Japan 520
+Mulia, Indonesia 8
+Aden, Yemen 3
+Gulkana, Alaska 3
+Manchester, England 55
+Auburn, Maine 8
+Beale AFB, California 7
+Kokoda, Papua New Guinea 3
+Kandahar, Afghanistan 52
+Milwaukee, Wisconsin 31
+Afghanistan 26
+Grottoes Grove, Virginia 14
+Kharkov, Ukraine 9
+Jenkinsburg, Georgia 17
+Tory Canal, New Zealand 8
+Vitória da Conquista, Brazil 2
+South Head, Australia 2
+Beni, Bolivia 2
+Kutayissi, USSR 14
+Homer City, Pennsylvania 1
+Putao, Myanmar 4
+Juneau, Alaska 4
+Bethel, Alaska 2
+Dothan, Alabama 4
+Quinhagaki, Alaska 4
+Sibyak, Indonesia 11
+Luqa, Malta 60
+Luassingua, Angola 22
+Gander, Newfoundland, Canada 256
+Nepal 25
+De Kalb, Texas 7
+Peten, Guatemala 87
+Ellendale, Minnesota 3
+Sao Paulo, Brazil 1
+Las Lomitas, Mexico 21
+Kasongo, Zaire 2
+Makung, Taiwan 13
+Bugulma, Russia 38
+Bern, Switzerland 8
+Alpena, Michigan 3
+Naha, Indonesia 2
+Goose Bay, Newfoundland, Canada 4
+Omsk, Soviet Union 9
+Bangui, Central African Republic 0
+Pemba, Mozambique 49
+Maravatio, Mexico 167
+Athens, Greece 4
+Magdalena, New Mexico 11
+Saravena, Colombia 13
+San Salvador, El Salvador 37
+Taipei, Taiwan 22
+Colombo, Sri Lanka 22
+Hanty-Mansijsk, Soviet Union 5
+AtlantiCity, New Jersey 2
+Djibouti, Djibouti 19
+Antananarivo, Madagascar 13
+Cairo, Egypt 23
+Port Ellen, Islay Island 1
+Howard AFB, Panama 4
+Grand Canyon, Arizona 25
+Penza,  Russia 1
+Syktyvar, Russia 54
+Maputo, Mozambique 17
+Yosemite Nation, California 3
+St. Vincent, Leeward Islands 13
+Wampusirpi, Honduras 59
+Malakal, Sudan 60
+Frenchglen, Oregon 6
+Lander, Wyoming 7
+Texarkana, Arkansas 2
+Cerritos, California 67
+Tullamarine, VIC, Australia 6
+Karachi, Pakistan 16
+Hopkinsville, Kentucky 3
+Amsterdam, Netherlands 1
+Mantiqueira, Brazil 5
+Manado, Indonesia 13
+San Antonio, Texas 3
+Ust-Maya, USSR 14
+Shiraz, Iran 3
+Valparasoll, Chile 11
+Fishers Island, New York 2
+Komatipoot, South Africa 34
+Kuybyshev, Russia 70
+Manhattan, New York 2
+Peshawar, Pakistan 13
+Managua, Nicaragua 21
+Zahedan, Iran 103
+Sumburgh Head, Shetlands, Scotland 45
+Sarowbi, Afghanistan 40
+Berlin, East Germany 70
+Lanzhou, China 6
+Ay, Saudi Arabia 63
+Nasaso, Fiji 11
+Bata, Equatorial Guinea 22
+Abidjan, Ivory Coast 50
+Toronto, Canada 1
+Asmara, Ethiopia 54
+Salt Lake City, Utah 10
+Cima, California 1
+Monrovia, Liberia 16
+Jakiri, Cameroon 11
+Papua, New Guinea 14
+Khost, Afghanistan 36
+Durango, Mexico 1
+Detroit, Michigan 9
+Almaty, Kazakhstan 9
+Spokane, Washington 6
+Mount San Gorgonio, California 2
+Eagle, Colorado 3
+Parachinar, Pakistan 40
+Anchorage, Alaska 2
+Skien, Norway 10
+Medan-Polonia, Indonesia 27
+Kansas City, Kansas 4
+Wilmington, North Carolina 2
+Malakal, Sudan 13
+Batagay, Russia 6
+Mayaguez, Puerto Rico 2
+Warsaw, Poland 183
+Pickle Lake, Ontario, Canada 2
+Sayre, Pennsylvania 2
+Santa Cruz, Bolivia 14
+Ruteng, Indonesia 8
+Ilaga, Indonesia 6
+Lübeck , Germany 2
+Bolivar State, Venezuela 10
+Khost, Afghanistan 53
+Montelillo, Peru 46
+Berdiansk, USSR 8
+Heho, Burma 45
+Baguio, Philippines 50
+Fort Bragg AFB, North Carolina 4
+Geneva, Switzerland 1
+Mexico City, Mexico 5
+Guatemala City, Guatemala 2
+Calama, Chile 2
+Chungking, Sichuan, China 108
+Romulus, Michigan 154
+Auturn, France 4
+Ko Phuket, Thiland 83
+Carajas, Brazil 9
+Kunduz, Afghanistan 15
+Luxor, Egypt 5
+Hailey, Idaho 3
+Pagan, Myanmar 49
+El Poleo, Colombia 2
+Mt. Crezzo, Italy 37
+Komsomolsk-on-Amur, Russia 9
+Bellingham, Washington 4
+Ulongue, Malawi 10
+Ross River, Canada 2
+Denver, Colorado 28
+Homer, Alaska 18
+Kaikoura, New Zealand 2
+Green Island, Taiwan 10
+Bayfield, Colorado 9
+Mauritius, Indian Ocean 159
+the Andaman Sea 115
+Kishwati, Rwanda 14
+San Luis Obispo, California 43
+Lima, Peru 42
+Kanabea, Papua New Guinea 1
+Iligan, Philippines 15
+Vila dos Remidos, Brazil 29
+Bordeaux, France 16
+Eugene Island 15
+Chadron, Nebraska 2
+Kenai, Alaska 6
+Maunaloa, Hawaii 8
+PacifiOcean 17
+Izmir, Turkey 16
+Monroe, Louisiana 2
+Mt. Colorado, Bolivia 9
+Krosnovodsk, USSR 11
+Nizhnevartovsk, Russia 27
+Panama 16
+Helena, Montana 3
+Mulheim, Germany 21
+Cary, North Carolina 12
+Surgut, Russia 20
+Ercan, Cyprus 15
+Johannesburg, South Africa 17
+Fontainebleau, France 23
+Quito, Ecuador 11
+Clarksville, Tennessee 17
+Cucuta, N of  Santander, Colombia 143
+Cairo, Egypt 4
+Combi, Cyprus 2
+Mazâr-e Charif, Afghanistan 29
+Hennenman, South Africa 24
+St. Just, France 6
+Bagdarin, USSR 17
+Tchamulate, Angola 29
+Morristown, New Jersey 1
+Linfen, China 42
+Maui, Hawaii 1
+Broennoysund, Norway 36
+Swentna, Alaska 3
+New Orleans, Louisiana 0
+Puerto Limon, Costa Rica 6
+Hannover, Germany 2
+Quito, Ecuador 11
+Greenville, Mississippi 6
+Posadas, Argentina 22
+Central Mozambique 21
+Habsheim, France 3
+the Persian Gulf, Bandar Abbas, Iran 290
+Barranquilla, Colombia 8
+Golden Meadow, Louisiana 3
+Lagos, Nigeria 6
+Liscomb Bay, Alaska 3
+Sofia, Bulgaria 28
+Reykjavik, Iceland 3
+Northern Afghanistan 39
+Bahawalpur, Pakistan 30
+Duncan Town, Bahamas 6
+M'Bamu Island, Zaïre 5
+Irkutsk, Russia 4
+Kaiserslautern, West Germany 3
+Kowloon Bay, Hong Kong 7
+Cerro de la Calera, Mexico 20
+Merida, Mexico 1
+Dallas, Texas 14
+Sitka, Alaska 1
+Bangkok, Thailand 76
+Lago Agrio, Ecuador 7
+Cheney, Ontario, Canada 2
+Bahar Dar, Ethiopia 35
+Miram, Pakistan 34
+Wurtsmith AFB, Michigan 6
+Sedona, Arizona 5
+Rome, Italy 33
+Gauhati, India 34
+Ahmedabad, India 124
+Juliaca, Peru 12
+Rzeszow, Poland 1
+Jacksonville, Florida 4
+Ilmajoki, Finland 6
+Toussus, France 7
+Montluçon, France 4
+Hamada al Hambra, Libya 14
+Kodinsk, Russia 6
+Bîr Mogreïn, Mauritania 5
+Afghanistan 25
+Leninakan, Armenia, USSR 77
+Luxor, Egypt 8
+Leonora, WA, Australia 10
+Lockerbie, Scotland 259
+West Lafayette, Indiana 2
+Leicestershire, England 47
+Dayton, Ohio 2
+La Paz, Bolivia 5
+Fairbanks, Alaska 11
+Abilene, Texas 19
+Rangoon, Myanmar 26
+Marseille, France 3
+Santa Maria, Azores, Portugal 144
+Bucharest, Romania 5
+Kuala Lumpur, Malaysia 4
+Corona, California 10
+Honolulu, Hawaii 9
+Tegucigalpa, Honduras 10
+QuebeCity, Quebec, Canada 2
+Dryden, Ontario, Canada 24
+Lima, Peru 10
+Carswell AFB, Texas 2
+Pohang, South Korea 19
+Guarulhos, Brazil 3
+Col de Tourniol, France 22
+Cucuta, Colombia 11
+Baranquilla, Colombia 5
+Cancun, Mexico 6
+Columbia, Tennessee 1
+Oskarshamn, Sweden 16
+Tainjin, China 10
+Paramaribo, Surinam 176
+Vereda el Salitre, Colombia 6
+Waipio Valley, Hawaii 11
+Berlin, Germany 20
+Zabol, Iran 6
+Tarma, Peru 62
+Kaohsiung, Taiwan 12
+Yaounde,  Cameroon 3
+Borana, Somalia 30
+Cartersville, Georgia 2
+Glen Burnie, Maryland 2
+Sioux City, Iowa 112
+Talourow Island, USSR 10
+Porgera, New Guinea 3
+Manila, Philippines 1
+Jalalabad, Afghanistan 30
+Chana, Angola 42
+Tripoli, Libya 75
+Ullung Do, South Korea 13
+Auckland, New Zealand 3
+Samos, Greece 34
+Gambela, Ethiopia 16
+Midford Sound, New Zealand 10
+Janice, Mississippi 2
+Gold Beach, Oregon 3
+Gilgit, Pakistan 54
+Lynchburg, Virginia 5
+Havana, Cuba 126
+Sao Jose do Xingu, Brazil 13
+Skagerrak, Denmark 55
+Bentuni, Indonesia 22
+Mayfield, Kentucky 6
+Bilma, Niger 171
+Fairbanks, Alaska 2
+La Guardia Airport, New York, New York 2
+Baghran, Afghanistan 24
+Ujani Dam, India 11
+Terrace,  Canada 7
+Nyala, Sudan 6
+Grand Canyon National Park Airport, Tusayan, Arizona 10
+Semyonovka ,Ukraine 9
+Perth, Ontario, Canada 4
+Uncertain, Texas 5
+Urpay, Peru 12
+Lacey Township, New Jersey 5
+Leninakan, Russia 25
+Tegucigalpa, Honduras 127
+Hualein, China 54
+Petropavlovsk, USSR 36
+Halawa Point, Molokai, Hawaii 20
+Monrovia, Liberia 2
+Maluti Mountains, Lesotho 18
+Bardufoss, Norway 4
+Tyumem, Russia 34
+Albania 24
+Seoul, South Korea 1
+Bogota, Colombia 107
+Jamba, Angola 5
+Charallave, Venezuela 3
+Block Island, Rhode Island 8
+Patuxent, Maryland 5
+Guayaramerin, Bolivia 24
+Ibague, Colombia 15
+Pasco, Washington 6
+Visina, Romania 7
+Milford Sound 5
+Java Sea, Indonesia 9
+Pervouralsk, Russia 27
+Pico Blanco, Costa Rica 23
+Leadville, Colorado 1
+Ansonia, Ohio 2
+Caracas, Venezuela 25
+Cove Neck, New York 73
+Mt Rijani, Lombok Island, Indonesia 19
+Kinkala, Congo 28
+Burlington, Vermont 2
+Plattsburg, New York 1
+Bauru, Brazil 2
+Bangalore, India 92
+Ngwerere, Zambia 29
+Denver, Colorado 1
+Meerut, India 0
+Sukhbaata, Mongolia 30
+Miami, Florida 2
+Freetown, Sierre Leone 11
+Las Mesitas, Honduras 3
+Santiago de Cuba 4
+Kabul, Afghanistan 11
+Kuito, Angola 25
+Juiz De Fora, Brazil 2
+Vaeroy, Norway 5
+Contadora, Panama 20
+Kinshasa, Zaire 20
+Manila, Philippines 7
+Ship Sands Island, ON, Canada 1
+Tarbert, England 10
+Guatamala City , Guatemala 3
+Tuxtla-Gutierrez, Mexico 20
+Manila, Philippines 8
+Mt. Emerald, Qld, Australia 11
+Wurzburg , Germany 10
+Manila, Philippines 21
+Thistle Lake, Northwest Territory, Canada 2
+Altamira, Brazil 23
+Oxfordshire, England 0
+Aialak Bay, Alaska 5
+Ashford, Washington 5
+Port Morseby, New Guinea 8
+Union Island, Grenadines Islands 2
+Maymaneh, Afghanistan 30
+Huanuco, Peru 9
+Stepanakert, Azerbaijan, USSR 47
+Shindand, Afghanistan 83
+Yunlin, Taiwan 18
+Elkhorn, Wisconsin 5
+Lata, Georgia 61
+Kaiserslautern, Germany 13
+Kaltag, Alaska 3
+Newfoundland, Canada 18
+Sondre Stromfjord, Greenland 8
+Koltsovo, Russia 4
+Fernando de Noronha, Brazil 12
+San Luis Obispo, California 4
+Kuwait City, Kuwait 130
+Guangzhou, China 128
+Cape Canaveral, Florida 1
+Bella Vista, Bolivia 4
+Santiago de Cuba, Cuba 11
+Novossibirsk, Russia 9
+Stadelberg, Switzerland 46
+Medellin, Colombia 16
+Ashkhabad, Turkmenistan, USSR 15
+Cleveland, Ohio 2
+Koh Samui, Thailand 38
+Ravenna, Italy 13
+Romulus, Michigan 8
+Nairobi, Kenya 10
+Matak, Indonesia 10
+False Pass, Alaska 1
+Paramo Mucuti, Venezuela 21
+Belo Horizonte, Brazil 5
+Jalaludin, Indonesia 1
+Ras Al Khafji, Saudi Arabia 13
+LAX, Los Angeles, California 34
+Nea Ankhialos, Greece 63
+Munford, Alabama 4
+Aspen, Colorado 3
+Taisha, Ecuador 22
+Puerto Williams, Chile 20
+Colorado Springs, Colorado 25
+La Puerta, Venezuela 45
+Hassfurt, Germany 6
+San Diego, CA 10
+Malanje, Angola 9
+Brasillia, Brazil 7
+Treasure Cay, Bahamas 5
+Ras-al-Mishab, Saudi Arabia 98
+San Diego, California 27
+Navoi,  Uzbekistan 34
+Bangalore, India 28
+San Pedro, Belize 8
+Lake Thutade, Canada 6
+Marion, Pennsylvania 5
+Brunswick, Georgia 23
+Nuka Hiva, French Polynesia 11
+Awell, Sudan 8
+Sulawesi, Indonesia 13
+Grand Canyon, Airzona 7
+La Poyatta, Colombia 13
+Leningrad, USSR 13
+Bakhtaran, Iran 4
+Ban Nong Rong, Thailand 223
+Matthewtown, Great Inagua 2
+Luanda, Angola 7
+Malambo, Colombia 2
+Gulf of Finland, Russia 10
+Sokotu, Nigeria 4
+El Yopal, Colombia 3
+Bellavista Airport, Peru 15
+Birmingham, Alabama 13
+Jeddah, Saudi Arabia 261
+Guadalcanal Island, Solomon Islands 15
+Detroit, Michigan 3
+Salmon, Idaho 5
+Espiritu Santos, Vanuatu 9
+Rarotonga, Cook Islands 6
+Uricani, Romania 9
+Gustavus, Alaska 6
+Imphal, India 69
+Ketchikan, Alaska 4
+Walton, Oregon 3
+Long Seridan, Malaysia 14
+Sampit, Indonesia 3
+Eagle Lake, Texas 14
+Petropavlosk, USSR 13
+Baranquilla, Colombia 7
+Belvedere Center, Vermont 2
+Khatanga, Russia 1
+St. Petersburg, USSR 10
+Villavicencio,  Colombia 1
+Condet, Indonesia 134
+Katapang, Indonesia 1
+Aponguao Falls, Venezuela 12
+Tumbang Miri, Indonesia 17
+Vallejo, California 3
+Point Alert, Ellesmere Island, NWT,Canada 5
+Karakent, USSR 40
+Makhackala, Russia 51
+Recife, Brazil 15
+Destin, Florida 1
+Anderma, Russia 20
+Nagoro-Karabak, USSR 23
+Davis, California 3
+Khodzhavend, Russia 20
+Sena, Mozambique 1
+Bugulma, Russia 41
+Guaratingueta AB, Brazil 20
+ Las Vegas, Nevada 5
+Rome, Georgia 9
+Heidelberg, Germany 27
+Stockholm, Sweden 0
+Massai Marra, Kenya 5
+Wanli, Taiwan 5
+Gabriels, New York 2
+Temple Bar, Arizona 2
+Mt. Saint-Odile, Strasbourg, France 87
+Nanaimo, British Columbia, Canada 7
+Stepanakert, Azerbaijan 47
+Caetite, Brazil 12
+Evansville, Indiana 5
+Kafountine, Senegal 30
+Toledo, Ohio 3
+En route from Argentina  to  California 1
+Beni, Bolivia 5
+Etsouali, Congo 3
+Knotsville, Tennessee 2
+La Guardia Airport, New York, New York 27
+Yakutia, Russia 10
+Athens, Greece 7
+Baykovo, Russia 1
+Sarra, Libya 3
+Orchid Island, Taiwan 7
+Goroka, Papua New Guinea 11
+Nairobi, Kenya 46
+Hamburg, Pennsylvania 4
+Perris Valley, California 16
+Mt. Haleakala, Hawaii 9
+Saveh, Iran 39
+Blewett Falls Lake, North Carolina 9
+Tucuti, Panama 47
+Mayaguez, Puerto Rico 5
+Anniston, Alabama 3
+Sheboygan Falls, Wisconson 2
+Canbera, ACT, Australia 6
+Meadview, Arizona 10
+Cruzeiro do Sul, Brazil 3
+Norlisk, Russia 10
+St. Thomas, Virgin Islands 4
+Iyakochchi, Sri Lanka 19
+Bethel, Alaska 1
+Nakhichevan, Azerbaijan 29
+Bir Fadl, Yemen 57
+Tbilisi, Georgia 24
+Mt. Lalaboy,  Indonesia 70
+Skopje, Macedonia 8
+Mexico City, Mexico 4
+Iguape, Brazil 6
+Adjuntas, Puerto Rico 4
+ Kathmandu, Nepal 167
+JFK Airport, New York, New York 0
+Kathmandu, Nepal 113
+Nanjing, Jiangsu, China 108
+Colorado, Bolivia 10
+Hot Springs, Arizona 3
+Ivanovo, Russia 84
+Gimli, Manitoba, Canada 3
+El Salvador 12
+Iquitos, Peru 8
+Jamba, Angola 3
+Hinckley, Illinois 12
+Bellavista, Peru 1
+Kozyrevsk, Russia 10
+Hana, Hawaii 7
+Curacao, Netherlands Antilles 3
+Bogota, Colombia 11
+Kular, Russia 10
+Lagos, Nigeria 158
+Amsterdam, Netherlands 4
+Berkeley Springs, West Virginia 6
+Dingxi, China 14
+Mogadiscio, Somalia 1
+Garut, Jawa, Indonesia 31
+Usti Nem, Russia 15
+Lake Caballochoa, Peru 8
+Chita, Russia 13
+Grand Junction, Colorado 3
+Kiana, Alaska 3
+Tver, Russia 33
+Bombay, India 20
+Nha Trang, Vietnam 30
+Porto Plata, Dominican Republic 34
+Elk City, Idaho 3
+Liutang, Guangxi, China 141
+Harlem, Montana 13
+Uruapan, Mexico 9
+Goma, Congo 37
+Faro, Algarve, Portugal 56
+Tripoli, Libya 157
+Ofden, Utah 4
+Paris, France 4
+Surabaya, Indonesia 17
+Sellafield, England 2
+Bronson Creek, British Colombia, Canada 2
+Kinshasa, DemocratiRepubliCongo 3
+Sumatra, Indonesia 16
+Tehran, Iran 133
+Daraim, Afghanistan 30
+Bogota, Colombia 2
+Green Island, Taiwan 6
+Skopje, Macedonia 83
+Grants, New Mexico 4
+Dagali, Norway 3
+Tangara de Serra, Brazil 6
+Anchorage, Alaska 0
+Blountville, Tennesee 4
+Aspen, Colorado 3
+Margarita Island, Venezuela 11
+950 nm S of  Shemya, Alaska 2
+Zwingle, Iowa 8
+Zavnah, Mongolia 40
+Aurangabad, India 56
+Kholm, Afghanistan 76
+ Libreville, Gambia 30
+Shelton, Nebraska 2
+Suva, Fiji 2
+Cancun, Mexico 3
+Medellin, Colombia 132
+El Yopal, Colombia 2
+Ariab, Sudan 11
+Gulgubip, Papua New Guinea 9
+Nabire, Indonesia 1
+Tbilisi, Georgia 40
+Sorong, Irian Jaya, Indonesia 41
+Ochamchire, Georgia 23
+Las Vegas, Nevada 3
+Talladega, Alabama 1
+Yinchuan, China 55
+Haenam, South Korea 68
+Serawak, Malaysia 1
+Devghat, Nepal 19
+Augusta, Georgia 4
+Leeward Point Airfield, Guantanamo Bay, Cuba 0
+Aldan, Russia 24
+Khorag, Tajikistan 82
+Warsaw, Poland 2
+Sukhumi, Georgia 27
+Sukhumi, Georgia 106
+Sukhumi,  Georgia 1
+Svanetia, Georgia 60
+Franz Josef Glacier, New Zealand 9
+Fuzhou, China 2
+Namsos, Norway 7
+Greensburg, Indiana 5
+Sandy Lake, Canada 7
+Urumqi, China 12
+Kerman, Iran 17
+Ohrid, Macedonia 116
+Palencia, Guatemala 13
+Hibbing, Minnesota 18
+Tuktoyaktuk, NWT, Canada 7
+Dakar, Senegal 3
+Phonesavanh, Laos 18
+Naga, Philippines 29
+Santa Ana, California 5
+Gyumri, Armenia 36
+Irrupts, Siberia, Russia 124
+Lord Howe Island, NWSW, Australia 9
+Okeechobee, Florida 10
+Columbus, Ohio 5
+Kinshasa, DemocratiRepubliCongo 2
+Nalchik, Russia 13
+Carpish, Peru 31
+East Midlands, England 1
+New York, New York 0
+New Delhi, India 4
+Tamworth,  Australia 1
+Malindi, Kenya 8
+Nag 32
+Spokane, Washington 2
+Key West, Florida 2
+Weipa, Australia 6
+Bogota, Colombia 4
+Campbeltown, Scotland 29
+Mezhdurechensk, Russia 75
+Fayetteville, North Carolina 0
+Lamoille, Nevada 5
+Amsterdam, Netherlands 3
+Ambato, Ecuador 17
+Kigali, Rwanda 12
+Northern Iraq 26
+Nanga Pinoh, Indonesia 11
+Komaki, Aichi, Japan 264
+Stratford, Connecticut 8
+El Rosa, Colombia 8
+Sao Gabriel, Brazil 8
+Loma Linda, Colombia 4
+Villavicencio, Colombia 7
+Kodiak, Alaska 6
+Xi'an, China 160
+Uruapan, Mexico 9
+Chantilly, Virginia 12
+Mt.  Kalora, Indonesia 12
+Jeneau, Alaska 9
+Abidjan, Ivory Coast 17
+Logar, Afghanistan 50
+Toulouse-Blagnac, France 7
+Tidjika, Mauritania 80
+Charlotte, North Carolina 37
+Portage Creek, Alaska 3
+Hanalei, Hawaii 3
+Fort de France, Martinique 6
+Boma, DemocratiRepubliCongo 5
+Colon, Panama 21
+East Kalimantan, Indonesia 18
+Boda, Russia 47
+Cheju, South Korea 0
+Alsworth, Alaska 3
+Whiting, New Jersey 3
+Kenai, Alaska 3
+Agadir, Morocco 44
+Aliquippa, Pennsylvania 132
+Abuja, Nigeria 3
+Fish Egg Inlet, Canada 3
+Tamanrasset, Algeria 5
+Kowloon Bay, Hong Kong 6
+Vanavera, Russia 28
+Bahia Negra, Paraguay 1
+Buenos Aires, Brazil 8
+Chaibukha, Russia 8
+Lobito, Angola 2
+Mitu, Colombia 10
+Krakas Mountains, Natanz , Iran 66
+Formoso do Aragala, Brazil 21
+Cuito, Angola 22
+Batagaj, Russia 7
+Ust'-Ilimsk, Russia 23
+Roselawn, Indiana 68
+Cozumel, Mexico 14
+Nabire, Indonesia 4
+Saposa, Peru 6
+Avenal, California 1
+Papua New Guinea 7
+Bridgeton, Missouri 2
+Cuito, Angola 22
+PacifiOcean 1
+Elim, Alaksa 5
+Morrisville, North Carolina 15
+Cerro Aicha, Venezuela 7
+Papua, New Guinea 28
+Coventry, England 5
+Algiers Airport, Algeria 3
+Van, Turkey 57
+Isfahan, Iran 12
+Flores Island, Inodnesia 14
+Cartagena, Colombia 51
+Flagstaff, Arizona 1
+Masset, British Columbia, Canada 5
+Pleasanton, California 1
+Blyn, Washington 3
+Los Angeles, CA 2
+Kathmandu, Nepal 2
+Krasnoyarsk, Russia 3
+Le Bourget, France 10
+Kuei Shan Hsiang, Taiwan 4
+Tusayan, Arizona 8
+Kansas City, Missouri 3
+Ossora, Russia 9
+Reno, Nevada 1
+Hamilton, New Zealand 6
+Balotesti, Romania 60
+Alexander City, Alabama 8
+Lagos, Nigeria 1
+Alice Springs, Australia 3
+Palaly AFB, Sri Lanka 52
+Sioux Falls, Ontario, Canada 8
+Quito, Ecuador 7
+Cerro San Jeronimo, Colombia 9
+Boise, Idaho 6
+Leeds, England 12
+Miraflores, Colombia 2
+Mbour, Senegal 6
+Atlanta, Georgia 0
+Palmerston North, New Zealand 5
+Volgograd, Russia 12
+Herputchi, Russia 13
+Cuvela, Angola 48
+Lagos, Nigeria 16
+La Romana, Dominican Republic 2
+Kodiak, Alaska 4
+Kiunga, Papua New Guinea 3
+Haines, Alaska 6
+Gumey, Papua New Guinea 15
+Bintuni,  Indonesia 1
+Antananivo, Madagascar 34
+Karamui, Papua New Guinea 2
+Johannesburg, South Africa 3
+Mt. Chichontepec, San Vincente, El Salvador 65
+Kaimana, Indonesia 10
+Nevada del Huila, Colombia 10
+Carrollton, GA 10
+Farewell, Alaska 1
+Toronto, Ontario, Canada 7
+Beaver Dam, Arizona 8
+La Macarena, Colombia 21
+Jalalabad, Afghanistan 3
+Colombo, Sri Lanka 81
+Marsh Harbour, Bahamas 5
+Tawau,  Malaysia 34
+Tamworth, Australia 2
+Moron, Mongolia 42
+Anchorage, Alaska 24
+Sterligov Cape, Russia 15
+Campbell River, British Columbia, Canada 8
+Gunung Antara, Indonesia 1
+Barskoon, Kirghizia 15
+Bayfield, Colorado 3
+Papua, New Guinea 13
+Piedras Negras, Mexico 9
+Luyaba, Argentina 53
+Kaduna, Nigeria 9
+Jaffna Peninsula , Sri Lanka 63
+Labuan, Malaysia 10
+Baku, Azerbaijan 2
+Douala, Cameroon 72
+Nakhichevan, Azerbaijan, Russia 54
+Grossevichi, Russia 98
+Belle Anse, Haiti 20
+Verona  - Villafranca, Italy 49
+Kahengula, Angola 141
+Buga, Valle del Cauca, Colombia 160
+Bagasin, Papua New Guinea 2
+Karabogazgol Bay, Turkmenistan 12
+Kinshasa, Zaire 2
+Bridgetown, Barbados 1
+Kano, Nigeria 14
+Point Pedro, Sri Lanka 39
+Blenheim, New Zealand 5
+Asuncion, Paraguay 4
+St. Johns, Arizona 4
+Puerto Plata, Domincan Republic 189
+Ensenada, Mexico 8
+Kandahar, Afghanistan 20
+Port-au-Prince, Hati 11
+El Zapotal, Guatemala 2
+Salzburg, Austria 10
+Jabal Awliya, Sudan 91
+Lukapa, Angola 8
+Arequipa, Peru 123
+Sao Paulo, Brazil 9
+Mesones Muro, Peru 23
+Punto Fijo, Venezuela 8
+Key West, Florida 5
+Dubrovnik, Croatia 35
+Petropavlovsk, Russia 20
+Matsu Island, Taiwan 6
+Cheyenne, Wyoming 3
+Haj Yousif, Sudan 53
+Terrace, British Columbia, Canada 2
+Otaez, Mexico 16
+Oumba, Papua New Guinea 1
+Everglades, Miami, Florida 110
+Griesta, United Kingdom 3
+Kinshasa, DemocratiRepubliCongo 10
+Rasht, Iran 7
+Rollingstone, Queensland  Australia 18
+Fukuoka, Japan 3
+Shanghai, China 2
+Pensacola, Florida 2
+Papua, New Guinea 20
+Kanda, India 9
+Eindhoven, The Netherlands 34
+East Moriches, New York 230
+Playa del Carmen, Mexico 1
+Russian Mission, Alaska 4
+Mergui, Manmar 8
+Markham Bay, Canada 2
+Bronson Creek, British Columbia, Canada 1
+Jackson Hole, Wyoming 9
+Alliford Bay, British Columbia, Canada2 3
+Belgrade, Yugosalvia 12
+Spitsbergen, Norway 141
+Joinville, Brazil 2
+Anchorage, Alaska 3
+Waddenzee, Netherlands 32
+Pasamayo, Peru 70
+Kahemba, Congo 6
+Lukapa, Angola 6
+San Francesco al Campo, Italy 2
+Ketchikan, Alaska 3
+Eel River Crossing, New Brunswick, Canada 8
+Manta, Ecuador 4
+Khanty, Russia 5
+Sao Paolo, Brazil 95
+Tikal, Guatemala 16
+Aubusson, France 8
+Lucapa, Angola 16
+Lagos, Nigeria 143
+Charkhidadri, India 349
+Ngong, Kenya 8
+Bolchaïa Pyssa, Russia 14
+Quincy, Illinois 14
+Cape Mendocino, CA 10
+Moroni, Comoros 127
+Bethel, Arkansas 1
+Abakan, Siberia, Russia 23
+Medellin, Colombia 14
+Banjarmasin, Indonesia 16
+Boise, Idaho 2
+Tver, Russia 18
+Rio Negro, Colombia 4
+Narrows, Virginia 6
+Nellore, India 22
+Dorchester, New Hampshire 2
+Edenton, North Carolina 2
+Moamoa, Samoa 3
+Monroe, Michigan 29
+Sparrevohn, Arkansas 1
+Yola, Nigeria 5
+Tambacoumba, Senegal 25
+Quiangala, Angola 37
+Northern Israel 73
+Carajas, Brazil 1
+Guatemala City, Guatemala 5
+Lake Simcoe, Ontario, Canada 1
+Medellin, Colombia 4
+Mashhad, Iran 88
+Cherkessk, Russia 50
+Tegucigalpa, Honduras 3
+Griffin, Georgia 2
+Wainwright, Alaska 5
+Brazzaville, DemocratiRepubliCongo 3
+Gyandzha, Azerbaijan 6
+Sorei, Niger 14
+Tanjung Pandan, Indonesia 15
+Konduz, Afghanistan 36
+Huangtian, China 35
+Irumu, Congo 27
+Mandalgobi, Mongolia 7
+Madh Island, India 2
+Skwentna, Alaska 4
+Saravena, Colombia 25
+Suzano, Brazil 1
+Santiago de Cuba, Cuba 44
+Skagway, Alaska 4
+Bandung, Indonesia 30
+Goroka,  New Guinea 2
+Ranong, Thailand 2
+Calabar , Nigeria 1
+Florence, Italy 1
+Agana, Guam 229
+Miami, Florida 4
+Matsu Island, Taiwan 16
+100 miles SW of Kuujjuaq, Quebec, Canada 2
+Tindal, NT, Australia 5
+Criciúma, Brazil 2
+Puerto Inirida, Venezuela 12
+Phnom Penh, Cambodia 65
+Miri, Malaysia 10
+Uvira, Zaire 22
+Namibia, Africa 33
+Buah Nabar, Indonesia 234
+Montrose, Colorado 9
+Banjul, Gambia 8
+Nuevo Berlin, Uruguay 74
+Taipei, Taiwan 5
+Monterey Bay, PacifiGrove, California 1
+Jalal-Abad, Afghanistan 2
+La Roche, Alberta, Canada 3
+Barrow, Alaska 8
+Irkutsk-2, Russia 23
+Little Grand Rapids, Canada 4
+La Veriente, Bolivia 10
+Sharjah, United Arab Emirates 85
+Mackenzie, British Colombia, Canada 3
+Fotina, Greece 70
+Palembang, Indonesia 104
+Tanagra, Greece 5
+AtlantiOcean, Angola 5
+the PacifiOcean 1
+Rio Sidra, Panama 10
+Maiden, North Carolina 1
+Tor Kach, Pakistan 51
+Brno, Czech Republic 2
+Yangon (Rangoon), Myanmar 16
+Pagalungan, Philippines 104
+Cavalese, Trento, Italy 0
+Terceira, Portugal 7
+Navafria, Spain 5
+Nasir, Sudan 27
+Taipei, Taiwan 196
+Clarksville, Tennesee 1
+Bismark, North Dakota 1
+Mombasa, Kenya 6
+Hsinchu, Taiwan 13
+Charasyab, Afghanistan 45
+Bacolod, Philippines 0
+Piura, Peru 22
+Mexico City, Mexico 2
+Bogota, Colombia 53
+Andoas, Peru 75
+Nema, Mauritania 39
+Longtiang, Laos 26
+Indian Trail, North Carolina 5
+Erdenet, Mongolia 28
+Montreal, Canada 11
+Mt. Waialeale, Hawaii 6
+Rasal, United Arab Emirates 8
+Córdoba, Argentina 3
+Asmara, Eritrea 10
+Pico de Orizaba, Mexico 4
+Southhampton, England 4
+Barcelona, Spain 2
+Manacapuru River, Brazil 5
+Kochi, India 6
+Genoa, Italy 4
+Quiberon, France 15
+Kincolith, British Columbia, Canada 5
+Saurimo, Angola 1
+Foveaux Strait, New Zealand 5
+Ghorepani, Nepal 18
+Roseau, Dominica 11
+Pretoria, South Africa 1
+Manibagi, Myanmar 44
+Quito, Ecuador 70
+Angola 24
+Peggy's Cove, Nova Scotia, Canada 229
+Port Alsworth, Alaska 5
+Islamabad, Pakistan 5
+Luzamba, Angola 1
+Silimo, Indonesia 9
+Mount Cook, New Zealand 3
+Nador, Morroco 38
+Praia, Cape Verde 1
+Mannar, Sri Lanka 55
+Canaima, Venezuela 1
+Kindu, Congo 41
+Yerevan, Armenia 0
+Fortaleza, Brazil 3
+Rwenzori mountains, Uganda 4
+Quetzaltenango, Guatemala 11
+Krasnoyarsk, Russia 13
+Koror, Nepal 9
+Edgewater, Maryland 1
+Victoria, British Columbia 2
+King Island, Tasmania 4
+Umpire, Arkansas 1
+Baie-Comeau, Canada 7
+Sittwe, Myanmar 8
+Surat Thani, Thailand 102
+Cuito, Angola 11
+Saurimo, Angola 1
+Medellín, Colombia 5
+Vila Nova, Angola 14
+Huambo, Angola 9
+Guernsey, Channel Islands, England 2
+Geilenkirchen, Germany 4
+Mayne Island, British Columbia, Canada 2
+Coconut Island, QLD, Australia 3
+Jumla, Nepal 4
+Bluefields, Nicaragua 28
+Luanda, Angola 14
+Hoskins, Papua New Guinea 11
+Kinshasa,  DemocratiRepubliCongo 7
+Bishop, California 1
+Rui'an, China 61
+New Delhi, India 19
+Tame, Colombia 8
+Davis Inlet, Newfoundland, Canada 1
+Ribeirao Preto, Brazil 5
+Ceyhan, Turkey 6
+Malaga, Colombia 5
+Shanghi, China 3
+Port Vila, Vanuatu 7
+Kunching, Malaysia 5
+Ol Kiombo, Kenya 2
+Little Rock, Arkansas 11
+Khartoum, Sudan 50
+Coron, Philippines 1
+Juneau, Alaska 7
+Goroka, Papua New Guinea 17
+Long Haul Lake, Manatoba, Canada 1
+Seraing, Belgium 2
+Villavicencio, Colombia 5
+Kathmandu, Nepal 5
+Toluca , Mexico 4
+Martha's Vineyard, Massachusetts 3
+Bluefields, Nicaragua 16
+Tokyo, Japan 1
+Orito, Colombia 7
+Nasevou Village, Fiji 17
+Marine City, Michigan 10
+Santo Antao, Cape Verde Islands 18
+Sept-Îles, Canada 1
+Hong Kong, China 3
+Hualian, Taiwan 1
+Turtkul, Uzbekistan 2
+Buenos Aires, Argentina 64
+Mount Meru, Tanzania 12
+Glasgow, Scotland 8
+Westerly, Rhode Island 3
+Kathmandu, Nepal 15
+Bucharest, Romania 7
+Belelm, Brazil 2
+Mt. Hidalgo, Mexico 5
+Mt. Mauna Loa, Hawaii 10
+Dhahran, Saudi Arabia 12
+Genova, Italy 3
+San Carlos, Venezuela 6
+Aberdeen, South Dakota 6
+Nantucket Island, Massachusetts 217
+Charllis, Idaho 4
+Zheng Zou AB, China 16
+Uruapan, Mexico 18
+Pristina, Kosovo 24
+Nairobi, Kenya 4
+Moscow, Russia 5
+Johannesburg, South Africa 9
+Bethel, Alaska 6
+Bayombang, Philippines 17
+Branson, Missouri 6
+Sundsvall, Sweden 8
+Kuwait City, Kuwait 3
+Sao Jorge, Azores (Portugal) 35
+Guatemala City, Guatemala 16
+Marianna, Florida 3
+Bukavu, DemocratiRepubliCongo 2
+Great Hallingbury, United Kingdom 4
+Amritsar, India / Kandahar, Afghanistan 1
+Bejuma, Venezuela 22
+Simara, Nepal 10
+Zonguldak, Turkey 6
+Abuja, Nigeria 1
+Niederhasli, Switzerland 10
+Marsa el-Brega, Libya 22
+San Jose, Costa Rica 5
+Ankara, Turkey 4
+Abidjan, Ivory Coast 169
+Pepa ,Congo 24
+Cagayancillo, Philippines 14
+Point Mugu, California 88
+Tehran, Iran 8
+Iliamna, Alaska 6
+Sacramento, California 3
+Burbank, Calilfornia 0
+Moscow, Russia 9
+Ennadai Lake, Canada 2
+Kuna Yala, Panama 10
+Herreira, Spain
+Kadirana, Sri Lanka 6
+Huambo, Angola 3
+Gualeguaychu, Argentina 1
+Boca Raton, Florida 3
+Samal Island, Philippines 131
+Bapi, Papua New Guinea 4
+Lyon Satolas, France 2
+Kurupung, Guyana 1
+Kaunakakai, Hawaii 6
+Moanda, Gabon 3
+Wilkes-Barre, Pennsylvania 19
+Manila, Philippines 1
+Paris, France 1
+Whyalla, Australia 8
+Accra, Ghana 7
+Liverpool, England 5
+Cuiaba, Brazil 4
+Shitai, China 44
+Shimano, Japan 5
+Villahermosa, Mexico 19
+Villavicencio, Colombia 13
+Raleigh, North Carolina 1
+Patna, India 55
+Linneus, Maine 2
+Nassau, Bahamas 2
+Maui, Hawaii 7
+Gonesse, France 109
+Mafraq, Jordan 13
+Jodhura, Nepal 25
+Cubatao, Brazil 6
+Puerto Montt, Chile 14
+Burlington Township, New Jersey 11
+Tshikapa, Congo 27
+Teslin Lake, British Columbia, Canada 2
+Lumber City, Georgia 3
+Manama, Bahrain 143
+Hilo Bay, Hawaii 1
+La Fortuna, Costa Rica 10
+Mount Montezuma, Colombia 7
+Burketown, Australia 8
+Kumarapura, Sri Lanka 14
+Nuiqsut, Alaska 5
+Reynosa, Mexico 0
+Sumacal, Beni, BO 6
+Port Radium, Northwest Territories, Canada 3
+Lummi Island, Washington 1
+Wichita, Kansas 2
+Hillsboro, Missouri 3
+Sam Neua, Laos 8
+Batumi, Republiof Georgia 86
+Taipei, Taiwan 83
+Monaquimbundo, Angola 44
+Luabo, DemocratiRepubliCongo 2
+Fort Wayne, Indiana 1
+Luanda, Angola 57
+Miami, Florida 1
+Cordoba, Spain 1
+Lake Point, Utah 9
+Eider Point, Alaska 2
+Ciudad Bolivar, Venezuela 24
+Byers, Colorado 10
+El Yopal, Colombia 3
+Beaver Island, Minnesota 2
+Nurnberg, Germany 3
+Jakobkondre, Suriname 10
+Granton Harbour, Scotland 2
+Rio Azul Farm, Brazil 6
+Bangkok, Thailand 1
+Unadilla, Georgia 21
+Medina, Saudi Arabia 3
+Lubango, Angola 16
+Gustavia, St. Barthélémy, French West Indies 19
+Jadura, Indonesia 3
+Aspen, Colorado 18
+Ashbaubenon, Wisconsin 1
+Adar Yeil, Sudan 14
+Thanh Tranh Village, Vietnam 16
+Roque Perez, Argentina 10
+Malatya, Turkey 34
+Mendoza, Argentina 5
+Sari, Iran 30
+Myakotino, Russia 7
+Jayapura, Indonesia 1
+Irkutsk, Russia 145
+Chinhae, South Korea 8
+Puerto Cabello, Venezuela 13
+Moscow, Russia 10
+Haines, Alaska 6
+Reykjavík, Iceland 3
+Meadview, Arizona 6
+Mugogo, DemocratiRepubliCongo 4
+Terceira, Azores 0
+Ithaca, New York 2
+Marsh Harbour, Bahamas 9
+Malaga, Spain 4
+Shanksville, Pennsylvania 44
+Arlington, Virginia. 64
+New York City, New York 92
+New York City, New York 65
+Chichen Itza, Mexico 19
+Belo Horizonte, Brazil 1
+Guatemala City, Guatemala 9
+Decatur Island, Washington 3
+110 miles SW of Sochi, Russia 78
+Milan, Italy 114
+Mollet Lake, Quebec, Canada 3
+Dillingham, Alaska 10
+Valencia, Spain 10
+Shamattawa, Canada 2
+Humiata, Brazil 3
+Anchorage, Alaska 3
+Belle Harbor, Queens, New York 260
+Kalyazin, Russia 27
+Pittsburgh, Pennsylvania 2
+Palade, Estonia 2
+Birchwil, Switzerland 24
+Port Harcourt, Nigeria 1
+San Jerónimo de Moravia , Costa Rica 3
+Novaya Inya , Russia 18
+Bessemer, Alabama 2
+Sierra Blanca, Texas 2
+Geti, DemocratiRepubliCongo 6
+Medellin, Colombia 16
+Zurich, Switzerland 2
+Bremerhaven, Germany 8
+Hollywood, Florida 5
+Birmingham, England 5
+Shamsi AFB, Pakistan 7
+Bilbao, Spain 3
+Chilpancingo, Mexico 5
+Solo, Indonesia 1
+La Bonita, Ecuador 26
+Milford Sound, New Zealand 6
+Luena, Angola 5
+Ipiales, Colombia 92
+Ellsworth AFB, South Dakota 2
+Khorramabed, Iran 117
+Monrovia, Liberia 1
+Lakhta, Russia 17
+Dumaguete, Philippines 10
+Monte Rotondo, Italy 3
+Placetas, Cuba 17
+Alma, Wisconsin 1
+Djibouti, Republiof Djibouti 4
+Cairns, QLD, Australia 4
+Palma de Mallorca, Spain 2
+Busan, South Korea 128
+Sweers Island, QLD, Australia 6
+Popayán, Colombia 3
+Olancho, Honduras 6
+Abakan, Russia 8
+Kano, Nigeria 74
+Tunis, Tunisia 14
+Dalian, China 112
+Calabar, Nigeria 5
+Penghu Island, Taiwan 225
+Nabire, Indonesia 6
+George, South Africa 3
+Ndalatando, Angola 20
+Oiapoque, Amapa, Brazil 5
+Winnipeg, Manitoba 1
+Gardez, Afghanistan 3
+Uberlingen, Germany 71
+San Dimas, California 2
+Bangui, Central African Republic 25
+Port Alsworth, Alaska 4
+Long Barai, Indonesia 10
+Cromer, Norfork, England 11
+Surkhet, Nepal 4
+Lviv, Ukraine 0
+Moscow, Russia 14
+Caguas, Puerto Rico 10
+Kadjuduwa Watta, Sri Lanka 5
+Khankala, Chechnya 121
+Pokhara, Nepal 18
+Ayan, Russia 16
+Lexington, Kentucky 1
+Rio Branco, Brazil 23
+Xichang, China 3
+High Prarie, Alberta, Canada 2
+Pucallpa, Peru 6
+Paranapanema, Sao Paulo, Brazil 2
+Natashquan, Quebec, Canada 3
+Vasco, India 12
+Santa Cruz do Sul, Brazil 1
+Spanish Fort, Alabama 1
+Eveleth, Minnesota 8
+Niederanven, Luxembourg 20
+Tarakan, Indonesia 7
+Taos, New Mexico 2
+Manila, Philippines 19
+Masai Mara Game Reserve, Kenya 1
+Mena, Arkansas 3
+Gohu Airstrip, Papua New Guinea 8
+Mosul, Iraq 17
+Rockford, Illinois 1
+Pachao Tao, Taiwan 2
+Isfanan, Iran 44
+Manteo, North Carolina 1
+Curitiba, Brazil 3
+Anjouan, Comoros Islands 1
+Diyarbakir, Turkey 75
+Charlotte, North Carolina 21
+Chachapoyas, Peru 46
+Ndjolé, Gabon 7
+Busia, Kenya 3
+Baucau, East Timor 6
+Agadir, Morocco 8
+Tallinn, Estonia 2
+Ferguson, Kentucky 3
+Shahdad, Iran 275
+Kohat, Pakistan 17
+Barki, Russia 11
+Tamanrasset, Algeria 102
+Mulia, Indonesia 4
+New Vienna, Iowa 3
+Kinshasa, Congo 129
+Macka, Turkey 75
+Talkeetna, Alaska 4
+Milan, Italy 2
+Oiapoque,  Brazil 5
+Christchurch, New Zealand 8
+Belo Horizonte, Brazil 4
+Volcano, Hawaii 4
+Brest, France 1
+Rudshour, Iran 7
+Anchor Point, Alaska 3
+Rooisand Desert Ranch, Namibia 4
+Blida, Algeria 4
+Belem, Para, Brazil 4
+Macaé, Rio de Janeiro, Brazil 5
+Port Sudan, Sudan 116
+Treasure Cay, Bahamas 2
+San Cristobal, Venezuela 4
+Mount Kenya, Kenya 14
+Waialeale,Kauai, Hawaii 5
+Groton, Connecticut 2
+Tocomita, Venezuela 1
+Kamchatka Peninsula, Russia 20
+Cap Haitien, Haiti 21
+Hyannis, Massachusetts 2
+Summer Beaver, Canada 8
+Del Rio, Texas 1
+La Quemada, Mexico 6
+Meadview, Arizona 7
+Gaspé, Quebec, Canada 3
+Sao Gabriel de Cachoeria 4
+Waikanae, New Zealand 2
+Uriman, Venezuela 1
+Buenos Aires, Argentina 5
+Tampico, Mexico 3
+Cody, Wyoming 1
+Hasi, Iraq 15
+Ogle, Guyana 2
+200 miles NE of Derby, Australia 4
+Spokane, Washington 1
+Boende, Congo 20
+Jellicoe, Ontario, Canada 2
+Mitu, Colombia 3
+Helendale, California 2
+Cotonou, Benin 140
+Sharm el Sheikh, Egypt 148
+Tashkent, Uzbekistan 37
+Lake Erie, Pelee Island, Ontario, Canada 10
+Ghardaïa, Algeria 1
+Bitonja, Bosnia-Herzegovina 9
+Sharjah, United Arab Emirates 43
+Cagliari, Italy 6
+Trefoil Island, TAS, Australia 4
+San Diego-Miramar NAS, California 4
+Beef Island, British Virgin Islands 1
+Tonopah, Nevada 5
+Hamilton Island, QLD, Australia 6
+Pyote, Texas 4
+Milpillas, Mexico 7
+Chimanta mountains, Venezuela 7
+Carepa, Colombia 3
+Jiech, Sudan 6
+Dalang, Sudan 7
+Manaus, Brazil 33
+Bozoy, Kazakhstan 1
+Urumqi, China 7
+Mwingi, Kenya 2
+Lukla, Nepal 3
+Libreville, Gabon 19
+Belo Horizonte, Brazil 4
+Yengema, Sierra Leone 24
+Panama City, Panama 6
+Ticonderoga, New York 2
+ Macaé , Rio de Janeiro , Brazil 6
+Ononge, Papua New Guinea 2
+Cincinnati, Ohio 1
+Great Falls, Montana 2
+Goma, DemocratiRepubliCongo 3
+Maracay, Venezuela 25
+Rostov-on-Don, Russia 46
+Toula, Russia 41
+MGrath, Alaska 1
+Villahermosa, Mexico 2
+Mount Athos, Greece 17
+Tortuguero lagoon, Puerto Rico 1
+Kaduqli, Sudan 4
+Houston, Texas 3
+Bagram, Afghanstan 6
+Jefferson City, Missouri 2
+Halifax, Nova Scotia, Canada 7
+Medellin, Colombia 3
+Coron Island, Philippines 2
+Kirksville, Missouri 13
+Martinsville, Virginia 10
+San Diego, California 5
+Caracas, Venezuela 3
+Baotou, Inner Mongolia, China 53
+Montrose, Colorado 3
+Solo, Indonesia 26
+Saint Louis, Missouri 2
+Bellevue, Idaho 2
+La Macarena, Colombia 6
+El Junquito, Venezuela 16
+Uberaba, Brazil 2
+Jeddah, Saudi Arabia 1
+Manguipayan, Colombia 20
+Tura,Siberia, Russia 9
+Keene, New Hampshire 1
+Rutbah, Iraq 31
+Lasi, Hungary 2
+Al Taji, Iraq 10
+Peshawar, Pakistan 104
+Khartoum, Sudan 7
+Lebec, California 2
+Pueblo, Colorado 8
+Bimin, Papua, New Guinea 2
+Chrallave, Venezuela 2
+Campbeltown, United Kingdom 2
+Varandey, Russia 28
+Mwanza, Tanzania 8
+El Embrujo, Providencia Island, Colombia 8
+Rovie, Albania 9
+Enarotali, Indonesia 18
+Tehran, Iran 3
+Pisco, Peru 13
+Taranaki, New Zealand 2
+Kisangani, DemocratiRepubliCongo 10
+Lockhart River, Queensland, Australia 15
+El Portezulo, Argentina 10
+Mongu, Zambia 13
+Walungu, Congo 27
+Khartoom, Sudan 7
+Baney, Equatorial Guinea 60
+Toronto, Canada 0
+Palermo, Italy 16
+Talinn, Estonia 14
+Grammatikos, Greece 121
+La Cucharita, Venezuela 160
+Pucallpa, Peru 40
+Isiro, DemoctratiRepubliCongo 11
+Medan, Indonesia 99
+Brazzaville, Congo 14
+Alto da Boa Vista, Brazil 2
+San Juan de Manapiare, Venezuela 4
+Haena, Hawaii 4
+Aru, DemocratiRepubliCogo 2
+Winnipeg, Canada 1
+Lisa, Nigeria 117
+Stupino, Russia 8
+Tehran, Iran 94
+Chicago, Illinois 0
+Port Harcourt, Nigeria 108
+Miami Beach, Florida 20
+Nardaran, Azerbaijan 23
+Puncak Jaya, Indonesia 12
+Truckee, California 2
+Karkov 3
+Bukalaza, Uganda 6
+Orumiyeh, Iran 11
+Telkibanya, Hungary 42
+Port Alberni, British Columbia, Canada 3
+Watertown, Wisconson 3
+Paris, Tennessee 1
+Labiano, Spain 6
+La Paz, Bolivia 6
+Butte, Montana 2
+Cuenca, Ecuador 5
+Rio Bonito, Brazil 19
+Marsabit, Kenya 14
+Kousséri, Cameroon 6
+Tersky, Russia 4
+Lashkar Gah, Afghanistan 2
+Peak Margarita, Uganda 3
+Sochi, Russia 113
+La Ronge, Saskatchewan 1
+São Tomé Island 4
+Groton, Connecticut 2
+Yaocun, China 40
+Mullan, Idaho 2
+Abéché, Chad 5
+Jumla, Napal 9
+Vilanculos, Mozambique 1
+Hamburg, Germany 5
+Sake, DemocratiRepubliCongo 5
+Irkutsk, Russia 128
+Multan, Pakistan 45
+Bukavu, DemocratiRepubliCongo 17
+Leticia, Colombia 5
+Pownal, Vermont 1
+Piacenza, Italy 3
+Donetsk, Ukraine 170
+Lexington, Kentucky 49
+Mahad, Iran 29
+Kandahar, Afghanistan 14
+Vladikavkaz, Russia 12
+Vandeikya, Nigeria 13
+Sao Felix do Araguaia , Brazil 154
+Stord, Norway 4
+Tashkent, Russia 15
+Abuja, Nigeria 96
+Tehran, Iran 38
+Cajon Pass, California 3
+Port Heiden, Alaska 2
+Mbeya, Tanzania 3
+Parepare, Indonesia 102
+Matabwe, Tanzania 1
+Balad Air Base, Iraq 34
+Zapotlanejo, Mexico 2
+Van Nuys, California 2
+Baghdad, Iraq 12
+Pau, France 0
+East Bay Cay, Turks & Caicos Islands 1
+Belgrade, Montana 3
+Yogyakarta, Indonesia 22
+Princeville, Hawaii 4
+Hanea, Kauai, Hawaii 1
+Fazenda Nossa Senhora de Lourdes, Brazil 4
+Samara, Russia 6
+Mogadishu, Somalia 11
+Kopinang, Guyana 3
+Shatoi, Chechnya 18
+Dizangue, Cameroon 114
+El-Thamad, Egypt 9
+Walikale Airstrip, Congo 3
+Pampa Hermosa, Peru 13
+Freetown, Sierra Leone 21
+Milwaukee, Wisconson 6
+Selenge province, Mongolia 15
+Vungano Hills, Malawi 6
+Kamina, Congo 1
+Sihanoukville, Cambodia 22
+M'Banza Congo, Angola 5
+Culiacan, Mexico 3
+Connemara, Ireland 2
+Muncho Lake, British Columbia, Canada 1
+Sao Paulo, Brazil 187
+Shinile, Ethiopia 1
+Rudyerd Bay, Alaska 5
+Moscow, Russia 9
+Ruidoso, New Mexico 5
+Moorea, French Polynesia 20
+Ketchikan, Alaska 6
+Kirkuk, Iraq 14
+Curitiba, Brazil 2
+Kongolo, DemocratiRepubliCongo 14
+Goma, DemocratiRepubliCongo 8
+Blace, Macedonia 11
+Phuket, Thailand 90
+Malemba Nkulu, DR Congo 1
+Kinshasa, DR Congo 21
+Alamosa, Colorado 3
+White Pass, Washington 10
+Cubarral, Colombia 18
+Sao Paulo, Brazil 2
+Khartoum, Sudan 0
+Isparta, Turkey 57
+Whittier, Alaska 4
+Columbus, Ohio 2
+Kiev, Ukraine 5
+Los Roques, Venezuela 18
+Kodiak, Alaska 6
+Lihu, Hawaii 1
+London, England 0
+Huambo, Angola 13
+Miroslawiec, Poland 20
+Malinau, Indonesia 3
+Merida, Venezuela 46
+Macae , Rio de Janeiro , Brazil 5
+Bethani, Nepal 10
+Nbagu, Nigeria 3
+Lawa, Suriname 19
+Bundeena, Australia 1
+Chrisinau, Moldova 8
+Goma, Congo 0
+Annobon Island, Equatorial Guinea 13
+Crimea, Black Sea 20
+Rumbek, Sudan 24
+Stehekin, Washington 2
+Billings, Montana 1
+Two Harbors, Catalina Island, California 4
+Chelyabinsk, Russia 9
+Panama City, Panama 11
+Tegucigalpa, Honduras 3
+Yeco, Chile 10
+Huntsville, Texas 4
+Khartoum, Sudan 32
+Hyannis, Massachusetts 1
+Bannang Sata, Thailand 10
+Salak Mountain, Indonesia 18
+Malakal, Sudan 7
+Flagstaff, Arizona 6
+Khartoum, Sudan 4
+Saltillo, Mexico 1
+Bogota, Colombia 0
+Puerto Montt, Chile 9
+Owatonna, Minnesota 8
+North Vancouver Island, British Colombia, Canada 5
+Junction City, California 9
+Sunat Tanon, Thailand 10
+K-50 Airport, Somalia 3
+Madrid, Spain 154
+Cabañas, Guatemala 11
+Bishkek, Kyrgyzstan 68
+Toacaso, Ecuador 3
+Bukavu, Congo 17
+Columbus, Ohio 3
+Dubai, United Arab Emirates 7
+Perm, Russia 88
+Columbia, South Carolina 4
+Camp Springs, Maryland 4
+Lukla, Nepal 18
+Aurora, Illinois 4
+Mexico City, Mexico 8
+Between Kibo & Mawenzi Peaks of Mt. Kilimanjaroi, Tanzania 4
+Fallujah, Iraq 7
+Thormanby Island, British Columbia, Canada 7
+Perpignan, France 7
+San Juan, Puerto Rico 3
+Sabine Pass, Texas 3
+Turks and Caicos Islands 12
+Houma Louisiana 8
+New York, New York 0
+Manacapuru, Brazil 24
+Trigoria, Italy 2
+Clarence Center, New York 49
+Chanco, Chile 13
+Luxor, Egypt 5
+Amsterdam, Netherlands 9
+Lake Victoria, Uganda 11
+St. Johns, Newfoundland 17
+Butte, Montana 14
+Tokyo, Japan 2
+Crimond, Scotland 16
+Bandung, Indonesia 24
+Wamena, Indonesia 6
+Mount Gergaji, Indonesia 11
+Canaima National Park, Venezuela 1
+Massamba, DemocratiRepubliof Congo 7
+El Alto de Rubio, Venezuela 18
+Madiun, Indonesia 98
+Isiro, DemocratiRepubliCongo 4
+AtlantiOcean, 570 miles northeast of Natal, Brazil 228
+Port Hope Simpson, Newfoundland, Canada 1
+State of Arunachal Pradesh, India 13
