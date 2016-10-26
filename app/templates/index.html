@@ -10,7 +10,7 @@
       body {
         margin: 0;
         padding: 0;
-        background: #000000 url(loading.gif) center center no-repeat;
+        background: #000000 url({{ url_for('static', filename='loading.gif')}}) center center no-repeat;
         color: #ffffff;
         font-family: sans-serif;
         font-size: 13px;
@@ -95,7 +95,7 @@
         position: absolute;
         bottom: 15px;
         left: 20px;
-        background: url(ce.png);
+        background: url({{ url_for('static', filename='ce.png')}});
       }
 
 
@@ -125,10 +125,10 @@
     <span>This is a Chrome Experiment</span>
   </a>
 
-  <script type="text/javascript" src="Detector.js"></script>
-  <script type="text/javascript" src="three.min.js"></script>
-  <script type="text/javascript" src="Tween.js"></script>
-  <script type="text/javascript" src="globe.js"></script>
+  <script type="text/javascript" src="{{ url_for('static', filename='Detector.js')}}"></script>
+  <script type="text/javascript" src="{{ url_for('static', filename='three.min.js')}}"></script>
+  <script type="text/javascript" src="{{ url_for('static', filename='Tween.js')}}"></script>
+  <script type="text/javascript" src="{{ url_for('static', filename='globe.js')}}"></script>
   <script type="text/javascript">
 
     if(!Detector.webgl){
@@ -167,10 +167,11 @@
       
       
       xhr = new XMLHttpRequest();
-      xhr.open('GET', 'population909500.json', true);
+      xhr.open('GET', "{{ url_for('static', filename='population909500.json')}}", true);
       xhr.onreadystatechange = function(e) {
         if (xhr.readyState === 4) {
           if (xhr.status === 200) {
+			console.log(xhr.responseText);
             var data = JSON.parse(xhr.responseText);
             window.data = data;
             for (i=0;i<data.length;i++) {
