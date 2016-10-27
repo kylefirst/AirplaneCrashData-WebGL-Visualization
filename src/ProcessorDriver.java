@@ -15,7 +15,7 @@ public class ProcessorDriver {
 		try{
 			
 		//enter the name of the file containing your GoogleGeocodingApiKey here
-		BufferedReader br = new BufferedReader(new FileReader("C:/KK/UMCP/GoogleGeoCodingApiKey/OtherApiKey.txt"));
+		BufferedReader br = new BufferedReader(new FileReader("C:/KK/UMCP/GoogleGeoCodingApiKey/ApiKey.txt"));
 		key = br.readLine();
 		
 		}catch(IOException e){
@@ -26,8 +26,8 @@ public class ProcessorDriver {
 		DataPreprocessor processor = new DataPreprocessor("AirplaneData",key);
 		
 		//processor.cleanUpFile();
-		processor.geotagData();
-		
+		//processor.geotagData();
+		processor.scaleWeights();
 	}
 
 }

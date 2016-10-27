@@ -38,7 +38,9 @@ public class DataPreprocessor {
 			while ((nextLine = br.readLine()) != null) {
 
 
+				
 				String[] sections = nextLine.split(" ");
+				
 
 				//must contain a location to be a valid input
 				if(sections.length > 1 && !sections[0].equals("")) {
@@ -63,7 +65,7 @@ public class DataPreprocessor {
 		String  nextLine = null;
 		GeoApiContext context = new GeoApiContext().setApiKey(apiKey);
 		GeocodingResult[] results = null;
-		
+
 		try{
 
 			//bufferedReader/Writer for fast IO
@@ -74,23 +76,52 @@ public class DataPreprocessor {
 			while ((nextLine = br.readLine()) != null) {
 
 				String[] sections = nextLine.split(" ");
-			
+
 				//get the name of the location
 				String locName = "";
-				
+
 				for(int i = 0; i < sections.length-1; i++)
 					locName+= sections[i] + " ";
-			
+
 				//gets latitude and longitude from location
 				try {
 					results = GeocodingApi.geocode(context, locName).await();
 				} catch (Exception e) {
 					e.printStackTrace();
 				}
-		
+
 				//writes to json file if valid location
 				if(results.length > 0)
 					bw.write(results[0].geometry.location.toString() + "," + sections[sections.length-1] + ",\n");
+			}   
+
+			bw.flush();
+			bw.close();
+			br.close();
+
+		}catch(IOException e){
+
+			System.out.println("file not found");
+		}
+	}
+
+	//decrease scale of crashes by factor of 1/1000 for better visualization
+	public void scaleWeights() {
+
+		try{
+
+
+			String  nextLine = null;
+
+			//bufferedReader/Writer for fast IO
+			BufferedReader br = new BufferedReader(new FileReader("Processed"+fileName + ".json"));
+			BufferedWriter bw = new BufferedWriter(new FileWriter("Scaled"+fileName + ".json"));
+
+			while ((nextLine = br.readLine()) != null) {
+
+				String[] sections = nextLine.split(",");
+
+				bw.write(sections[0] + "," + sections[1] + "," + Double.parseDouble(sections[2])/1000  + ",");
 			}   
 
 			bw.flush();
