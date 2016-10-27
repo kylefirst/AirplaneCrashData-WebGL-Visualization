@@ -1,5 +1,5 @@
 # AirplaneCrashData-WebGL-Visualization
-**A LIve version of the app can be found at the following link:** https://global-plane-crash-webgl.herokuapp.com/
+**See it live here:** https://global-plane-crash-webgl.herokuapp.com/
 
 This is my Submission for part 2 of the Capital One Engineering Summit 2017:   
 https://www.mindsumo.com/contests/global-data-visualization
