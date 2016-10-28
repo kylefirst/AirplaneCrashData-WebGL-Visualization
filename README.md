@@ -10,6 +10,4 @@ The dataset I used can be found at the link below:
 https://opendata.socrata.com/Government/Airplane-Crashes-and-Fatalities-Since-1908/q2te-8cvq
 
 ![Alt text](/sample.PNG "Screenshot")
-![Alt text](/sampleM.PNG "Screenshot")
-
 
