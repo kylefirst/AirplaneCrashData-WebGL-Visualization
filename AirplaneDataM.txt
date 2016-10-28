@@ -1,0 +1,762 @@
+Mactan Island, Philippines 7
+Near Bogota, Colombia 13
+Orofino, Idaho 3
+Near San Borja, Bolivia 7
+Near Loja, Ecuador 34
+Near Shanghai, China 40
+Chapeco, Brazil 9
+Frunze, Kyrgyzstan 6
+Lafayette, Louisiana 2
+Off Santa Maria, Colombia 3
+Madrid, Spain 7
+Hawk Inlet, Alaska 3
+Van Nuys, California 3
+Irkutsk, Russia 24
+St. Croix, Virgin Islands 5
+Sibiu, Romania 6
+Southeastern Bolivia 19
+Near Voronezh, Russia 120
+Igiugig, Alaska 4
+San Onofre, California 2
+Havana. Cuba 5
+Near Puerto Asis, Colombia 5
+Ketchikan, Alaska 1
+Friday Harbor, Washington 7
+Aspen, Colorado 2
+Neuquen, Argentina 34
+Palm Desert, California 6
+Gulf of Mexico 12
+Anaktuvuk, Alaska 5
+St. Thomas, Virgin Islands 37
+Near Monze, Zambia 11
+Camuigan, Philippines 4
+Kozani, Greece 50
+Near Cuneca, Spain 17
+Chernigov, Ukraine, USSR 52
+Petersburg, Alaska 6
+Zamboanga, Philipines 14
+Nacias Nguema, Equatorial Guinea 46
+Agana, Guam 45
+Off Kota Kinabalu, Malaysia 12
+Somerset, Colorado 2
+Entebbe, Uganda 7
+Daiku, Burma 17
+Huntsville, Missouri 5
+Greensburg, Kansas 2
+Bratislava, Czechoslovakia 76
+Billings, Vermont 3
+Near Tehran, Iran 5
+Andes Mountains, Ecuador 59
+Sunnyside, Utah 3
+Shanisu River, Peru 6
+Sondre Stromfjord,Greenland 23
+Near Thorney, England 18
+Ho Chi Minh City, Vietnam 1
+Lajes, Azores, Portugal 68
+Timmins, Ontario, Canada 10
+Off Adler, Russia 90
+Near Gaj, Hrvatska, Yugoslavia 176
+Karatepe Mountains, Turkey 154
+Near Mosher Creek, Canada 1
+San Bernardino, California 4
+Near Alpena, Michigan 15
+Nairobi, Kenya 4
+Off Bridgetown, Barbados 73
+Busick, North Carolina 4
+Near Bombay, India 95
+Santa Cruz, Bolivia 3
+Hampton, Virginia 4
+El Yopal, Colombia 32
+Near Petrolia, Brazil 2
+Banjarmasin, Indonesia 29
+AtlantiOcean 2
+Shannon, Ireland 5
+Eastville, Kisangani, Congo 6
+Moscow, Russia 72
+Grand Canyon, Arizona 2
+Cape May, New Jersey 3
+Kiev, USSR 48
+Near Bangkok, Thailand 53
+Wisconson 6
+Near Trujillo, Peru 19
+Near Palm Springs, California 4
+Near Alma Ata,  Kazakastan, USSR 96
+Anchorage, Alaska 5
+Terrace, BC, Canada 12
+Kalvesta, Sweden 22
+ 1
+San Ramon, Bolivia 6
+Bratislava, Slovakia 5
+Mineralnye Vody, Russia 77
+Near Saglouc, Canada 4
+Off Aden, Yemen 20
+Near Cascina, Italy 44
+Niamey, Niger 2
+Saint Louis, Missouri 3
+Tezzeron Lake, British Columbia, Canada 5
+Tenerife, Canary Islands 583
+Bainaha Valley, Indonesia 15
+Near Zhadanof, Russia 8
+New Hope, Georgia 62
+SW of Bogota, Colombia 35
+Tapa AFB, Estonia 21
+Guatemala City, Guatemala 28
+Near Jericho, Jordan 54
+Beiruit, Lebanon 9
+Near Lusaka, Zambia 6
+New York, New York 4
+Havana, Cuba 68
+Houma, Louisiana 3
+Natal, Brazil 18
+Salto-Nueva Hesperides, Uruguay 5
+Off Wake Island 16
+Off Kirovograd, Ukraine 6
+Near Cuangar, Angola 30
+Jima, Ethiopia 5
+Ruby, Alaska 1
+Near Puerto Montt, Chile 38
+Near Yoro, Honduras 25
+Bernard Creek, Idaho 5
+Encino, California 2
+Near El Bolson, Argentina 6
+Engle, New Mexico 4
+Parkersburg, West Virginia 4
+San Jose, Costa Rica 3
+Deadhorse, Alaska 3
+Kona, Hawaii 2
+Off Hong Kong 4
+Minto Lake, Alaska 3
+Near Cuenca, Ecuador 33
+Mt. Iliamna, Alaska 13
+Mt. Loi Hsam Hsao, Burma 19
+Yakutat, Alaska 4
+Near Albuquerque, New Mexico 20
+Bucharest, Romania 29
+Salida, Colorado 6
+Kuala Lumpur,  Malaysia 34
+Stevens Pass, Pennsylvania 7
+Grand Chenier, Louisiana 2
+Near Gillsburg, Mississippi 6
+Mindoro, Philippines 24
+Belgrade, Yugoslavia 1
+San Cristobal de las Casas, Mexico 13
+Near Funchal, Island of Madeira, Portugal 131
+Rome, Italy 5
+Near Point Hope, Alaska 2
+Near Bariloche, Argentina 46
+Near Beziers, France 34
+Pinehurst, North Carolina 2
+Near Al Bayda, Lebanon 59
+Straits of Johore, near Kampung Ladang, Malaysia 100
+Intracostal City, Louisiana 17
+Tarko-Saley, USSR 17
+Hierro, Canary Islands 13
+Evansville, Indiana 29
+Davenport, Indiana 2
+Off Madeira, Portugal 36
+Near Salt Lake City, Utah 3
+Vieques, Puerto Rico 5
+Nanisivik, Canada 8
+Giddings, Texas 2
+Willemstad, Curacao, Netherlands Antilles 10
+Cuenca, Ecuador 24
+Off Bandra, Maharashtra, India 213
+Marion, Illinois 2
+Dubois, Pennsylvania 2
+Near San Vincente, Colombia 14
+Eirunepe, Brazil 2
+Near Artigas, Uruguay 44
+Richland, Washington 17
+Cranbrook, British Columbia, Canada 42
+Genoa Peak, Nevada 4
+Merrill Pass, Alaska 3
+Solvang, California 7
+LAX, Los Angeles, California 2
+Agana, Guam 2
+Kano, Nigeria 18
+Off Caracas, Venezuela 47
+Laurel, Mississippi 2
+Whitelake, Michigan 2
+Vrastsa, Bulgaria 73
+Near Riverside, California 6
+Okaraba, Burma 48
+Volta Redonda, Rio de Janeiro, Brazil 4
+Off Galveston, Texas 3
+St. Thomas, Virgin Islands 2
+Near Murmansk, Russia 2
+Arlington, Indiana 9
+Upolu, West Samoa 10
+Bogota, Colombia 8
+Whittier, AK 6
+Pensacola, Florida 3
+Kouchi, Japan 13
+Pochinok, Russia 4
+Saint John's, Newfoundland 10
+Toronto, Canada 2
+Off Bergen, Norway 18
+Near Nairobi, Kenya 5
+Sogamoso, Bolivia 18
+Laboucher Bay, Alaska 12
+Raton, New Mexico 6
+Papun, Burma 14
+Las Vegas, Nevada 10
+AtlantiOcean 4
+Coal Harbour, BC, Canada 11
+Conakry, Guinea 15
+Near Kariba, Rhodesia (Zimbabwe) 38
+Savoy, Illinois 6
+Near Mexico City, Mexico 18
+Wrangell, Alaska 3
+Paranaque, Philippines 21
+AtlantiOcean 3
+Monroe, Massachusetts 3
+San Diego, California 137
+San Juan, Puerto Rico 6
+Near Kuopio, Finland 15
+Near Mandalay, Myanmar 2
+Sverdlovsk, Russia 38
+Kenai, Alaska 2
+Off Bellona, Solomon Islands 11
+Gulf of Sivash, USSR 26
+Torreon, New Mexico 4
+BelÃ©m, Brazil 9
+Off Alexandria, Egypt 18
+Lubbox, Texas 2
+Near Katunayake, Sri Lanka 183
+Hays, Kansas 2
+Off Marie Galante Island, West Indies 15
+Near Leh, India 77
+Near Rubio, Venezuela 27
+Hydaburg, Alaska 5
+Hartford, Connecticut 3
+Near Steamboat Springs, Coloado 2
+Selvapiana, Italy 10
+Hyderabad, India 1
+Morton, Illinois 2
+Chevak, Alaska 2
+Near Cinisi, Sicily, Italy 108
+Turks & Caicos Islands, Caribbean 10
+Portland, Oregon 10
+Templeton, Massachusetts 5
+Minsk, Russia 13
+Near Belgorod, Russia 3
+Grand Rapids, Michigan 4
+Bechar, Algeria 14
+Rodez, France 5
+Trebinje, Bosnia Herzegovina 3
+Near Agudos, Brazil 18
+Clarksburg, West Virginia 2
+Near Kariba, Rhodesia 59
+Manakau Harbor, New Zealand 2
+Barentu, Ethiopia 5
+Near Moanda, Gabon 3
+Greensville, Mississippi 3
+Gulfport, Mississippi 8
+Galesburg, Illinois 4
+Near Probolinggo, Indonesia 4
+Off Marina del Rey, California 3
+Near Doha Airport, Qatar 45
+Bejing, China 12
+Near Moscow, Russia 86
+Chardzhow, Russia 29
+Liepaya, Latvia 4
+Nightmute, Alaska 2
+Luanda, Angola 10
+Ste. Foy, PQ, Canada 17
+Carrizozo, New Mexico 3
+Off Avalon, California 1
+Newark, New Jersey 3
+Near Cuenca, Ecuador 57
+Baykity, Russia 4
+Chicago O'Hare, Illinois 271
+Shungnak, Alaska 7
+Bullen Point, Alaska 3
+Off Dakar, Senegal 12
+Rockland, Maine 17
+Near Leh, India 27
+Chicago, Illinois 2
+Hyannis, Massachusetts 1
+Near Medan Airfield, Indonesia 61
+Anchorage, Alaska 7
+Bua, Fiji 9
+Off Honolulu, Hawaii 3
+Beirut, Lebanon 6
+St. Croix, Virgin Islands 8
+Off Sumburgh, Shetlands, England 17
+Canton, Ohio 1
+Leningrad, USSR 14
+Near Panvel, India 45
+Pistol Creek, Idaho 6
+Flushing, New York 3
+Near Katab, Egypt 5
+Dneprodzerzhinsk, Ukraine, USSR 178
+Bogota, Colombia 1
+Near Enisseysk, USSR 11
+Near Kirsanov, Russia 63
+Frobisher Bay, Canada 9
+Andema, Russia 40
+Nice, France 10
+Off Taipei, Taiwan 6
+Near Klamath Falls, Oregon 12
+Near Sarroch,  Italy 31
+Blink Horn Point, Canada 4
+Merced, California 5
+Porpoise Bay, British Columbia Canada 2
+Juneau, Alaska 3
+Covington, Kentucky 8
+Athens, Greece 14
+Anchorage, Alaska 4
+Bloomington, Indiana 2
+Near San Ysidro, California 10
+Tijuana, Mexico 10
+Mexico City, Mexico 72
+Big Trout Lake, Canada 3
+Greenville, South Carolina 5
+Salem, Oregon 3
+Near Chicago, Illinois 0
+Vologda, Russia 3
+Granger, Utah 3
+Takla Narrows, British Columbia, Canada 3
+Near At Ta'if, Jeddah, Saudi Arabia 156
+Near Mt. Erebus, Ross Ice Shelf, Antarctica 257
+San Andres Island, Colombia 9
+Nome, Alaska 4
+Cherskiy, Russia 7
+Apolo, Bolivia 10
+Cerro Toledo Mountain, Colombia 19
+Near Puerto Esperanza, Peru 29
+Ankara, Turkey 41
+Menari, Papua New Guinea 15
+Haiti 9
+Over the AtlantiOcean 2
+Elburz Mtns., near Laskarak, Markazi, Iran 128
+Mt. Cemonyet,  Indonesia 13
+Near Mandalay, Burma 43
+Baracoa, Cuba 1
+Sydney, NSW, Australia 13
+Leeville, Louisiana 6
+Near Agra, India 46
+Manila, Philippines 2
+Near Warsaw, Poland 87
+Near Yenice, Turkey 18
+Houston, Texas 7
+Off Macae, Brazil 14
+Deer Lake, Canada 6
+Cuiaba, Brazil 9
+Florianopolis, Brazil 55
+Posht-i-Badam, Iran 5
+Tenerife, Canary Islands 146
+Don Muang, Thailand 44
+Campinas, Brazil 7
+Off Varadero, Cuba 3
+Near Rio Hacha, Colombia 70
+Off Sarasota, Florida 2
+Gran Canaria Island, Spain 11
+Near Yachiba, Bolivia 13
+Near Matala, Angola 29
+Valley, Nebraska 13
+Near Dushanbe, Russia 29
+Lihue, Hawaii 2
+Tyrrhenian Sea,  off Ustica, Italy 81
+Near Tepic, Mexico 13
+Nar Alma-Ata, Kasakastan, USSR 166
+Golovin, Alaska 8
+Tusayan, Arizona 8
+Philadelphia, Pennsylvania 3
+Cerro Lilio, Mexico 3
+Togiak, Alaska 2
+Houma, Louisiana 13
+Nouadhibou, Mauretania 1
+Rio de Janeiro, Brazil 3
+Sa Cabaneta, Spain 4
+Qatar, Qatar 2
+Ramstein AFB, West Germany 11
+Near Riyadh, Saudi Arabia 301
+Near Jakarta, Indonesia 37
+Near Montelimar, France 8
+Puerto Olaya, Colombia 3
+Off Freeport, Bahamas 34
+Kindu, Zaire 36
+Near Medina, Saudi Arabia 89
+Near Kindu, Zaire 36
+Mount Smjorfjollum, Iceland 3
+Badakshan, Afghanistan 45
+Gainsville, Florida 3
+Caracas, Venezuela 11
+Near Cairo, Egypt 13
+Annanberg, Papua New Guinea 4
+Seoul, South Korea 15
+Near Medellin, Colombia 20
+Pecos City, Texas 2
+Dar es Salaam, Tanzania 10
+Michigan City, IN 4
+Cold Bay, Alaska 4
+Tumut,, Australia 2
+Mt. Elena, Colombia 50
+Spokane, Washington 7
+Winnemucca, Nevada 2
+Near Leningrad, Russia 52
+Houma, Louisiana 4
+White Plains, New York 8
+Avalon, California 2
+Belem, Brazil 11
+North Adams, Massachusetts 2
+Off Tabones Island  Philippines 23
+Fallon, Nevada 2
+Moroni, Comoro Islands 18
+Shemya AFB, Alaska 6
+Redzikowo, Poland 1
+Galena, Alaska 4
+Mt. Hagen, Papua, New Guinea 8
+Laguna Soliz, Bolivia 7
+Cincinnati, Ohio 1
+Loveland, Colorado 15
+Pekanbaru, Indonesia 15
+Near Fredrick, Maryland 21
+Rio de la Plata, Argentina 31
+Near Menongue, Angola 4
+Pinarete Mountain, Mexico 20
+Near Zumba, Ecuador 18
+Near Guachala, Ecuador 27
+Avalon, California 2
+Cairo, Egypt 17
+Ust-Barguzin, Russia 52
+Hualien, Taiwan 2
+Miraflores, Colombia 2
+Nailstone, England 3
+Muskegon, Michigan 5
+Near Yerevan, Armenia 4
+Mogadishu, Somalia 50
+Kansas City, Kansas 4
+Madagascar 19
+Caruru, Colombia 4
+Chihuahua, Mexico 30
+Skagway, Alaska 6
+Near Sanyi, Miao-li, Taiwan 110
+Near Zavitinsk, Russia 31
+Zeya, Russia 3
+Paipa, Colombia 21
+Zeleznogorsk, Russian 33
+Nellis AFB, Nevada 7
+Near Babaeski, Turkey 0
+Tehran, Iran 60
+Casper, Wyoming 3
+Moerdijk, Netherlands 17
+Kufstein, Austria 9
+St. Thomas, U.S. Virgin Islands 5
+Bafoussam, Cameroon 1
+Sierra de Guerro, Mexico 18
+Mount Pocono, Pennsylvania 4
+Norilsk, Russia 99
+Biratnagar, Nepal 10
+Castries, Saint Lucia Island 3
+Mt. San Pietro, near Ajaccio, Corsica, France 180
+Honolulu, Hawaii 11
+Tyonek, Alaska 4
+Mt. McKinley, AK 2
+Kuala Belait, Brunei 12
+Near Covenas, Colombia 13
+Cape Town, South Africa 7
+Durango, Colorado 4
+Near Gelendzhik, USSR 18
+Helena, Montana 2
+Washington, D.C. 74
+Near Addis Ababa, Ethiopia 73
+Logan Airport,  Boston, Massachusett 2
+Constanta, Romania 7
+Djibouti, Djbouti 35
+Island of Cheju, South Korea 53
+Near Srinagar, India 23
+Tokyo, Japan 24
+Mt. Ipao, Philippines 3
+Cerro el Tablazo, Colombia 4
+Providence, Rhode Island 1
+Mehamn, Norway 15
+Mount Galunggung, Indonesia 0
+Southern Belarus, USSR 132
+Leesburg, Florida 3
+Near Woodstock, Illinois 27
+Branti Airport, Indonesia 27
+Queate, Colombia 21
+Near Tanana, Alaska 3
+Near Erzurum, Turkey 27
+Near Yangshuo, Guangxi, China 112
+Hakalau, Hawaii 2
+Gulf of Thailand 13
+Off Aden, Yemen 47
+Judsonia, Arkansas 7
+South AtlantiOcean 21
+Brazilia, Brazil 2
+Off Natuma Island, Indonesia 10
+Near Songnam-si, South Korea 53
+Near Pacatuba, Brazil 137
+Tabatinga, Brazil 44
+Bombay, India 17
+Oganda, Gabon 12
+Near Moscow, Russia 90
+Kenner, Louisiana 145
+Jolo, Philippines 4
+Oxbow, Oregon 4
+Castaic, California 0
+Near Sitka, Alaska 4
+Concord, New Hampshire 2
+PacifiOcean 1
+Mindat, Myanmar 8
+Sukhumi, Georgia, USSR 11
+Near Managua, Nicaragua 20
+Off Castries, Saint Lucia 10
+Knotsville, Tennessee 9
+Near Valladolid, Ecuador 44
+Rio Branco, Brazil 10
+Near Mannheim, West Germany 46
+Near Malaga, Spain 50
+Near Nondalton, Alaksa 4
+Two Bridge Lake, British Colombia, Canada 5
+Near Kotzbue, Alaska 4
+Luxembourg, Luxembourg 7
+AtlantiOcean 8
+Off Taiwan 15
+Cullman, Alabama 2
+Lubango, Angola 15
+Quetame, Colombia 22
+Douglassville, Pennsylvania 3
+Near Pueblo, Colorado 2
+Near San Andres de Bocay, Nicaragua 84
+Near Klawock, Alaksa 8
+La Serena, Chile 46
+Defiance, Ohio 2
+Mesvres, France 10
+Rostov-on-Don, Russia 16
+Guangzhou, China 25
+Brainerd, Minnesota 1
+Detroit, Michigan 3
+Near Karimui, Papua New Guinea 10
+Ankara, Turkey 47
+Fayetteville, North Carolina 6
+Brooksville, Florida 2
+Off Macae, Brazil 11
+Near Shach Goan, Afghanistan 19
+Barquisimeto Venezuela 23
+Jeffersonville, Georgia 4
+Newark, New Jersey 2
+Guangzhou, China 8
+Selawik, Alaska 2
+Near Khartoum, Sudan 8
+Leninakan, Russia 21
+Near Toba, Japan 14
+Iwakuni AB, Japan 11
+Guayaquil, Ecuador 8
+Jacksonville, Florida 14
+Near Ban Ta Khli, Thailand 30
+En route Miami, FL - Nassau, Bahamas 0
+Tanjung Karang, Indonesia 3
+Cincinnati International Airport, Covington/Hebron, Kentucky 23
+Off Quemoy, Taiwan 47
+Kauai, Hawaii 14
+Niela, Mali 7
+Cortez, Colorado 2
+Las Vegas, Nevada 6
+Labe, Guinea 23
+Near Cuenca, Azuay, Ecuador 119
+Off Scilly Islands, UK 20
+Gimli, Manitoba, Canada 0
+Near Ambone, Indonesia 7
+Off Bula, Indonesia 2
+Evart, Michigan 2
+Grand Canyon, Arizona 10
+Near Dundo, Angola 7
+Adavale, Queensland, Australia 12
+Near Alma-Ata, Kazakastan, USSR 90
+Near Sakhalin Island, Russia 269
+Smithers, British Columbia, Canada 9
+Guilin, China 11
+Near Mina Jebel Ali, UAE 112
+Flagstaff, Arizona 2
+Off Lanyu Island, Taiwan 10
+Tashkent, Uzbekistan 9
+Springfield, Missouri 4
+Aracatuba, Brazil 7
+Near Lonkin, Myanmar 9
+Pinckneyville, Illinois 10
+Middletown, Pennsylvania 1
+Lubango, Huila, Angola 130
+Landsdowne House, Canada 4
+Midland, Texas 8
+Madrid-Barajas, Spain 181
+Near Enugu, Nigeria 53
+Near Madrid, Spain 93
+Put-In-Bay, Ohio 4
+Near Medellin, Colombia 3
+Paulatuk, Northwest Territory, Canada 2
+Leshukonskoye, Russia 44
+Amman, Jordan 13
+Saint Louis, Missouri 1
+Sofia, Bulgaria 50
+Cochabamba, Bolivia 1
+Near Manado, Indonesia 6
+Izhevsk, Russia 4
+Terre Haute, Indiana 3
+Near Debre Zelt, Ethiopia 26
+Near San Gerardo, El Salvador 28
+Prosperine, Australia 2
+Colombia 7
+Off Matsuyama, Japan 12
+JFK Airport, New York, New York 0
+Near Borja, Spain 18
+Cumberland, Maryland 3
+Barranquilla, Colombia 4
+San Borja, Bolivia 23
+Near Hunghae, South Korea 29
+Near Rurrenabaque, Bolivia 5
+Off  Bimini 6
+Florianopolis, Brazil 4
+Imperatriz, Brazil 19
+Elbet Beni Salama, Egypt 2
+Ushuaia, Argentina 12
+Chalkhill, Pennsylvania 4
+Windsor Locks, Connecticut 3
+Island Beach, New Jersey 3
+Near Sao Pedro d' Aldeia, Brazil 18
+Port Hardy, British Columbia, Canada 9
+Off Buenavista, Philippines 30
+Sigonella AFB, Italy 9
+Ouzinkie, Alaska 4
+Tau Island, American Samoa 1
+Anchorage, Alaska 5
+Vieques, Puerto Rico 9
+Dacca, Bangladesh 49
+Nawabshah, Pakistan 24
+Machakos, Kenya 9
+Near Memphis, Tennessee 3
+Near Wamena, Indonesia 2
+Pontiac, Michigan 2
+San Luis Obispo, California 17
+Douala, Cameroon 2
+Mt. Musaka, Papua, New Guinea 9
+Near Naples, Florida 1
+Near the Kwango River, Zaire 30
+Opole, Poland 11
+Quito, Ecuador 4
+Near Sarakchar, Afghanistan 50
+near Orillia, Ontario, Canada 2
+Ausin, Nevada 3
+Fort Franklin, Canada 7
+Near Omsk, Russia 174
+Goose Bay, Newfoundland, Canada 4
+Near Kabul, Afghanistan 20
+Near Kabul, Afghanistan 240
+Off Davao, Philippines 4
+Inverness, England 1
+Loja, Peru 14
+Near Kostroma, USSR 10
+Jacksonville, Florida 13
+Jammuin, India 19
+Bainbridge, New York 4
+Near Jaen, Peru 21
+Near Bhojpur, Nepal 15
+Near Kranoyarsk, Russia 110
+Near La Paz, Bolivia 29
+Kansas City, Kansas 3
+Jinan, China 38
+Havana, Cuba 38
+Carson, New Mexico 3
+Reno, Nevada 70
+Off Puerto Castilla, Honduras 21
+Near Buga, Colombia 17
+Cerro el Plateado, Colombia 23
+Whitefield, New Hampshire 4
+Minsk, Belarus, USSR 58
+Soldotna, Alaska 9
+Altus, Oklahoma 2
+Nasosny, Russia 57
+Central Point, Oregon 4
+Banjarmasin, Indonesia 9
+Near Durango, Vizcaya, Spain 148
+300 nm NW of San Francisco, California 0
+Timbuktu, Mali 50
+Near Valdez, Alaska 3
+Fort Hood, Texas 6
+Near Florencia, Colombia 46
+Salta, Argentina 7
+Athens, Louisiana 4
+Near Phuket, Thailand 11
+Las Cruces, New Mexico 0
+Tuba City, Arizona 6
+Kulusuk, Greenland 2
+Santa Rosa, Bolivia 4
+Near L'vov, Ukraine, USSR 76
+Off Tanegashima, Japan 17
+Vilanculos, Mozambique 5
+Golovin, Alaska 2
+Harrison, Arkansas 2
+Cabimas, Venezuela 2
+Nashville, Tennessee 2
+Athens, Greece 1
+Juara, Brazil 17
+AtlantiOcean, 110 miles West of Ireland 329
+Charlotte, North Carolina 2
+Near Uchuduk, Uzbekistan, USSR 200
+Near Erie, Pennsylvania 2
+Leticia, Colombia 80
+Ft. Worth-Dallas, Texas 134
+Mt. Osutaka, near Ueno Village, Japan 520
+Mulia, Indonesia 8
+Aden, Yemen 3
+Gulkana, Alaska 3
+Manchester, England 55
+Auburn, Maine 8
+Beale AFB, California 7
+Kokoda, Papua New Guinea 3
+Near Kandahar, Afghanistan 52
+Milwaukee, Wisconsin 31
+Afghanistan 26
+Grottoes Grove, Virginia 14
+Near Kharkov, Ukraine 9
+Jenkinsburg, Georgia 17
+Tory Canal, New Zealand 8
+VitÃ³ria da Conquista, Brazil 2
+Off South Head, Australia 2
+Near Beni, Bolivia 2
+Near Kutayissi, USSR 14
+Homer City, Pennsylvania 1
+Putao, Myanmar 4
+Near Juneau, Alaska 4
+Bethel, Alaska 2
+Dothan, Alabama 4
+Quinhagaki, Alaska 4
+Near Sibyak, Indonesia 11
+Luqa, Malta 60
+Near Luassingua, Angola 22
+Gander, Newfoundland, Canada 256
+Nepal 25
+De Kalb, Texas 7
+Near Peten, Guatemala 87
+Ellendale, Minnesota 3
+Sao Paulo, Brazil 1
+Las Lomitas, Mexico 21
+Kasongo, Zaire 2
+Off Makung, Taiwan 13
+Near Bugulma, Russia 38
+Bern, Switzerland 8
+Alpena, Michigan 3
+Near Naha, Indonesia 2
+Goose Bay, Newfoundland, Canada 4
+Omsk, Soviet Union 9
+Bangui, Central African Republic 0
+Near Pemba, Mozambique 49
+Maravatio, Mexico 167
+Near Athens, Greece 4
+Near Magdalena, New Mexico 11
+Near Saravena, Colombia 13
+San Salvador, El Salvador 37
+Near Taipei, Taiwan 22
+Colombo, Sri Lanka 22
+Hanty-Mansijsk, Soviet Union 5
+AtlantiCity, New Jersey 2
+Djibouti, Djibouti 19
+Antananarivo, Madagascar 13
+Near Cairo, Egypt 23
+Port Ellen, Islay Island 1
+Howard AFB, Panama 4
+Grand Canyon, Arizona 25
+Penza,  Russia 1
